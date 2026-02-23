@@ -1,0 +1,184 @@
+categoria,alimento,cantidad_sugerida,unidad,peso_bruto_redondeado_g,peso_neto_g,energia_kcal,proteina_g,lipidos_g,hidratos_carbono_g,sodio_mg,azucar_por_equivalente_g,indice_glucemico,carga_glucemica
+Azúcares sin grasa,Aderezos para ensalada bajos en calorías y grasa,1/3,taza,85,85,40,0.0,0.0,8.0,1066.6,8.0,ND,ND
+Azúcares sin grasa,Agua quina,1/3,lata,117,117,42,0.0,0.0,11.1,16.3,11.1,ND,ND
+Azúcares sin grasa,Ate,13,g,13,13,41,0.4,0.1,9.8,ND,9.2,51.0,5.0
+Azúcares sin grasa,Ate de guayaba,13,g,13,13,41,0.4,0.1,9.8,ND,9.2,51.0,5.0
+Azúcares sin grasa,Ate de membrillo,13,g,13,13,41,0.4,0.1,9.8,ND,9.2,51.0,5.0
+Azúcares sin grasa,Azúcar blanca,2,cucharadita,8,8,33,0.0,0.0,8.4,ND,8.4,68.0,5.7
+Azúcares sin grasa,Azúcar de mesa,2,cucharadita,8,8,33,0.0,0.0,8.4,ND,8.4,68.0,5.7
+Azúcares sin grasa,Azúcar glass,4,cucharadita,10,10,39,0.0,0.0,10.0,0.1,9.8,68.0,6.8
+Azúcares sin grasa,Azúcar granulada,2,cucharadita,8,8,33,0.0,0.0,8.4,ND,8.4,68.0,5.7
+Azúcares sin grasa,Azúcar mascabado,2,cucharadita,10,10,36,0.0,0.0,9.1,3.0,9.1,68.0,6.2
+Azúcares sin grasa,Azúcar morena,3,cucharadita,9,9,34,0.0,0.0,8.8,2.5,8.7,68.0,6.0
+Azúcares sin grasa,Bebida láctea fermentada,1,pieza,80,80,50,0.9,0.2,11.7,ND,11.4,46.0,5.4
+Azúcares sin grasa,Bebida para deportistas,1/4,bote sport,152,152,40,0.0,0.0,9.8,59.4,8.0,78.0,7.6
+Azúcares sin grasa,Bebida para deportistas en polvo,2,cucharadita,10,10,36,0.0,0.0,9.5,60.3,9.0,78.0,7.4
+Azúcares sin grasa,Boost,1/3,lata,78,78,33,0.3,0.0,7.9,0.6,7.9,ND,ND
+Azúcares sin grasa,Bubbaloo xtreme,1/2,pieza,8,8,33,0.1,0.0,8.1,0.2,5.7,ND,ND
+Azúcares sin grasa,Bubulubu,1/3,pieza,12,12,46,0.1,0.9,9.2,38.5,6.6,ND,ND
+Azúcares sin grasa,Burn,1/5,lata,62,62,36,0.2,0.0,9.0,28.0,9.0,ND,ND
+Azúcares sin grasa,Café capuchino helado,1/3,taza,80,80,43,0.7,0.8,8.0,40.0,7.0,ND,ND
+Azúcares sin grasa,Café capuchino instantáneo,2,cucharadita,8,8,32,0.2,0.4,6.9,14.4,5.5,ND,ND
+Azúcares sin grasa,Cajeta,1 1/2,cucharadita,9,9,36,0.5,1.0,6.4,7.7,ND,ND,ND
+Azúcares sin grasa,Caramelo,2,pieza pequeña,12,12,47,0.0,0.0,11.8,4.6,7.5,ND,ND
+Azúcares sin grasa,Caramelo de mantequilla,2,pieza,11,11,45,0.0,0.4,10.8,4.8,10.8,ND,ND
+Azúcares sin grasa,Caramelo macizo,2,pieza pequeña,12,12,47,0.0,0.0,11.8,4.6,7.5,ND,ND
+Azúcares sin grasa,Caramelo salvavidas,4,pieza,10,10,40,0.0,0.0,10.0,ND,10.0,70.0,7.0
+Azúcares sin grasa,Cáscara de naranja cristalizada,10,g,10,10,32,0.0,0.0,8.2,ND,ND,ND,ND
+Azúcares sin grasa,Castaña,2,pieza,22,22,44,0.4,0.3,9.9,0.4,ND,ND,ND
+Azúcares sin grasa,Castaña con cáscara,2,pieza,30,18,39,0.4,0.4,8.3,0.5,ND,ND,ND
+Azúcares sin grasa,Castaña asada,12,g,12,12,44,0.6,0.5,9.4,4.4,ND,ND,ND
+Azúcares sin grasa,Chewy candy,1/2,pieza,13,13,44,0.0,0.2,10.5,26.1,7.2,ND,ND
+Azúcares sin grasa,Chicle,5,pieza,15,15,37,0.0,0.0,9.9,0.2,9.9,ND,ND
+Azúcares sin grasa,Chicle bajo en azúcar,6,pieza,12,12,32,0.0,0.0,11.4,0.8,ND,ND,ND
+Azúcares sin grasa,Chicloso,1,pieza,12,12,46,0.3,1.1,8.7,15.5,5.4,ND,ND
+Azúcares sin grasa,Chocolate en polvo sin azúcar,2,cucharadita,10,10,40,2.0,1.0,6.0,ND,4.0,51.0,3.1
+Azúcares sin grasa,Cocoa en polvo,2,cucharadita,10,10,40,2.0,1.0,6.0,ND,4.0,51.0,3.1
+Azúcares sin grasa,Conos de helado,3,pieza,12,12,44,0.0,0.0,11.1,ND,ND,ND,ND
+Azúcares sin grasa,Crazy dips sabor frutas,1,sobre,12,12,45,0.0,0.0,12.0,ND,ND,ND,ND
+Azúcares sin grasa,Cubierta de chocolate,2,cucharadita,12,12,48,0.0,1.3,9.1,ND,0.0,ND,ND
+Azúcares sin grasa,Cubierta de fresa,3,cucharadita,16,16,41,0.0,0.0,10.6,3.4,0.0,ND,ND
+Azúcares sin grasa,Cubierta de piña,3,cucharadita,16,16,40,0.0,0.0,10.6,9.9,0.0,ND,ND
+Azúcares sin grasa,Danonino Yoghurt Bebible sabor fresa,1,pieza,90,90,63,0.6,1.4,12.1,24.6,10.4,ND,ND
+Azúcares sin grasa,Cueritos de fruta,1/2,pieza,11,11,39,0.0,0.3,9.0,33.3,5.2,99.0,8.9
+Azúcares sin grasa,Flan en polvo,1,cucharada,12,12,42,0.0,0.0,11.0,51.8,ND,ND,ND
+Azúcares sin grasa,Fruta cristalizada,15,g,15,15,45,0.5,0.1,11.0,ND,11.0,103.0,11.4
+Azúcares sin grasa,Gatorade variedad de sabores,200,ml,200,200,46,0.0,0.0,11.6,91.6,11.6,ND,ND
+Azúcares sin grasa,Gelatina,1/3,taza,59,59,37,0.7,0.0,8.4,44.6,8.0,ND,ND
+Azúcares sin grasa,Gelatina de Agua Dany sabores fresa limón mandarina mango mora azul piña uva,1 1/2,pieza,60,60,41,1.0,0.0,9.3,12.9,9.3,ND,ND
+Azúcares sin grasa,Gelatina de sabor en polvo,10,g,10,10,38,0.8,0.0,9.1,46.6,8.6,ND,ND
+Azúcares sin grasa,Gelatina en polvo para agua,10,g,10,10,38,0.8,0.0,9.1,46.6,8.6,ND,ND
+Azúcares sin grasa,Gelatina en polvo para leche,10,g,10,10,38,0.8,0.0,9.1,46.6,8.6,ND,ND
+Azúcares sin grasa,Gelatina preparada,4 1/2,cucharada,72,72,45,0.9,0.0,10.2,54.0,9.7,ND,ND
+Azúcares sin grasa,Gomitas,4,pieza,12,12,42,0.5,0.0,10.2,ND,7.1,ND,ND
+Azúcares sin grasa,Halls nite,1/2,pieza,8,8,31,0.1,0.0,7.6,ND,5.5,ND,ND
+Azúcares sin grasa,Jalea,2,cucharadita,13,13,42,0.0,0.0,10.7,3.3,6.5,ND,ND
+Azúcares sin grasa,Jarabe de chocolate,1,cucharada,18,18,49,0.4,0.2,11.4,12.7,8.7,ND,ND
+Azúcares sin grasa,Jarabe de sabor para preparar agua,1,cucharada,17,17,41,0.0,0.1,11.2,ND,ND,ND,ND
+Azúcares sin grasa,Jugo de caña de azúcar,1/4,taza,60,60,50,0.2,0.1,12.3,ND,ND,ND,ND
+Azúcares sin grasa,Jugo de ciruela pasa,1/4,taza,64,64,45,0.4,0.0,11.2,2.6,10.5,ND,ND
+Azúcares sin grasa,Jugo de cítricos preparado con agua,1/3,taza,80,80,37,0.2,0.0,9.2,3.2,6.5,50.0,4.6
+Azúcares sin grasa,Jugo de fruta concentrado,20,g,20,20,45,0.8,0.3,10.1,1.0,10.0,50.0,5.1
+Azúcares sin grasa,Jugo de frutas,1/3,taza,80,80,40,0.0,0.0,10.0,53.3,10.0,50.0,5.0
+Azúcares sin grasa,Jugo de zanahoria manzana y 3 frutas cítricas,1/3,taza,80,80,39,0.0,0.0,9.7,6.4,9.0,ND,ND
+Azúcares sin grasa,Jugo Natural'es de Lala,1,pieza,125,125,28,0.5,0.0,6.5,3.8,6.5,ND,ND
+Azúcares sin grasa,Leche condensada,2,cucharadita,11,11,36,0.9,1.0,6.1,14.2,6.1,61.0,3.7
+Azúcares sin grasa,Leche condensada light,1,cucharada,16,16,45,1.4,0.1,9.6,16.8,ND,ND,ND
+Azúcares sin grasa,Leche en polvo sabor chocolate con malvavisco,2,cucharada,14,14,56,0.6,0.3,12.6,19.0,11.5,ND,ND
+Azúcares sin grasa,Leche en polvo sabor fudge de chocolate,2,cucharada,14,14,56,0.6,0.3,12.6,19.0,11.5,ND,ND
+Azúcares sin grasa,Malvavisco,2,pieza,14,14,45,0.3,0.0,11.4,11.2,8.1,ND,ND
+Azúcares sin grasa,Malvavisco miniatura,18,pieza,13,13,40,0.2,0.0,10.2,10.1,7.3,ND,ND
+Azúcares sin grasa,Melaza,2 1/2,cucharadita,13,13,36,0.0,0.0,8.9,6.1,ND,ND,ND
+Azúcares sin grasa,Mentas de caramelo,6,pieza,10,10,41,0.0,0.0,10.2,ND,10.2,70.0,7.1
+Azúcares sin grasa,Merengue duro,11,pieza pequeña,11,11,42,0.2,0.0,10.2,ND,ND,ND,ND
+Azúcares sin grasa,Mermelada,2 1/2,cucharadita,17,17,41,0.1,0.0,10.0,0.2,8.1,48.0,4.8
+Azúcares sin grasa,Mermelada con fructosa,2 1/2,cucharada,43,43,40,0.0,0.0,10.0,50.0,10.0,ND,ND
+Azúcares sin grasa,Mermelada de fruta menos azúcar,2,cucharada,30,30,40,0.0,0.0,9.9,ND,9.9,ND,ND
+Azúcares sin grasa,Miel de abeja,2,cucharadita,14,14,43,0.0,0.0,11.5,0.6,11.5,55.0,6.3
+Azúcares sin grasa,Miel de caña,2,cucharadita,12,12,35,0.1,0.0,8.7,ND,ND,ND,ND
+Azúcares sin grasa,Miel de maíz,2,cucharadita,12,12,36,0.0,0.0,9.0,8.2,ND,ND,ND
+Azúcares sin grasa,Miel o jarabe sabor maple,2,cucharadita,12,12,31,0.0,0.0,8.1,1.1,7.1,ND,ND
+Azúcares sin grasa,Monster Energy,1/5,lata,96,96,72,0.0,0.0,11.0,72.0,11.0,ND,ND
+Azúcares sin grasa,Monster Kaos,1/5,lata,96,96,36,0.4,0.0,8.4,6.0,8.4,ND,ND
+Azúcares sin grasa,Mousse de chocolate sin grasa,1/4,taza,50,50,47,1.0,0.2,10.4,55.0,7.9,31.0,3.2
+Azúcares sin grasa,Néctar de fruta,1/4,taza,63,63,38,0.1,0.0,9.9,2.5,9.5,54.0,5.3
+Azúcares sin grasa,Nescafe Dolce Gusto Nestea peach,2,cápsula,12,12,42,0.0,0.0,10.0,ND,10.0,ND,ND
+Azúcares sin grasa,Nieve de frutas,40,g,40,40,40,0.2,0.1,9.7,0.0,9.7,ND,ND
+Azúcares sin grasa,Obleas de cajeta,1,pieza chica,7,7,30,0.7,0.7,5.3,15.3,5.3,ND,ND
+Azúcares sin grasa,Paleta de caramelo,2,pieza,12,12,44,0.0,0.0,11.8,0.0,11.8,70.0,8.3
+Azúcares sin grasa,Paleta helada de agua,1,pieza,52,52,41,0.0,0.1,10.0,3.6,7.1,ND,ND
+Azúcares sin grasa,Paleta helada de fruta,1/2,pieza,46,46,38,0.6,0.1,9.3,2.0,9.3,ND,ND
+Azúcares sin grasa,Paleta helada de fruta sin azúcar,3,pieza,153,153,36,0.9,0.3,9.6,9.0,9.6,ND,ND
+Azúcares sin grasa,Paleta helada de yogurt sabor coco,1/2,pieza,35,35,47,0.7,0.9,9.1,22.8,9.1,ND,ND
+Azúcares sin grasa,Panditas,1/3,bolsa,15,15,47,0.9,0.0,10.9,1.7,7.6,ND,ND
+Azúcares sin grasa,Pasitas con chocolate,11,pieza,11,11,43,0.5,1.6,7.5,4.0,6.8,ND,ND
+Azúcares sin grasa,Piloncillo,10,g,10,10,36,0.0,0.0,9.1,3.0,9.1,ND,ND
+Azúcares sin grasa,Piloncillo rallado,1,cucharada,10,10,36,0.0,0.0,9.1,3.0,9.1,ND,ND
+Azúcares sin grasa,Ponche de frutas,1/3,taza,79,79,36,0.0,0.0,9.2,4.0,ND,ND,ND
+Azúcares sin grasa,Queso de tuna,13,g,13,13,42,0.2,ND,10.3,ND,ND,ND,ND
+Azúcares sin grasa,Red Bull,1/3,lata,83,83,37,0.2,0.1,9.0,69.3,8.3,ND,ND
+Azúcares sin grasa,Refresco,1/4,lata,92,92,38,0.0,0.0,9.7,3.5,9.7,66.0,6.4
+Azúcares sin grasa,Refresco de cola,1/4,lata,92,92,38,0.0,0.0,9.7,3.5,9.7,58.0,5.6
+Azúcares sin grasa,Refresco de frutas,1/4,lata,89,89,44,0.0,0.0,11.1,59.2,11.1,ND,ND
+Azúcares sin grasa,Salsa catsup,2,cucharada,30,30,29,0.5,0.1,7.6,334.2,6.8,ND,ND
+Azúcares sin grasa,Salsa de manzana,1,cucharada,16,16,42,0.1,0.0,10.7,37.1,7.2,ND,ND
+Azúcares sin grasa,Salsa de tamarindo,25,g,25,25,40,0.3,0.7,8.8,131.5,3.5,ND,ND
+Azúcares sin grasa,Salsa demiglass,1/3,taza,63,63,36,1.3,0.5,7.5,576.2,3.5,ND,ND
+Azúcares sin grasa,Skwinkes clásicos,1/2,paquete,10,10,35,0.5,0.2,8.1,75.0,5.0,ND,ND
+Azúcares sin grasa,Té helado en polvo,4,cucharadita,10,10,41,0.0,0.1,10.1,0.5,9.7,ND,ND
+Azúcares con grasa,Aderezo blue cheese bajo en calorías,4,cucharada,60,60,86,1.7,15.0,10.4,582.9,5.1,ND,ND
+Azúcares con grasa,Aderezo de miel,4,cucharada,64,64,70,2.5,2.4,10.7,526.7,7.7,ND,ND
+Azúcares con grasa,Aderezo de miel y mostaza bajo en calorías,3,cucharada,45,45,64,1.3,1.8,14.1,424.3,6.4,ND,ND
+Azúcares con grasa,Aderezo francés bajo en calorías,4,cucharada,60,60,79,0.0,3.4,13.1,472.5,ND,ND,ND
+Azúcares con grasa,Aderezo mil islas bajo en calorías,4,cucharada,60,60,96,0.4,6.4,9.6,600.0,ND,ND,ND
+Azúcares con grasa,Aderezo ranch bajo en calorías,3,cucharada,45,45,64,1.3,2.8,14.1,398.6,2.6,ND,ND
+Azúcares con grasa,Aderezo ruso bajo en calorías,3,cucharada,45,45,65,0.3,1.7,12.4,390.9,ND,ND,ND
+Azúcares con grasa,Aderezo tipo cesar bajo en calorías,3,cucharada,45,45,87,1.5,7.3,2.9,812.9,2.9,ND,ND
+Azúcares con grasa,Almendra con chocolate,15,g,15,15,77,1.4,5.6,6.6,1.4,4.0,ND,ND
+Azúcares con grasa,Almond joy,1/3,pieza,16,16,80,4.3,4.3,9.4,23.8,7.4,ND,ND
+Azúcares con grasa,Almond joy miniatura,1,pieza,20,20,98,5.3,5.3,11.7,29.4,9.1,ND,ND
+Azúcares con grasa,Cacahuate confitado (chocolate),4,pieza,16,16,83,2.1,5.4,8.0,6.6,6.0,33.0,2.6
+Azúcares con grasa,Carlos V,1/2,pieza,11,11,56,0.4,2.8,7.4,16.5,6.6,ND,ND
+Azúcares con grasa,Chispas chocolate hershey,5,cucharadita,17,17,89,0.8,4.8,10.7,2.2,8.7,43.0,4.6
+Azúcares con grasa,Chispas de chocolate,5,cucharadita,18,18,94,1.3,5.2,10.4,13.8,8.9,43.0,4.5
+Azúcares con grasa,Chocolate amargo,1/3,pieza,14,14,70,0.7,4.4,8.0,0.5,6.3,43.0,3.5
+Azúcares con grasa,Chocolate blanco,15,g,15,15,81,0.9,4.8,8.9,13.5,8.9,44.0,3.9
+Azúcares con grasa,Chocolate blanco sin azúcar,19,g,19,19,90,1.7,6.7,9.9,ND,ND,35.0,3.5
+Azúcares con grasa,Chocolate con arroz tostado,1/3,barra,13,13,70,1.0,3.9,7.9,11.4,6.7,ND,ND
+Azúcares con grasa,Chocolate con almendra,1/3,barra,15,15,77,1.3,5.0,7.8,10.9,6.4,ND,ND
+Azúcares con grasa,Chocolate con azúcar,15,g,15,15,70,0.6,2.5,11.3,5.0,ND,43.0,4.8
+Azúcares con grasa,Chocolate con galleta y caramelo,1/2,barra,15,15,75,0.7,3.7,9.7,29.7,7.2,44.0,4.3
+Azúcares con grasa,Chocolate con leche,15,g,15,15,64,1.4,1.6,11.1,57.3,ND,43.0,4.8
+Azúcares con grasa,Chocolate con leche con menos del 10% proteínas,14,g,14,14,60,1.3,1.5,10.3,53.5,ND,ND,ND
+Azúcares con grasa,Chocolate con leche y almendras sin azúcar,15,g,15,15,86,1.5,6.3,6.0,24.5,5.3,ND,ND
+Azúcares con grasa,Chocolate con nugat,1/3,pieza,19,19,87,0.8,3.3,13.6,32.3,11.5,ND,ND
+Azúcares con grasa,Chocolate con nugat y cacahuate,1/3,pieza,19,19,90,1.4,4.5,11.5,46.7,9.6,41.0,4.7
+Azúcares con grasa,Chocolate de coco y almendra,1/3,pieza,16,16,78,0.7,4.4,9.7,23.2,7.9,ND,ND
+Azúcares con grasa,Chocolate de leche,2/3,pieza,17,17,88,1.3,4.9,9.8,13.0,8.4,43.0,4.2
+Azúcares con grasa,Chocolate de menta,2,pieza,17,17,68,0.3,2.0,12.8,0.2,11.2,ND,ND
+Azúcares con grasa,Chocolate en polvo con más del 10% proteínas,15,g,15,15,60,1.9,1.0,11.0,14.1,ND,ND,ND
+Azúcares con grasa,Chocolate en polvo con menos del 10% proteínas,12,g,12,12,48,0.9,0.4,10.1,45.8,ND,ND,ND
+Azúcares con grasa,Chocolate en polvo DICONSA,25,g,25,25,94,15.0,1.1,6.0,162.5,5.4,54.0,3.2
+Azúcares con grasa,Chocolate en polvo sin azúcar,3,cucharadita,15,15,60,3.0,1.5,9.0,ND,ND,ND,ND
+Azúcares con grasa,Chocolate fundido,3/4,cucharada,14,14,59,0.3,1.5,10.9,6.4,10.4,43.0,4.7
+Azúcares con grasa,Chocolate rallado,5,cucharadita,17,17,87,0.9,5.4,9.9,0.7,7.7,43.0,4.3
+Azúcares con grasa,Chocolate semi amargo,17,g,17,17,81,0.7,5.1,10.7,1.9,9.3,43.0,4.6
+Azúcares con grasa,Chocolate sin azúcar,15,g,15,15,85,2.1,5.8,6.1,0.5,ND,35.0,2.1
+Azúcares con grasa,Cocada,3/4,pieza,21,21,92,5.3,5.3,12.8,30.0,6.0,ND,ND
+Azúcares con grasa,Crema en polvo para café,9,cucharadita,18,18,98,0.9,6.4,9.9,32.6,9.9,ND,ND
+Azúcares con grasa,Flan casero,1/5,taza,61,61,89,2.8,2.5,13.9,32.4,14.2,65.0,9.0
+Azúcares con grasa,Flan Danette,1/2,pieza,50,50,54,1.5,1.5,8.6,52.0,8.5,ND,ND
+Azúcares con grasa,Flan de caja preparado con leche descremada,1/5,taza,61,61,63,1.8,1.1,11.5,69.2,ND,ND,ND
+Azúcares con grasa,Flan de caja preparado con leche entera,1/5,taza,61,61,69,1.8,1.8,11.4,68.5,ND,ND,ND
+Azúcares con grasa,Gelatina de Leche Danette sabor cajeta,1/2,pieza,50,50,66,2.7,1.9,9.6,58.8,9.0,ND,ND
+Azúcares con grasa,Gelatina de Leche Danette sabor coco,1/2,pieza,50,50,66,2.7,1.9,9.5,57.2,8.9,ND,ND
+Azúcares con grasa,Gelatina de Leche Danette sabor fresa,1/2,pieza,50,50,66,2.7,1.9,9.5,57.0,9.0,ND,ND
+Azúcares con grasa,Gelatina de Leche Danette sabor vainilla,1/2,pieza,50,50,66,2.7,1.9,9.5,57.2,8.9,ND,ND
+Azúcares con grasa,Hershey's creme'n Arandano,1/4,pieza,11,11,57,3.1,3.1,6.2,13.7,5.2,ND,ND
+Azúcares con grasa,Jarabe de coco,5,cucharada,85,85,83,0.4,3.9,6.5,ND,ND,ND,ND
+Azúcares con grasa,Kinder delice,1/2,paquete,21,21,95,5.9,5.9,9.0,20.0,7.4,ND,ND
+Azúcares con grasa,Kranky,1/3,paquete,15,15,67,2.2,2.2,11.0,27.0,6.6,ND,ND
+Azúcares con grasa,Lunetas,1/3,paquete (50),16,16,79,0.7,3.4,11.4,9.7,10.1,33.0,3.8
+Azúcares con grasa,Malvavisco con chocolate,1/2,pieza,14,14,59,0.6,2.4,9.5,23.5,6.3,ND,ND
+Azúcares con grasa,Mayonesa baja en grasa,2,cucharada,28,28,93,0.0,1.9,9.5,149.0,9.5,ND,ND
+Azúcares con grasa,Mayonesa light,2,cucharada,28,28,93,0.0,1.9,9.5,149.0,9.5,ND,ND
+Azúcares con grasa,Mazapan,3/4,pieza,19,19,85,3.8,3.8,11.3,0.0,9.8,ND,ND
+Azúcares con grasa,Menta cubierta con chocolate,1 1/2,pieza,14,14,55,0.2,1.5,10.9,24.5,ND,ND,ND
+Azúcares con grasa,Mole,3,cucharada,48,48,79,1.7,5.3,6.2,64.3,ND,ND,ND
+Azúcares con grasa,Mole de pepita,1,cucharada,16,16,82,0.9,5.0,8.2,406.8,ND,ND,ND
+Azúcares con grasa,Mole poblano,1,cucharada,16,16,91,1.2,6.7,6.7,186.2,ND,ND,ND
+Azúcares con grasa,Mole poblano en pasta,1,cucharada,16,16,91,1.2,6.7,6.7,186.2,ND,ND,ND
+Azúcares con grasa,Mole poblano preparado,3,cucharada,48,48,79,1.7,5.3,6.2,64.3,ND,ND,ND
+Azúcares con grasa,Mousse de chocolate,1/4,taza,50,50,71,1.0,2.3,11.5,76.0,8.6,ND,ND
+Azúcares con grasa,Natilla Danette sabor Chocolate,1/2,pieza,50,50,65,1.7,1.8,10.4,59.8,8.8,ND,ND
+Azúcares con grasa,Natilla Danette sabor Vainilla,1/2,pieza,50,50,60,1.5,1.8,9.3,60.2,7.9,ND,ND
+Azúcares con grasa,Palanqueta de cacahuate,1/3,pieza,15,15,78,2.3,5.0,7.0,23.2,6.3,ND,ND
+Azúcares con grasa,Paleta helada de café con cubierta de chocolate y almendras,1/5,pieza,21,21,74,1.0,5.3,5.5,ND,5.3,37.0,2.0
+Azúcares con grasa,Paleta helada de chocolate cubierta con chocolate,1/5,pieza,21,21,72,1.0,4.9,5.9,10.8,ND,37.0,2.2
+Azúcares con grasa,Paleta helada de crema con café cubierta de chocolate y almendras,1/5,pieza,21,21,74,1.0,5.3,5.5,ND,5.3,ND,ND
+Azúcares con grasa,Paleta helada de vainilla cubierta con chocolate,1/4,pieza,24,24,83,1.1,5.7,6.9,13.5,ND,38.0,2.6
+Azúcares con grasa,Paleta helada de vainilla cubierta con chocolate y almendras,1/4,pieza,23,23,80,1.0,5.8,5.8,11.8,ND,ND,ND
+Azúcares con grasa,Pipián,15,g,15,15,77,0.9,4.7,7.7,381.4,ND,ND,ND
+Azúcares con grasa,Rompope sin alcohol,1/4,taza,64,64,86,2.4,4.8,8.6,34.5,5.3,ND,ND
+Azúcares con grasa,Salsa de cebollín,25,g,25,25,63,0.3,4.7,3.3,24.1,2.7,ND,ND
+Azúcares con grasa,Salsa de Epazote,40,g,40,40,82,1.3,6.2,4.7,178.5,1.4,ND,ND

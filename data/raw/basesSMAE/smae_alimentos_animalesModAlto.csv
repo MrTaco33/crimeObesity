@@ -1,0 +1,212 @@
+alimento,cantidad_sugerida,unidad,peso_bruto_g,peso_neto_g,energia_kcal,proteina_g,lipidos_g,hc_g,colesterol_mg,vitamina_a_ug_re,calcio_mg,hierro_mg,sodio_mg,selenio_ug,categoria_grasa
+Arenque marinado,1/4,filete,46,46,73,8.3,4.2,0.0,27.6,12.9,26.2,0.5,41.4,16.8,moderado
+Bistec de bola,25,g,25,25,71,7.2,4.5,0.0,24.0,0.0,1.5,0.8,12.5,5.0,moderado
+Bola de res,25,g,25,25,71,7.2,4.5,0.0,24.0,0.0,1.5,0.8,12.5,5.0,moderado
+Boquerones (fritos),40,g,40,40,70,7.7,4.1,0.1,ND,ND,67.2,0.0,0.0,5.6,moderado
+Carne de suadero,29,g,29,29,76,7.8,4.8,0.0,20.9,0.0,1.7,1.0,20.3,0.0,moderado
+Carne deshebrada,30,g,30,30,75,7.4,4.8,0.0,24.6,0.0,2.1,0.7,14.7,5.9,moderado
+Carne molida extra magra cocida,30,g,30,30,75,7.4,4.8,0.0,24.6,0.0,2.1,0.7,14.7,3.8,moderado
+Carne molida extra magra salteada,30,g,30,30,77,7.5,4.9,0.0,24.3,0.0,2.1,0.7,21.0,3.8,moderado
+Caviar,5,cucharadita,27,27,67,6.6,4.8,1.1,156.6,72.2,73.3,3.2,399.8,17.5,moderado
+Caviar negro,5,cucharadita,27,27,67,6.6,4.8,1.1,156.6,72.2,73.3,3.2,399.8,17.5,moderado
+Caviar rojo,5,cucharadita,27,27,67,6.6,4.8,1.1,156.6,72.2,73.3,3.2,399.8,17.5,moderado
+Chicharrón,12,g,12,12,72,6.9,4.7,0.0,8.9,ND,7.3,0.3,0.0,0.0,moderado
+Chicharrón de cerdo,12,g,12,12,72,6.9,4.7,0.0,8.9,ND,7.3,0.3,0.0,0.0,moderado
+Chicharrón de puerco,12,g,12,12,72,6.9,4.7,0.0,8.9,ND,7.3,0.3,0.0,0.0,moderado
+Costillar de cerdo,50,g,50,33,69,6.5,4.6,0.0,19.5,0.7,1.6,0.2,13.7,10.4,moderado
+Costillitas de cerdo,50,g,50,33,69,6.5,4.6,0.0,19.5,0.7,1.6,0.2,13.7,10.4,moderado
+Gusanos de maguey,35,g,35,35,70,5.8,4.8,0.0,ND,ND,49.7,1.5,0.0,0.0,moderado
+"Huevo ""enriquecido con DHA-Omega 3 y Vitamina E""",1,pieza,63,55,70,6.0,4.5,0.7,199.7,ND,ND,ND,70.0,16.5,moderado
+Huevo agra,1,pieza,63,55,70,6.0,4.5,0.7,199.7,ND,ND,ND,70.0,16.5,moderado
+Huevo batido o revuelto cocido,3,cucharada,41,41,69,4.6,5.0,0.9,144.7,57.5,29.2,0.5,115.1,9.2,moderado
+Huevo blanco cocido,1,pieza,50,44,68,5.5,4.7,0.5,186.6,73.9,22.0,0.5,54.6,13.6,moderado
+Huevo deshidratado,2 1/2,cucharada,13,13,76,6.0,5.4,0.2,203.8,62.5,29.5,0.5,60.0,ND,moderado
+Huevo en polvo,2 1/2,cucharada,13,13,76,6.0,5.4,0.2,203.8,62.5,29.6,0.5,60.0,ND,moderado
+Huevo entero cocido,1,pieza,50,44,68,5.5,4.7,0.5,186.6,73.9,22.0,0.5,54.6,13.6,moderado
+Huevo entero fresco,1,pieza,50,44,63,5.5,4.4,0.3,186.1,61.6,23.3,0.8,61.6,13.9,moderado
+Huevo fresco,1,pieza,50,44,63,5.5,4.4,0.3,186.1,61.6,23.3,0.8,61.6,13.9,moderado
+Huevo pochado,1,pieza,50,50,71,6.3,5.0,0.4,211.0,69.5,26.5,0.9,147.0,15.8,moderado
+Huevo rojo cocido,1,pieza,50,44,68,5.5,4.7,0.5,186.6,73.9,22.0,0.5,54.6,13.6,moderado
+Longaniza de primera,45,g,45,44,78,7.3,5.2,0.0,ND,6.6,17.6,2.1,0.0,19.1,moderado
+Macarela cocida,1/3,filete,29,29,76,6.9,5.2,0.0,21.9,15.7,4.4,0.5,24.1,15.0,moderado
+Macarela fresca,1/3,filete,37,37,76,6.9,5.1,0.0,25.9,18.7,4.3,0.6,33.5,13.5,moderado
+Muslo de pollo con piel cocido con hueso,1/3,pieza,43,33,76,7.6,4.8,0.0,27.4,14.3,3.6,0.4,23.1,7.7,moderado
+Muslo de pollo con piel crudo con hueso,1/3,pieza,43,34,72,5.9,5.2,0.0,28.5,13.9,3.4,0.3,25.8,4.4,moderado
+Orejas de cerdo,1/4,pieza,28,28,66,6.3,4.3,0.2,23.2,0.0,5.9,0.7,54.0,1.2,moderado
+Pata de cerdo cocidas,150,g,150,51,71,5.9,5.1,0.0,42.3,5.6,16.3,0.2,285.6,8.1,moderado
+Patas de cerdo en escabeche,150,g,150,51,71,5.9,5.1,0.0,42.3,5.6,16.3,0.2,285.6,8.1,moderado
+Patitas de cerdo encurtidas sin hueso,150,g,150,51,71,5.9,5.1,0.0,42.3,5.6,16.3,0.2,285.6,8.1,moderado
+Pecho de res,50,g,50,37,76,6.4,5.4,0.0,25.9,6.6,2.6,0.2,25.9,2.4,moderado
+Pierna de pollo con piel cocida,1/3,pieza,63,36,79,8.7,4.6,0.0,30.2,12.9,4.0,0.5,26.2,8.5,moderado
+Pierna y muslo de pollo con piel,1/5,pieza,61,40,74,7.2,4.8,0.0,32.9,14.3,4.0,0.4,31.3,5.0,moderado
+Queso blanco,35,g,35,35,77,6.0,5.1,1.8,26.3,22.5,ND,ND,ND,5.1,moderado
+Queso de soya,2,rebanada,56,56,84,7.0,4.6,3.8,ND,ND,106.0,0.0,12.0,0.0,moderado
+Queso holandés,20,g,20,20,75,6.7,5.2,1.6,17.0,56.6,165.8,0.3,0.0,1.8,moderado
+Queso Monterrey bajo en grasa,1,rebanada,28,28,88,7.9,6.0,0.2,18.0,40.0,197.0,0.2,158.0,0.0,moderado
+Queso Mozzarella reducido en grasa,1,rebanada,28,28,71,6.8,4.5,0.8,17.9,35.6,219.0,0.1,173.3,0.0,moderado
+Queso mozzarella semidescremado,30,g,30,30,76,7.3,4.8,0.8,19.2,37.2,234.6,0.1,185.7,4.3,moderado
+Queso Muenster bajo en grasa,1,rebanada,28,28,77,6.9,4.9,14.1,18.0,49.0,148.0,0.1,168.0,0.0,moderado
+Queso parmesano,3 1/2,cucharada,18,18,75,6.7,5.0,0.9,15.4,20.5,194.1,0.2,267.6,3.0,moderado
+Queso parmesano duro,20,g,20,20,78,7.2,5.2,0.6,13.6,21.2,236.8,0.2,320.4,4.5,moderado
+Queso parmesano en trozo,20,g,20,20,78,7.2,5.2,0.6,13.6,21.2,236.8,0.2,320.4,4.5,moderado
+Queso parmesano rallado,3 1/2,cucharada,18,18,75,6.7,5.0,0.9,15.4,20.5,194.1,0.2,267.6,3.0,moderado
+Queso ricotta semidescremado,55,g,55,55,76,6.3,4.3,2.8,16.9,57.8,149.5,0.2,68.8,9.2,moderado
+Queso Tipo Americano Lala Light,30,g,30,30,63,5.0,3.8,1.7,ND,ND,ND,ND,480.0,ND,moderado
+Salami de pavo,6,rebanada,42,42,72,8.1,3.9,0.7,31.9,0.8,16.8,0.5,421.7,11.1,moderado
+Salchicha de pavo,1,pieza,61,61,120,14.6,6.4,1.0,56.4,6.7,13.5,0.9,407.3,0.0,moderado
+Salchicha vegetariana,1,pieza,25,25,64,4.6,4.5,2.5,ND,ND,15.8,0.9,222.0,1.9,moderado
+Salmón en aceite,35,g,35,35,71,7.6,4.9,0.0,28.0,6.3,27.7,0.3,165.6,16.1,moderado
+Sardinas en aceite,3,pieza,36,36,75,8.9,4.1,0.0,51.1,11.5,137.5,1.1,181.8,19.0,moderado
+Sardinas en tomate,1,pieza,38,38,71,7.9,4.0,0.3,23.2,12.2,91.2,0.9,157.3,15.4,moderado
+Sesos de cerdo cocidos,50,g,50,50,69,6.1,4.8,0.0,1276.0,0.0,4.5,0.9,45.5,9.3,moderado
+Sesos de cordero cocidos,50,g,50,50,73,6.3,5.1,0.0,1021.5,0.0,6.0,0.8,67.0,6.0,moderado
+Sesos de ternera cocidos,50,g,50,50,68,5.7,4.8,0.0,1550.0,0.0,8.0,0.8,78.0,5.5,moderado
+Sierra,50,g,50,38,78,7.3,5.2,0.0,30.0,50.6,1.9,0.4,0.0,5.3,moderado
+Sierra fileteada,35,g,35,35,73,6.8,4.9,0.0,28.0,47.3,1.8,0.4,0.0,4.9,moderado
+Sierra picada,35,g,35,35,73,6.8,4.9,0.0,28.0,47.3,1.8,0.4,0.0,4.9,moderado
+Suadero crudo,29,g,29,29,76,7.8,4.8,0.0,20.9,0.0,1.7,1.0,20.3,0.0,moderado
+Sustituto de queso mozzarella,1,rebanada,28,28,69,3.2,3.4,6.6,ND,122.0,171.0,0.1,192.0,0.0,moderado
+Alón de pollo con piel cocido,1,pieza,98,51,117,11.6,8.6,0.0,35.7,20.4,6.1,0.6,34.1,9.4,alto
+Alón de pollo con piel crudo,1,pieza,95,51,114,9.4,8.2,0.0,39.5,22.6,6.2,0.5,37.4,8.0,alto
+Añejo tipo cotija,2,cucharada,24,24,70,6.8,8.0,0.3,20.4,156.0,206.4,0.6,0.0,1.0,alto
+Carne de res semigrasosa,40,g,40,38,98,7.0,7.5,0.0,26.2,3.4,2.7,0.8,22.4,1.4,alto
+Carne molida popular de res,40,g,40,33,97,5.2,8.3,0.0,24.3,3.9,2.6,0.6,19.4,0.7,alto
+Carne molida regular,40,g,40,40,107,7.2,8.5,0.0,29.6,4.8,4.0,1.1,26.0,0.9,alto
+Carne molida regular cocida,35,g,35,35,100,8.1,7.3,0.0,30.5,0.0,3.5,0.8,21.0,1.0,alto
+Carne obscura de pollo con piel,40,g,40,40,95,6.7,7.3,0.0,32.4,19.6,4.4,0.4,29.2,1.9,alto
+Cecina de res,50,g,50,50,98,7.3,7.4,0.0,42.6,0.0,3.5,0.8,602.4,1.4,alto
+Cerdo en canal,40,g,40,28,111,3.8,10.6,0.0,20.7,0.6,1.4,0.2,12.3,1.1,alto
+Cheez whiz,2,cucharada,33,33,91,4.0,6.9,3.0,24.8,ND,118.5,0.1,540.5,ND,alto
+Chuleta de carnero,40,g,40,36,105,5.6,9.0,0.0,25.6,0.0,1.8,0.8,27.0,2.1,alto
+Chuleta de cordero entera,1/3,pieza,82,45,94,8.3,6.5,0.0,29.9,ND,5.0,0.8,26.8,0.6,alto
+Cordero,50,g,46,37,104,6.1,8.6,0.0,26.9,0.0,5.9,0.6,21.7,1.2,alto
+Costilla de carnero,45,g,45,36,105,5.6,9.0,0.0,25.6,0.0,1.8,0.8,27.0,2.1,alto
+Costilla de res,40,g,40,29,112,4.5,10.3,0.0,21.6,0.0,2.3,0.5,15.2,0.7,alto
+Espaldilla,45,g,45,36,99,5.8,8.2,0.0,25.9,0.7,1.8,0.4,22.7,1.1,alto
+Espaldilla de cerdo,45,g,45,36,99,5.8,8.2,0.0,25.9,0.7,1.8,0.4,22.7,1.1,alto
+Espinazo,45,g,45,36,99,5.8,8.2,0.0,25.9,0.7,1.8,0.4,22.7,1.1,alto
+Espinazo de cerdo,45,g,45,36,99,5.8,8.2,0.0,25.9,0.7,1.8,0.4,22.7,1.1,alto
+Fondue de queso,3 1/2,cucharada,46,46,104,6.5,6.1,1.7,20.6,ND,216.5,0.2,60.2,0.6,alto
+Huevo de gansa,1/2,pieza,72,63,116,8.7,8.3,0.8,533.7,115.9,37.8,2.3,86.6,3.2,alto
+Huevo de pato,1,pieza,70,62,114,7.9,8.5,0.9,544.7,118.3,39.6,2.4,89.8,2.9,alto
+Huevo de pavo,1,pieza,79,70,119,9.5,8.3,0.8,648.6,115.4,68.6,2.9,105.0,23.8,alto
+Huevo estrellado,1,pieza,46,46,90,6.3,7.0,0.4,210.2,88.8,27.1,0.9,93.8,2.1,alto
+Huevo frito,1,pieza,46,46,90,6.3,7.0,0.4,210.2,88.8,27.1,0.9,93.8,2.1,alto
+Huevo revuelto,60,g,60,60,100,6.7,7.3,1.3,211.5,84.0,42.6,0.7,168.0,1.5,alto
+Jamón ahumado,1 1/2,rebanada delgada,32,32,95,4.9,8.2,0.2,28.0,0.0,3.0,0.4,382.5,0.8,alto
+Jamón americano,1 1/2,rebanada delgada,32,32,95,4.9,8.2,0.2,28.0,0.0,3.2,0.4,391.2,0.8,alto
+Jamón bajo en sodio,1 1/2,rebanada delgada,27,27,82,4.2,7.0,0.2,24.0,0.0,1.7,0.4,225.4,0.7,alto
+Jamón cocido,1 1/2,rebanada delgada,32,32,95,4.9,8.2,0.2,28.0,0.0,3.0,0.5,424.5,0.8,alto
+Jamón del diablo,3 1/2,cucharada,40,40,100,6.2,8.6,0.0,28.6,0.0,0.0,0.3,333.3,2.7,alto
+Jamón horneado,1 1/2,rebanada delgada,32,32,95,4.9,8.2,0.2,28.0,0.0,3.2,0.4,391.2,0.8,alto
+Jamón Virginia,1 1/2,rebanada delgada,32,32,95,4.9,8.2,0.2,28.0,0.0,3.0,0.5,424.5,0.8,alto
+Jumiles,20,g,20,20,89,6.4,6.8,0.0,0.0,0.0,15.6,2.0,0.0,0.0,alto
+Lengua de cerdo cocida,30,g,30,30,81,7.2,5.6,0.0,43.8,0.0,5.7,1.5,32.7,4.7,alto
+Lengua de res cocida,45,g,45,35,100,6.8,7.8,0.0,46.3,0.0,1.8,0.9,22.8,0.9,alto
+Maciza de cerdo,35,g,35,35,92,5.9,7.4,0.0,25.2,0.7,4.9,0.3,19.6,1.5,alto
+Maciza de puerco,35,g,35,35,92,5.9,7.4,0.0,25.2,0.7,4.9,0.3,19.6,1.5,alto
+Molida de carnero,40,g,40,38,96,6.9,7.4,0.0,27.0,0.0,2.7,1.0,30.4,2.6,alto
+Molida popular de res,40,g,40,33,97,5.2,8.3,0.0,24.3,3.9,2.6,0.6,19.4,1.0,alto
+Morcilla,1,rebanada gruesa,25,25,95,3.7,8.6,0.3,30.0,0.0,1.5,1.6,170.0,0.6,alto
+Morcilla de arroz,1,rebanada gruesa,25,25,95,3.7,8.6,0.3,30.0,0.0,1.5,1.6,170.0,0.6,alto
+Moronga,1,rebanada gruesa,25,25,95,3.7,8.6,0.3,30.0,0.0,1.5,1.6,170.0,0.6,alto
+Mortadela,1 1/2,rebanada,32,32,99,5.3,8.0,1.1,18.3,0.0,6.3,0.4,392.7,0.0,alto
+Mozzarella fresco,35,g,35,35,105,7.8,7.8,0.8,27.5,60.9,176.8,0.2,219.5,1.3,alto
+Nugget de pollo,2,pieza,34,34,101,5.2,6.7,4.8,14.6,0.0,10.5,0.4,189.4,0.9,alto
+Nugget de queso,3,pieza,43,43,105,4.5,5.5,10.0,5.0,0.0,75.2,0.2,531.2,0.9,alto
+Nuguet de soya,2,pieza,34,34,98,4.8,6.4,5.3,0.8,0.0,16.0,0.6,283.6,0.0,alto
+Ostión ahumado,55,g,55,55,109,4.9,6.9,6.4,44.6,49.8,34.3,3.8,229.7,3.8,alto
+Ostión empanizado,55,g,55,55,109,4.9,6.9,6.4,44.6,49.8,34.3,3.8,229.7,3.8,alto
+Palitos de pescado congelados,1 1/2,pieza,42,42,116,6.6,5.3,10.1,48.0,13.5,9.0,0.3,247.5,5.9,alto
+Paloma,45,g,45,35,102,6.4,8.2,0.0,32.9,25.3,4.2,1.2,18.7,0.9,alto
+Pastel de pavo,1 1/2,rebanada,32,32,105,3.9,9.6,0.6,19.5,0.0,1.5,0.2,406.5,1.3,alto
+Pastel de pollo,40,g,40,40,106,4.0,8.7,2.9,28.6,0.0,41.4,0.7,511.4,0.6,alto
+Pastel de puerco,1 1/2,rebanada,32,32,105,3.9,9.6,0.6,19.5,0.0,1.5,0.2,406.5,0.6,alto
+Pastel de ternera,40,g,40,40,106,4.0,8.7,2.9,28.6,0.0,41.4,0.7,511.4,0.6,alto
+Pata de carnero cocida,50,g,50,35,38,7.4,7.4,0.0,0.0,0.0,18.2,0.4,0.0,2.8,alto
+Peperami,3/4,pieza,19,19,103,4.0,9.3,1.0,25.3,31.9,13.1,0.6,277.5,0.0,alto
+Peperoni,10,rebanada,20,20,99,4.5,8.8,0.0,21.0,0.0,4.4,0.3,330.6,1.6,alto
+Pescuezo de pollo con piel sin hueso,1,pieza,50,32,95,4.5,8.4,0.0,31.7,20.8,5.8,0.6,20.5,0.5,alto
+Pollo crispy,45,g,45,34,106,5.4,7.1,5.1,20.0,0.0,5.7,0.3,154.4,0.7,alto
+Pollo rostizado,1/3,pieza,50,28,80,6.7,6.3,0.0,0.0,57.4,2.8,0.5,0.0,1.6,alto
+Pulpa de res,25,g,25,25,87,6.8,6.5,0.0,26.0,0.0,3.3,0.8,16.3,1.3,alto
+Queso amarillo,2,rebanada,42,42,100,7.0,5.9,4.9,15.1,47.9,236.0,0.1,564.9,1.1,alto
+Queso americano fundido,7,cucharadita,39,39,105,5.8,8.2,2.3,23.3,0.0,175.0,0.0,653.3,0.8,alto
+Queso añejo,25,g,25,25,95,5.4,7.6,1.2,26.8,16.1,172.3,0.1,286.6,0.8,alto
+Queso añejo rallado,4,cucharada,29,29,109,6.3,8.7,1.3,30.8,18.5,198.2,0.1,329.7,0.9,alto
+Queso asadero,1,rebanada,28,28,100,6.4,8.0,0.8,30.0,18.0,187.0,0.1,186.0,0.9,alto
+Queso blue cheese,30,g,30,30,106,6.4,8.6,0.7,22.5,69.6,160.7,0.1,424.3,0.9,alto
+Queso brick,25,g,25,25,94,5.9,7.5,0.7,24.1,76.8,170.5,0.1,142.0,0.9,alto
+Queso brie,30,g,30,30,102,6.3,8.4,0.1,30.0,55.7,55.7,0.2,190.7,0.9,alto
+Queso camembert,35,g,35,35,106,7.0,8.6,0.1,25.0,88.8,137.5,0.1,298.8,1.0,alto
+Queso canasto,30,g,30,30,87,8.5,10.0,0.4,25.5,195.0,258.0,0.7,0.0,1.2,alto
+Queso cheddar,3/4,rebanada,21,21,85,5.2,7.0,0.3,22.1,63.6,151.5,0.1,130.3,0.7,alto
+Queso cheddar rallado,1/4,taza,28,28,114,7.0,9.4,0.4,29.8,85.5,203.8,0.2,175.3,1.0,alto
+Queso Cheezwiz,2,cucharada,33,33,91,4.0,6.9,3.0,24.8,ND,118.5,0.1,540.5,ND,alto
+Queso Cheshire,1,rebanada,28,28,108,6.5,8.6,1.3,29.0,65.0,180.0,0.1,196.0,0.0,alto
+Queso chihuahua,25,g,25,25,94,5.4,7.5,1.4,26.3,16.1,162.8,0.1,156.3,0.8,alto
+Queso Chihuahua fresco,1,rebanada,28,28,105,6.0,8.4,1.6,29.4,18.0,182.3,0.1,175.0,0.9,alto
+Queso chihuahua rallado,1/4,taza,28,28,106,6.1,8.5,1.6,29.7,18.2,183.9,0.1,176.6,0.9,alto
+Queso colby estilo Cheddar,1,rebanada,28,28,110,6.7,9.0,0.7,27.0,74.0,192.0,0.2,169.0,0.0,alto
+Queso cotija,30,g,30,30,87,8.5,10.0,0.4,25.5,195.0,258.0,0.7,0.0,1.2,alto
+Queso crema light,3,cucharada,45,45,104,4.8,7.9,3.2,25.2,81.5,50.4,0.8,133.2,0.2,alto
+Queso de cabra con ceniza,35,g,35,35,94,6.6,7.4,0.3,16.3,100.0,49.0,0.7,130.0,0.3,alto
+Queso de cabra duro,20,g,20,20,91,6.2,7.2,0.4,21.4,96.4,181.4,0.4,70.0,0.3,alto
+Queso de cabra semi suave,1,rebanada,28,28,102,6.0,8.4,0.7,22.0,114.0,83.0,0.5,144.0,0.0,alto
+Queso de cabra suave,35,g,35,35,94,6.6,7.4,0.3,16.3,100.0,49.0,0.7,130.0,0.3,alto
+Queso edam,30,g,30,30,107,7.5,8.3,0.4,26.8,72.6,219.3,0.1,289.5,1.1,alto
+Queso feta,40,g,40,40,106,5.7,8.5,1.6,35.7,50.0,197.2,0.3,451.4,0.9,alto
+Queso fontina,25,g,25,25,97,6.4,7.8,0.4,29.0,64.5,137.5,0.1,200.0,0.9,alto
+Queso fundido,3,cucharada,45,45,103,6.4,6.0,1.7,20.4,ND,214.2,0.2,59.6,0.6,alto
+Queso gouda,30,g,30,30,107,7.5,8.2,0.7,34.3,49.2,210.0,0.1,245.7,1.1,alto
+Queso gruyere,25,g,25,25,103,7.5,8.1,0.1,27.5,67.0,252.8,0.0,84.0,1.1,alto
+Queso Limburger,1,rebanada,28,28,92,5.6,7.6,0.1,25.0,95.0,139.0,0.0,224.0,0.0,alto
+Queso manchego,25,g,25,25,102,6.1,8.1,1.2,0.0,0.0,0.0,0.0,0.0,0.9,alto
+Queso manchego rallado,25,g,25,25,102,6.1,8.1,1.2,0.0,0.0,0.0,0.0,0.0,0.9,alto
+Queso manchego rebanado,25,g,25,25,102,6.1,8.1,1.2,0.0,0.0,0.0,0.0,0.0,0.9,alto
+Queso menonita,25,g,25,25,95,5.4,7.5,1.4,26.8,16.1,165.2,0.1,156.3,0.8,alto
+Queso Monterrey,25,g,25,25,93,6.1,7.6,0.2,22.3,48.0,186.5,0.2,134.0,0.9,alto
+Queso mozarella,35,g,35,35,105,7.8,7.8,0.8,27.5,60.9,176.8,0.2,219.5,1.3,alto
+Queso mozzarella rallado,35,taza,35,35,105,7.8,7.8,0.8,27.5,60.9,176.8,0.2,219.5,1.3,alto
+Queso mozzarella suave,1,rebanada,28,28,89,6.0,6.9,0.7,25.0,53.8,163.0,0.1,116.2,1.0,alto
+Queso Muenster,1,rebanada,28,28,103,6.6,8.4,0.3,27.0,83.0,201.0,0.1,176.0,0.0,alto
+Queso neufchatel,35,g,35,35,91,3.5,8.2,1.0,26.6,101.2,26.3,0.1,139.7,0.1,alto
+Queso Oaxaca,30,g,30,30,95,7.7,6.6,0.9,25.8,0.8,140.7,1.0,0.0,1.1,alto
+Queso pasteurizado americano,1,rebanada,28,28,105,6.2,8.7,0.4,26.3,69.2,172.5,0.1,400.4,0.9,alto
+Queso pasteurizado suizo,1 1/2,rebanada,32,32,105,7.8,7.9,0.7,26.8,60.5,243.2,0.2,431.6,1.1,alto
+Queso portsalut,1,rebanada,28,28,99,6.7,7.9,0.2,34.4,87.6,182.0,0.1,149.5,1.0,alto
+Queso provolone,1,rebanada,28,28,98,7.2,7.5,0.6,19.3,64.4,211.7,0.1,245.3,1.0,alto
+Queso ricotta,1/4,taza,62,62,107,6.9,8.0,1.9,31.2,72.0,127.5,0.2,51.6,1.0,alto
+Queso romano,23,g,23,23,89,7.3,6.2,0.8,23.8,20.7,244.7,0.2,276.0,3.3,alto
+Queso roquefort,25,g,25,25,92,5.4,7.7,0.5,22.5,72.5,165.5,0.1,452.3,0.8,alto
+Queso suizo,1,rebanada,28,28,106,7.5,7.8,1.5,26.0,59.9,221.5,0.1,53.8,1.4,alto
+Queso suizo rallado,6,cucharada,43,43,95,7.4,6.3,2.3,32.4,27.7,297.2,0.0,0.0,1.1,alto
+Queso tipo americano,1 1/2,rebanada,27,27,101,6.0,8.5,0.4,25.1,68.5,149.5,0.0,402.1,0.0,alto
+Queso tipo roquefort,25,g,25,25,92,5.4,7.7,0.5,22.5,72.5,165.5,0.1,452.3,0.8,alto
+Queso velveta,35,g,35,35,100,6.3,7.5,3.8,25.0,0.0,187.5,0.0,525.0,0.9,alto
+Retazo,350,g,350,35,104,5.6,8.9,0.0,25.9,4.2,2.8,0.6,20.7,1.1,alto
+Retazo con hueso,350,g,350,35,104,5.6,8.9,0.0,25.9,4.2,2.8,0.6,20.7,1.1,alto
+Retazo de pollo,350,g,350,35,104,5.6,8.9,0.0,25.9,4.2,2.8,0.6,20.7,0.7,alto
+Retazo de res,350,g,350,35,104,5.6,8.9,0.0,25.9,4.2,2.8,0.6,20.7,1.1,alto
+Retazo de ternera,350,g,350,35,104,5.6,8.9,0.0,25.9,4.2,2.8,0.6,20.7,0.9,alto
+Rib eye,30,g,30,30,82,5.3,6.6,0.0,20.4,0.0,3.9,0.6,16.8,0.9,alto
+Salami,3,rebanada,27,27,104,6.3,8.1,1.0,27.0,0.0,2.2,0.4,542.7,1.6,alto
+Salami de ternera,6,rebanada,42,42,110,6.4,8.8,1.1,27.4,0.0,3.7,0.9,493.0,1.0,alto
+Salchicha,3/4,pieza,34,34,114,6.6,9.6,0.0,28.4,4.1,4.4,0.5,252.8,0.0,alto
+Salchicha ahumada,1/2,pieza,34,34,109,4.1,9.8,0.8,19.7,3.7,4.1,0.3,309.7,0.0,alto
+Salchicha de pollo,3/4,pieza,34,34,100,6.2,8.1,0.0,23.6,10.5,3.7,0.4,344.3,0.9,alto
+Salchicha de puerco,3/4,pieza,34,34,114,6.6,9.6,0.0,28.4,4.1,4.4,0.5,252.8,0.0,alto
+Salchicha de ternera,1/2,pieza,29,29,90,3.4,8.1,0.5,17.5,0.0,5.5,0.4,292.5,0.5,alto
+Salchicha vienna,3,pieza,48,48,110,5.0,9.3,1.2,41.8,0.0,4.8,0.4,465.1,0.9,alto
+Salchicha vienna ahumada,1 1/2,pieza,41,41,93,4.3,7.9,1.1,35.2,0.0,4.1,0.4,392.4,0.7,alto
+Sesos de res cocidos,60,g,60,60,91,7.0,6.3,0.9,1860.0,0.0,5.4,1.4,64.8,1.5,alto
+Sesos de res crudos,75,g,75,74,105,8.0,7.6,0.8,2212.4,0.0,31.6,1.9,92.6,1.7,alto
+Sesos de res fritos,55,g,55,55,108,6.9,8.7,0.0,1097.3,0.0,5.0,1.2,86.9,1.3,alto
+T-bone con grasa cocido,35,g,35,32,96,7.4,7.2,0.0,20.5,0.0,2.2,1.0,21.1,0.9,alto
+Tofu frito,40,g,40,40,108,6.8,8.0,4.3,0.0,0.0,0.0,0.0,0.0,0.0,alto
+Tripas de res,55,g,55,50,109,5.6,9.5,0.0,74.3,26.2,5.9,0.9,22.8,0.0,alto
+Ubre,45,g,45,45,105,6.9,8.4,0.0,0.0,0.0,31.5,1.2,0.0,0.0,alto
+Velveta,35,g,35,35,100,6.3,7.5,3.8,25.0,0.0,187.5,0.0,525.0,0.0,alto
+Yema,2,pieza,34,34,108,5.4,9.0,1.2,419.6,126.1,43.9,0.9,16.3,3.0,alto
+Yema de huevo,2,pieza,34,34,108,5.4,9.0,1.2,419.6,126.1,43.9,0.9,16.3,3.0,alto
+Yema de huevo en polvo,3,cucharada,15,15,103,5.3,8.6,0.6,360.8,203.2,43.9,0.8,20.9,4.6,alto

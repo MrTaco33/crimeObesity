@@ -1,0 +1,152 @@
+alimento,cantidad_sugerida,unidad,peso_bruto_redondeado_g,peso_neto_g,energia_kcal,proteina_g,lipidos_g,hidratos_carbono_g,fibra_g,vitamina_a_ug_re,acido_ascorbico_mg,acido_folico_ug,hierro_no_hem_mg,potasio_mg,indice_glucemico,carga_glucemica
+Acelga cruda,2,taza,120,98,22,2.2,0.1,4.3,3.6,310.9,29.5,14.8,2.5,749.8,64.0,2.7
+Acelga picada cocida,0.5,taza,72,72,19,1.9,0.1,3.9,2.1,275.8,17.9,10.1,1.4,654.5,64.0,2.5
+Alcachofa mediana cocida,1,pieza,120,48,25,1.4,0.2,5.7,4.1,0.5,3.6,42.7,0.3,137.3,ND,ND
+Apio cocido,0.75,taza,113,113,20,0.9,0.2,4.5,1.8,29.3,6.9,24.8,0.5,319.5,ND,ND
+Apio crudo,1.5,taza,152,135,22,0.9,0.2,4.0,2.5,29.7,4.2,48.5,0.3,350.6,ND,ND
+Arúgula cruda,4,taza,80,80,20,2.1,0.5,2.9,3.5,95.2,12.0,77.6,1.2,295.2,ND,ND
+Berenjena picada cocida,1,taza,99,99,35,0.8,0.2,8.6,2.5,2.0,1.3,13.9,0.4,245.4,ND,ND
+Berro crudo,2,taza,68,56,34,1.3,0.1,0.7,0.3,46.3,6.7,35.7,1.2,100.4,ND,ND
+Betabel crudo,0.25,pieza,43,39,19,0.8,0.1,4.3,0.3,0.8,7.8,36.4,0.6,131.0,ND,ND
+Betabel crudo rallado,0.25,taza,38,38,18,0.8,0.1,4.1,0.3,0.8,7.5,34.9,0.6,125.6,ND,ND
+Bledos crudos,150,g,150,95,27,2.4,0.3,3.8,0.9,189.5,40.6,80.3,4.1,577.4,ND,ND
+Brócoli cocido,0.5,taza,92,92,26,2.7,0.4,4.6,2.7,127.4,68.4,46.0,0.8,268.9,ND,ND
+Brócoli crudo,1,taza,88,71,19,2.1,0.3,3.7,2.1,110.2,66.4,50.2,0.6,231.7,ND,ND
+Calabacita alargada cruda,1,pieza,111,91,21,1.6,0.1,3.4,1.4,12.3,11.8,23.7,0.5,183.9,ND,ND
+Calabacita redonda cruda,1,pieza,100,79,18,1.4,0.1,2.9,1.2,10.7,10.3,20.5,0.4,159.6,ND,ND
+Calabaza de Castilla cocida,0.5,taza,110,110,22,0.8,0.1,5.4,1.2,275.0,5.2,9.9,0.6,253.0,ND,ND
+Cebolla blanca rebanada,0.5,taza,58,58,23,0.6,0.1,5.4,1.0,0.0,4.3,10.9,0.1,84.0,ND,ND
+Cebolla cocida,0.25,taza,53,53,23,0.7,0.1,5.3,0.7,0.0,2.7,7.9,0.1,87.0,ND,ND
+Cebolla morada rebanada,0.5,taza,58,58,20,0.5,0.1,4.4,0.7,0.0,6.3,ND,0.8,90.3,ND,ND
+Cebollita de cambray sin raíz,3,pieza,75,72,23,1.3,0.1,5.3,1.9,36.0,13.5,46.1,1.1,198.7,ND,ND
+Cebollitas en salmuera,0.5,taza,95,95,24,0.9,0.2,6.7,1.6,0.0,0.0,0.0,0.0,0.0,ND,ND
+Champiñón cocido entero,0.5,taza,78,78,20,2.8,0.3,3.2,1.4,0.0,0.0,15.6,0.2,308.9,ND,ND
+Champiñón cocido rebanado,0.5,taza,70,70,18,2.5,0.2,2.8,1.3,0.0,0.0,14.0,0.2,277.2,ND,ND
+Champiñón crudo entero,1,taza,96,93,20,2.9,0.3,3.1,0.9,0.0,2.0,14.9,0.5,296.1,ND,ND
+Champiñón crudo rebanado,1.5,taza,105,105,23,3.2,0.4,3.4,1.1,0.0,2.2,16.8,0.5,333.9,ND,ND
+Chayote cocido picado,0.5,taza,80,80,19,0.5,0.4,4.1,2.2,1.6,6.4,14.4,0.2,138.4,ND,ND
+Chayote crudo,0.5,pieza,102,100,19,0.8,0.1,4.5,1.7,0.0,7.7,93.5,0.3,125.6,ND,ND
+Chepil crudo,70,g,70,41,26,2.8,0.2,3.0,0.9,135.4,20.3,ND,1.9,ND,ND,ND
+Chícharo cocido sin vaina,0.25,taza,40,40,34,2.1,0.1,6.1,2.2,16.0,5.7,25.2,0.6,108.4,48.0,2.9
+Chícharo crudo con vaina,0.5,taza,73,28,22,1.5,0.1,4.0,1.4,10.5,11.0,17.9,0.4,67.2,48.0,1.9
+Chícharo en vaina cocido,0.33,taza,53,53,21,1.7,0.1,3.4,1.5,27.7,25.5,15.5,1.1,128.0,48.0,1.7
+Chicoria cruda,140,g,140,120,24,1.4,0.2,4.1,1.1,123.4,8.4,171.0,1.0,378.1,ND,ND
+Chilacas crudas,3,pieza,90,76,24,1.1,0.2,5.5,0.7,6.8,134.6,17.4,3.0,257.0,ND,ND
+Chilacayote crudo,150,g,150,135,19,1.6,0.3,3.6,0.4,8.1,9.5,ND,0.8,ND,ND,ND
+Chile chilaca,2,pieza,60,50,20,0.8,0.2,3.7,0.5,48.9,89.7,11.6,2.0,171.4,ND,ND
+Chile chipotle seco,2,pieza,10,8,29,1.2,0.5,4.8,0.6,19.3,0.0,ND,0.5,ND,ND,ND
+Chile costeño,4,pieza,64,54,17,0.9,0.1,3.9,1.1,7.0,135.5,12.4,1.8,182.8,ND,ND
+Chile cristalino,4,pieza,64,54,20,0.9,0.1,3.9,1.1,3.5,135.5,12.4,1.8,182.8,ND,ND
+Chile cuaresmeño,2,pieza,60,50,16,0.8,0.2,3.7,0.5,4.5,89.7,11.6,2.0,171.4,ND,ND
+Chile de árbol seco,4,pieza,8,7,21,0.9,0.4,4.3,2.1,70.9,3.7,0.0,0.3,0.0,ND,ND
+Chile habanero,5,pieza,80,67,25,1.5,0.5,3.6,1.1,19.8,63.2,15.5,1.6,228.5,ND,ND
+Chile jalapeño,6,pieza,90,78,23,1.1,0.5,4.6,2.2,31.3,34.7,36.8,0.5,168.3,ND,ND
+Chile poblano,0.5,pieza,40,32,15,0.8,0.2,3.3,0.1,5.1,116.5,7.4,1.1,108.8,ND,ND
+Chiles secos,10,g,10,7,23,0.8,0.7,4.3,0.0,124.6,5.2,0.0,0.4,0.0,ND,ND
+Cilantro picado crudo,2,taza,120,120,28,2.6,0.6,4.4,3.4,404.4,32.4,74.4,2.1,625.2,ND,ND
+Clavito (hongo) crudo,1,taza,75,71,28,4.3,0.4,3.8,1.1,0.0,3.8,0.0,1.5,0.0,ND,ND
+Col cocida picada,0.5,taza,75,75,17,1.0,0.0,4.1,1.4,3.0,28.1,22.5,0.1,147.0,ND,ND
+Col cruda picada,2,taza,140,112,27,1.4,0.2,6.0,2.6,6.7,47.0,63.8,0.6,275.2,ND,ND
+Col morada cruda picada,1,taza,70,56,17,0.8,0.1,4.1,1.2,31.4,31.9,10.1,0.4,136.1,ND,ND
+Colecita de Bruselas cocida,3,pieza,63,63,23,1.6,0.3,4.5,1.6,24.6,39.1,37.8,0.8,199.5,ND,ND
+Coliflor cocida,1,taza,125,125,28,2.3,0.6,5.1,2.9,1.3,55.4,55.0,0.4,177.4,ND,ND
+Coliflor cruda,2,taza,200,80,20,1.6,0.1,4.2,2.0,0.8,37.1,45.6,0.4,242.4,ND,ND
+Coliflor verde cocida,0.5,taza,68,68,22,2.1,0.2,4.2,2.2,4.7,49.0,27.7,0.5,187.7,ND,ND
+Coliflor verde cruda,2,taza,128,78,24,2.3,0.2,4.8,2.5,6.2,68.8,44.5,0.6,234.2,ND,ND
+Colinabo crudo,90,g,90,66,22,1.1,0.1,4.1,1.4,0.3,40.7,ND,0.3,230.0,ND,ND
+Corazón de alcachofa crudo,1,pieza,25,25,16,0.6,0.0,4.1,0.3,3.0,1.5,18.5,0.2,84.8,ND,ND
+Corazón de lechuga crudo,1,pieza,130,124,12,1.2,0.0,4.4,1.9,43.2,6.2,67.9,0.6,197.6,ND,ND
+Corazón de palmito crudo,3,pieza,99,99,27,2.4,0.6,4.5,2.4,0.0,9.0,39.0,3.1,174.0,ND,ND
+Cresón cocido,1,taza,135,135,31,2.6,0.8,5.2,1.0,313.2,31.1,50.0,1.1,476.6,ND,ND
+Cresón limpio crudo,2,taza,100,100,32,2.8,0.8,5.6,1.2,346.0,69.0,80.0,1.3,606.0,ND,ND
+Crucetas crudas,150,g,150,117,21,1.3,0.2,4.3,0.8,25.7,28.1,0.0,6.8,0.0,ND,ND
+Cuitlacoche cocido,0.33,taza,66,66,20,0.8,0.1,4.1,1.2,0.0,2.6,ND,0.3,ND,ND,ND
+Echalot,1,pieza,40,34,25,0.9,0.0,5.8,ND,20.6,2.8,11.7,0.4,114.9,ND,ND
+Ejotes cocidos picados,0.5,taza,63,63,22,1.2,0.2,4.9,2.0,21.9,6.1,20.6,0.4,91.3,ND,ND
+Elotitos de cambray,8,pieza,64,64,26,2.1,0.0,4.3,1.8,14.0,3.9,29.7,0.4,159.2,ND,ND
+Endivia cruda,3,taza,150,129,22,1.6,0.3,4.3,4.0,139.3,8.4,183.2,1.1,405.1,ND,ND
+Espárragos crudos,6,pieza,90,90,22,2.3,0.3,3.8,2.8,49.0,10.0,131.0,0.7,144.0,ND,ND
+Espinaca cocida,0.5,taza,90,90,21,2.7,0.2,3.4,3.2,471.6,8.8,131.0,3.2,419.0,ND,ND
+Espinaca cruda picada,2,taza,120,120,28,3.4,0.4,4.4,2.6,562.8,33.7,232.8,3.3,669.6,ND,ND
+Flor de calabaza cocida,1,taza,134,134,20,1.4,0.2,4.4,1.2,116.6,6.0,54.0,1.2,142.0,ND,ND
+Flor de calabaza cruda picada,4,taza,132,132,20,1.2,0.0,4.4,ND,128.0,36.0,76.0,0.9,228.0,ND,ND
+Flor de colorín cocida,0.5,taza,40,40,24,1.8,0.1,4.0,1.0,2.6,14.8,ND,1.0,ND,ND,ND
+Flor de colorín cruda,1,taza,40,40,24,1.8,0.1,4.0,1.0,2.6,14.8,ND,1.0,ND,ND,ND
+Flor de garambullo cruda,50,g,50,50,19,0.4,0.1,4.1,0.4,10.5,20.0,ND,2.2,ND,ND,ND
+Flor de maguey cruda,60,g,60,60,21,0.5,0.1,4.4,0.4,14.4,35.4,ND,0.5,ND,ND,ND
+Flor de Yuca cruda,75,g,75,75,29,2.0,0.3,4.5,0.5,0.8,204.8,ND,0.5,ND,ND,ND
+Germen de alfalfa crudo,3,taza,99,99,23,4.0,0.7,2.1,1.9,7.9,8.1,35.6,1.0,78.0,ND,ND
+Germen de lenteja crudo,0.25,taza,19,19,20,1.7,0.1,4.3,ND,0.4,3.2,19.3,0.6,62.0,ND,ND
+Germen de soya cocido,0.33,taza,31,31,25,2.7,1.4,2.1,0.3,0.6,2.6,25.1,0.4,111.3,ND,ND
+Granos de elote crudos,2,cucharada,21,21,18,0.7,0.2,4.0,0.6,1.9,1.4,9.7,0.1,56.7,54.0,2.2
+Haba verde,4,pieza,32,32,23,1.8,0.2,3.7,1.3,5.8,10.6,30.7,0.6,80.0,55.0,2.1
+Hojas de amaranto cocidas,100,g,100,100,21,2.1,0.2,4.1,ND,139.0,41.1,57.0,2.3,641.0,ND,ND
+Hojas de amaranto crudas,6,hojas,84,84,19,2.1,0.3,3.4,ND,122.6,36.4,71.4,1.9,513.2,ND,ND
+Hojas de chicoria crudas,130,g,130,130,26,1.6,0.3,4.4,1.2,133.3,9.1,184.6,1.0,408.2,ND,ND
+Hojas de diente de león,50,g,50,45,24,1.2,0.3,4.1,0.8,49.1,15.8,ND,1.4,178.7,ND,ND
+Hojas de pata de paloma,30,g,30,25,20,0.8,0.4,4.2,0.4,21.9,11.1,ND,1.5,ND,ND,ND
+Hojas de remolacha crudas,2,hojas,64,64,14,1.4,0.1,2.8,2.4,202.2,19.2,9.6,1.6,487.7,ND,ND
+Hojas de remolacha hervidas,0.5,taza,72,72,19,1.9,0.1,3.9,2.1,603.4,17.9,10.1,1.4,654.5,ND,ND
+Hongo portobello crudo,1,pieza,84,81,21,2.0,0.2,4.1,1.2,0.0,0.0,17.9,0.5,394.4,ND,ND
+Hongo shiitake deshidratado,1,pieza,4,4,11,0.3,0.0,2.7,0.4,0.0,0.1,5.9,0.1,55.2,ND,ND
+Hongos crudos,1,taza,70,63,17,2.0,0.3,2.8,1.6,0.0,1.9,13.2,2.7,233.1,ND,ND
+Huauzontle,0.5,taza,40,40,24,1.8,0.3,4.8,1.1,50.4,18.0,ND,2.4,ND,ND,ND
+Huitlacoche cocido,0.33,taza,66,66,20,0.8,0.1,4.1,1.2,0.0,2.6,ND,0.3,107.5,ND,ND
+Ibes frescos,30,g,30,17,22,1.7,0.0,3.6,0.5,7.2,2.6,ND,0.2,107.3,ND,ND
+Jícama picada,0.5,taza,60,60,23,0.4,0.1,5.3,2.9,0.6,12.1,7.2,0.4,90.0,ND,ND
+Jitomate,120,g,120,113,20,1.0,0.2,4.4,1.4,47.4,14.3,16.9,0.3,267.3,ND,ND
+Jitomate bola,1,pieza,123,108,19,1.0,0.2,4.2,1.3,45.5,13.7,16.2,0.3,256.5,ND,ND
+Jitomate cereza,4,pieza,100,95,17,0.8,0.2,3.7,1.1,39.9,12.1,14.3,0.3,225.2,ND,ND
+Jitomate deshidratado,5,pieza,10,10,23,1.5,0.5,4.3,2.0,5.0,5.0,0.0,0.5,0.0,ND,ND
+Jitomate guaje o saladet,2,pieza,130,124,22,1.1,0.2,4.8,1.5,51.9,15.7,18.5,0.3,292.7,ND,ND
+Jitomate verde,1,pieza,123,123,28,1.5,0.2,6.3,1.4,39.4,29.0,11.0,0.6,251.0,ND,ND
+Jitomatillo (miltomate),70,g,70,60,21,0.9,0.1,4.3,0.9,150.5,51.2,5.4,3.6,124.6,ND,ND
+Jugo de tomate,0.5,taza,122,122,21,0.9,0.1,5.1,0.5,27.9,22.2,24.3,0.5,278.2,ND,ND
+Jugo de verduras,0.5,taza,121,121,23,0.8,0.1,5.5,1.0,94.4,33.5,25.4,0.5,233.5,ND,ND
+Jugo de zanahoria,0.25,taza,59,59,24,0.6,0.1,5.5,0.5,564.0,5.0,2.4,0.3,172.2,ND,ND
+Lechuga,3,taza,141,135,23,1.7,0.4,4.5,2.8,392.5,32.5,184.1,1.3,334.3,ND,ND
+Lengua de vaca,110,g,110,99,27,2.0,0.7,3.2,0.8,198.0,47.5,ND,2.4,386.1,ND,ND
+Lenteja germinada cocida,0.25,taza,19,19,19,1.7,0.1,4.1,ND,0.4,2.4,12.9,0.6,54.7,ND,ND
+Malva,100,g,100,85,34,4.1,0.5,3.3,0.8,255.0,29.8,ND,1.7,ND,ND,ND
+Mezcla de verdura congelada cocidas sin sal,0.5,taza,46,46,30,1.3,0.1,4.6,2.0,97.4,1.5,8.6,0.4,76.9,ND,ND
+Morillas deshidratadas,10,g,10,10,27,3.2,0.4,4.4,2.5,0.0,3.0,21.0,4.3,370.0,ND,ND
+Morillas frescas,110,g,110,94,25,3.0,0.4,4.1,2.3,0.0,2.8,19.6,4.0,346.0,ND,ND
+Nabo cocido,150,g,150,99,22,0.7,0.1,5.0,2.0,0.0,11.5,8.9,0.2,175.2,ND,ND
+Nopal cocido,1,taza,149,149,22,2.0,0.1,4.9,3.0,32.8,7.9,4.5,0.7,291.0,ND,ND
+Nopal crudo,2,pieza,140,134,22,1.8,0.1,4.5,3.2,30.9,12.5,4.0,0.8,345.4,ND,ND
+Nopal crudo de cambray,4,pieza,100,100,27,1.7,0.3,2.9,3.5,0.0,0.0,0.0,0.0,0.0,ND,ND
+Palmito enlatado,1,pieza,33,33,30,0.8,0.2,1.5,0.8,0.0,2.6,12.9,1.0,58.4,ND,ND
+Papaloquelite crudo,2,taza,120,108,24,1.9,0.3,3.1,1.0,69.7,20.5,ND,2.6,ND,ND,ND
+Papilla de verduras mixtas,0.33,frasco,43,43,19,0.5,0.0,4.1,0.6,58.3,1.3,3.4,0.1,51.9,ND,ND
+Pepinillos crudos,0.33,taza,80,80,23,1.1,1.0,3.3,0.0,0.0,0.0,0.0,2.1,0.0,ND,ND
+Pepinillos dulces,1,cucharada,15,15,20,0.1,0.1,5.3,0.2,2.0,0.0,0.0,0.1,4.0,ND,ND
+Pepino con cáscara rebanado,1,taza,104,104,16,0.7,0.1,3.8,0.5,5.2,2.9,7.3,0.3,152.9,ND,ND
+Perejil crudo picado,1,taza,60,60,22,1.8,0.5,3.8,2.0,252.6,80.0,91.2,3.7,332.4,ND,ND
+Pimiento amarillo crudo chico,1,pieza,75,64,17,0.7,0.1,4.0,0.6,6.4,116.9,16.6,0.3,135.0,ND,ND
+Pimiento cocido,0.5,taza,68,68,19,0.6,0.1,4.6,0.8,40.0,51.0,11.0,0.3,113.0,ND,ND
+Pimiento fresco,1,taza,60,60,17,0.5,0.1,3.8,1.1,38.4,54.0,13.2,0.3,106.8,ND,ND
+Pimiento rojo crudo chico,1,pieza,75,64,17,0.7,0.1,4.0,0.6,100.1,81.4,29.3,0.3,134.5,ND,ND
+Pimiento verde crudo chico,1,pieza,75,64,17,0.7,0.1,4.0,0.6,11.5,51.3,6.4,0.2,111.6,ND,ND
+Poro crudo,0.25,taza,40,32,21,0.5,0.1,4.5,1.2,26.6,3.5,20.5,0.7,57.6,ND,ND
+Puerro crudo,0.25,pieza,22,22,14,0.3,0.1,3.2,0.9,18.5,2.7,14.2,0.5,40.1,ND,ND
+Puerro hervido sin sal,0.5,pieza,62,62,19,0.5,0.1,4.7,0.6,25.4,2.6,14.9,0.7,53.9,ND,ND
+Puré de tomate enlatado,0.25,taza,63,63,24,1.0,0.1,5.6,1.5,16.3,6.6,6.9,1.1,274.4,ND,ND
+Quelite crudo,80,g,80,66,26,3.1,0.3,2.6,0.8,213.2,26.2,ND,2.4,400.8,ND,ND
+Rábano crudo rebanado,1,taza,116,104,17,0.7,0.1,3.5,1.7,0.0,15.5,26.1,0.4,243.3,ND,ND
+Romeritos crudos,120,g,120,72,26,2.6,0.1,3.5,0.7,112.0,2.9,ND,1.8,ND,ND,ND
+Salsa de chile,0.5,taza,115,115,28,1.2,0.2,5.2,2.8,4.6,2.3,0.0,0.6,234.6,ND,ND
+Salsifí,35,g,35,23,18,0.3,0.0,4.0,0.4,0.0,1.8,ND,0.2,86.5,ND,ND
+Semilla de guaje verde,65,g,65,29,28,2.5,0.2,4.0,0.5,2.3,11.7,ND,1.1,ND,ND,ND
+Setas cocidas,0.5,taza,78,78,21,2.5,0.3,3.4,2.0,0.0,ND,ND,ND,ND,ND,ND
+Setas crudas,100,g,100,85,23,2.7,0.3,3.7,2.1,0.0,2.6,17.9,3.7,314.5,ND,ND
+Tomate verde,5,pieza,100,86,21,0.9,0.2,3.9,2.1,1.7,1.7,ND,0.4,175.4,ND,ND
+Tomatitos (tomiles),75,g,75,65,26,2.3,0.1,4.1,0.8,112.6,29.7,ND,4.5,131.6,ND,ND
+Verdolaga cocida,1,taza,115,115,21,1.7,0.2,4.1,0.9,107.0,12.1,10.4,0.9,561.1,ND,ND
+Verdolaga cruda limpia,2,taza,192,192,31,2.5,0.2,6.6,1.5,126.7,40.3,23.0,3.8,948.5,ND,ND
+Verdura mezcla congelada cocida sin sal,0.5,taza,46,46,30,1.3,0.1,4.6,2.0,97.4,1.5,8.6,0.4,76.9,ND,ND
+Xoconostle,3,pieza,102,71,18,0.1,0.3,3.7,1.6,1.4,15.7,ND,0.2,ND,ND,ND
+Yemitas (hongo) crudas,2,taza,160,160,27,4.8,1.7,6.4,3.6,0.0,6.1,ND,6.0,ND,ND,ND
+Yerbamora cruda,50,g,50,41,21,2.0,0.3,3.6,0.6,13.9,49.2,ND,3.7,ND,ND,ND
+Zanahoria miniatura cruda,4,pieza,60,60,21,0.4,0.1,4.9,1.7,414.0,1.6,16.2,0.5,142.2,47.0,2.3
+Zanahoria picada cruda,0.5,taza,64,64,26,0.6,0.2,4.3,1.8,534.4,3.8,12.2,0.2,204.8,47.0,2.0
+Zanahoria rallada cruda,0.5,taza,55,55,23,0.5,0.1,4.1,1.5,459.3,3.2,10.5,0.2,176.0,47.0,1.9

@@ -1,0 +1,160 @@
+alimento,cantidad_sugerida,unidad,peso_bruto_g,peso_neto_g,energia_kcal,proteina_g,lipidos_g,hc_g,colesterol_mg,vitamina_a_ug_re,calcio_mg,sodio_mg,azucar_por_equivalente_g,categoria_leche
+ALF fresa con Lactobacillus casei Shirota,1 1/2,envase,159,159,96,6.4,0.3,17.1,ND,ND,223.5,81.0,ND,descremada
+ALF mango con Lactobacillus casei Shirota,1 1/2,envase,159,159,96,6.4,0.3,16.9,ND,ND,223.5,81.0,ND,descremada
+ALF manzana con Lactobacillus casei Shirota,1 1/2,envase,159,159,90,6.4,0.3,15.4,ND,ND,222.0,82.5,ND,descremada
+Bebida de soya (Leche de soya),1,taza,240,240,79,6.6,4.6,4.3,0.0,7.0,10.0,29.0,ND,descremada
+Danonino Queso Tipo Petit Suisse,2,piezas,90,90,97,5.2,2.8,12.8,ND,ND,216.0,30.2,ND,descremada
+Leche Alpura Light Extra,1,taza,240,240,103,8.0,2.4,14.0,ND,144.0,336.0,134.4,ND,descremada
+Leche descremada,1,taza,245,245,86,8.4,0.4,11.9,4.0,149.0,302.0,126.0,ND,descremada
+Leche descremada con chocolate,1,taza,240,240,77,5.8,1.0,12.5,ND,ND,297.6,115.2,ND,descremada
+Leche descremada en polvo,4,cucharada,30,30,109,10.8,0.2,15.6,6.0,2.0,377.0,161.0,ND,descremada
+Leche descremada en polvo reducida en Ca,4,cucharada,30,30,107,10.8,0.1,15.8,1.1,1.1,84.5,692.1,ND,descremada
+Leche en polvo descremada,4,cucharada,30,30,109,10.8,0.2,15.6,6.0,2.0,377.0,161.0,ND,descremada
+Leche evaporada descremada,1/2,taza,120,120,94,9.0,0.4,13.5,3.8,138.8,348.8,138.8,ND,descremada
+Leche evaporada semidescremada,1/2,taza,120,120,94,7.5,1.9,11.3,18.8,0.0,300.0,131.3,ND,descremada
+Leche Lala Extracalcio Light,1,taza,240,240,113,9.1,2.4,13.7,ND,ND,364.8,144.0,ND,descremada
+Leche Lala Light,1,taza,240,240,96,7.5,2.4,11.1,ND,ND,247.7,120.0,ND,descremada
+Leche Lala Siluette Plus,1,taza,240,240,83,7.5,0.5,13.6,ND,ND,269.8,149.8,ND,descremada
+Leche Lala Vive con fibra,1,taza,240,240,91,7.5,1.2,15.0,ND,ND,247.7,120.0,ND,descremada
+Leche Lala Vive Deslactosada light,1,taza,240,240,85,7.5,1.2,11.1,ND,ND,247.7,120.0,ND,descremada
+Leche Light Extra,1,taza,240,240,103,8.0,2.4,14.0,ND,144.0,336.0,134.4,ND,descremada
+Natilla Lala Siluette Plus,1,pieza,125,125,88,6.3,0.5,14.6,ND,ND,206.3,137.5,ND,descremada
+PLF sin azucar con Lactobacillus casei Shirota,2,envase,160,160,60,2.0,0.1,16.8,ND,ND,74.0,26.0,ND,descremada
+Yoghurt Activia 0% con ActiRegularis sabores Fresa y Ciruela Pasa,1,pieza,240,240,108,6.3,3.5,12.7,ND,ND,239.2,108.0,ND,descremada
+Yoghurt bajo en grasa,1/3,taza,75,75,83,2.7,0.8,16.0,5.0,0.0,99.0,36.6,ND,descremada
+Yoghurt Lala Light batido,1 1/2,pieza,188,188,90,7.3,0.4,14.4,ND,ND,240.0,178.5,ND,descremada
+Yoghurt Lala Light bebible,1,pieza,250,250,85,7.3,0.5,13.0,ND,ND,255.0,100.0,ND,descremada
+Yoghurt Lala Siluette Plus de fruta,1,pieza,250,250,85,7.3,0.5,13.0,ND,ND,255.0,100.0,ND,descremada
+Yoghurt Lala Vive con fibra 0%,1,pieza,250,250,90,6.5,0.5,16.0,ND,ND,200.0,100.0,ND,descremada
+Yoghurt light,3/4,taza,180,180,95,6.4,0.0,15.9,5.3,ND,158.8,100.6,ND,descremada
+Yoghurt light de fruta,3/4,taza,180,180,95,5.3,0.0,16.9,5.3,ND,211.8,79.4,ND,descremada
+Yoghurt para beber con fruta bajo en calorias,1,pieza,250,250,80,5.5,0.0,14.0,ND,ND,200.0,82.5,ND,descremada
+Yoghurt solido Vitalinea sabor fresa,1 1/2,piezas,188,188,89,6.3,2.4,10.6,ND,ND,215.3,86.1,ND,descremada
+Yoghurt solido Vitalinea sabor natural,1 1/2,pieza,188,188,97,7.2,2.7,10.9,ND,ND,243.9,98.9,ND,descremada
+ALF natural con Lactobacillus casei Shirota,1.5,envase,157.5,157.5,108,5.7,3.4,13.5,ND,ND,195.0,72.0,ND,semidescremada
+Leche evaporada semidescremada,1/2,taza,130,130,101,8.1,2.0,12.2,20.3,ND,324.0,141.8,ND,semidescremada
+Leche facil digestion,1,taza,240,240,109,7.5,3.9,11.2,ND,144.0,248.0,120.0,ND,semidescremada
+Leche Lactium MX,1,taza,240,240,109,7.2,4.0,11.0,21.0,330.0,264.0,100.0,ND,semidescremada
+Leche Lala Extracalcio Deslactosada,1,taza,218,218,114,8.3,3.5,12.5,ND,ND,332.0,131.0,ND,semidescremada
+Leche Lala Extracalcio Semidescremada,1,taza,218,218,114,8.3,3.5,12.5,ND,ND,332.0,131.0,ND,semidescremada
+Leche Lala Semidescremada,1,taza,240,240,109,7.5,3.8,11.1,ND,ND,247.7,120.0,ND,semidescremada
+Leche Lala Vive Deslactosada semidescremada,1,taza,240,240,109,7.5,3.8,11.1,ND,ND,247.7,120.0,ND,semidescremada
+Leche Lala Vive sin colesterol con omega 3,1,taza,228,228,115,8.3,3.6,12.3,ND,ND,301.0,166.9,ND,semidescremada
+Leche semidescremada,1,taza,233,233,116,7.7,4.4,11.2,18.6,ND,284.0,116.4,ND,semidescremada
+Leche semidescremada 1%,1,taza,244,244,102,8.0,2.6,11.7,10.0,144.0,300.0,123.0,ND,semidescremada
+Leche semidescremada 2%,1,taza,234,234,116,7.8,4.5,11.2,17.3,133.4,285.1,117.1,ND,semidescremada
+Licuado de leche Lala Siluette Plus,1,pieza,250,250,113,7.5,0.5,16.3,ND,ND,ND,40.5,ND,semidescremada
+Vitalinea bebible sabor fresa,1,pieza,240,240,108,6.3,3.5,12.8,ND,ND,239.4,108.1,ND,semidescremada
+Yoghurt Oikos estilo griego sabor Arandano,1/2,pieza,75,75,97,3.2,3.4,13.4,ND,ND,93.2,34.0,ND,semidescremada
+Yoghurt Oikos estilo griego sabor Coco,1/2,pieza,75,75,97,3.4,4.0,12.0,ND,ND,104.4,37.05,ND,semidescremada
+Yoghurt Oikos estilo griego sabor Fresa,1/2,pieza,75,75,91,3.1,3.3,12.3,ND,ND,91.4,32.65,ND,semidescremada
+Yoghurt Oikos estilo griego sabor Natural,1/2,pieza,75,75,91,3.6,4.0,10.1,ND,ND,109.25,38.2,ND,semidescremada
+Jocoque,5,cucharada,75,75,126,7.0,9.6,2.9,ND,ND,ND,ND,ND,entera
+Jocoque ligero,5,cucharada,75,75,126,7.0,9.6,2.9,ND,ND,ND,ND,ND,entera
+Jocoque seco,5,cucharada,75,75,126,7.0,9.6,2.9,ND,ND,ND,ND,ND,entera
+Leche,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.0,ND,ND,entera
+Leche caliente,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.0,ND,ND,entera
+Leche clavel,1/2,taza,120,120,150,7.5,7.5,11.3,37.5,0.0,300.0,ND,ND,entera
+Leche cruda,1,taza,240,240,146,7.9,7.9,11.3,33.6,74.4,285.0,ND,ND,entera
+Leche de burra,1,taza,237,237,126,4.7,5.7,14.5,0.0,47.4,194.0,ND,ND,entera
+Leche de cabra,1,taza,240,240,165,8.6,9.9,10.7,27.5,134.8,320.0,ND,ND,entera
+Leche de vaca,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.0,ND,ND,entera
+Leche en polvo,4,cucharada,32,32,159,8.4,8.5,12.3,31.0,90.0,292.0,ND,ND,entera
+Leche entera,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.0,ND,ND,entera
+Leche entera baja en sodio,1,taza,240,240,147,7.5,8.3,10.7,32.5,76.7,242.0,ND,ND,entera
+Leche entera en polvo,4,cucharada,32,32,159,8.4,8.5,12.3,31.0,90.0,292.0,ND,ND,entera
+Leche entera en polvo adicionada,4,cucharada,32,32,159,8.4,8.5,12.3,31.0,90.0,292.0,ND,ND,entera
+Leche entera evaporada,1/2,taza,120,120,150,7.5,7.5,11.3,37.5,ND,300.0,ND,ND,entera
+Leche entera ultrapasteurizada,1,taza,240,240,134,7.0,7.0,11.3,14.4,ND,ND,ND,ND,entera
+Leche evaporada,1/2,taza,120,120,150,7.5,7.5,11.3,37.5,ND,300.0,ND,ND,entera
+Leche fria,1,taza,240,240,148,7.9,8.0,11.2,32.5,74.8,286.0,ND,ND,entera
+Leche hervida,1,taza,240,240,163,8.2,9.1,12.5,33.6,74.4,271.0,ND,ND,entera
+Leche humana,1,taza,240,240,170,2.3,10.8,16.3,31.0,154.8,77.4,ND,ND,entera
+Leche Lala Desarrollo en polvo,2 1/2,cucharada,33,33,150,5.9,5.9,18.3,ND,ND,200.0,ND,ND,entera
+Leche Lala Entera,1,taza,240,240,139,7.5,7.2,12.0,ND,ND,247.0,ND,ND,entera
+Leche Liconsa Te Nutre,4,cucharada,32,32,159,8.4,8.5,12.3,31.0,90.0,292.0,119.0,ND,entera
+Leche materna,1,taza,240,240,170,2.3,10.8,16.3,31.0,154.8,77.4,38.7,ND,entera
+Leche maternizada en polvo,2,cucharada,26,26,132,3.5,7.0,14.3,ND,223.6,87.1,0.0,ND,entera
+Leche omega verde,1,taza,240,240,120,7.9,4.6,11.5,19.2,0.0,292.8,120.0,ND,entera
+Leche pasteurizada,1,taza,240,240,146,7.9,7.9,11.3,33.6,74.4,285.6,117.6,ND,entera
+Leche preparada,1,taza,240,240,141,6.5,5.9,8.5,32.5,74.8,286.2,118.0,ND,entera
+Yoghurt,1,taza,227,227,139,7.9,7.4,10.6,29.0,68.0,274.0,105.0,ND,entera
+Yoghurt Lala batido,1,pieza,125,125,121,4.1,2.9,20.0,ND,ND,131.3,106.3,ND,entera
+Yoghurt Lala Vive con fibra,1,vasito,150,150,140,5.9,4.2,22.1,ND,ND,169.5,81.0,ND,entera
+Yoghur natural,1,taza,227,227,139,7.9,7.4,10.6,29.0,68.0,274.0,105.0,ND,entera
+Activia bebible con Acti-Regularis natural,1,pieza,240,240,171,6.1,3.8,28.1,ND,ND,232.6,103.9,25,con_azucar
+Activia Bebible Con Acti-Regularis Fresa-Platano y Cereales,1,pieza,240,240,198,5.9,3.6,35.6,ND,ND,218.0,97.7,33,con_azucar
+Activia Bebible Con Acti-Regularis Manzana y Linaza,1,pieza,240,240,181,5.8,3.5,31.5,ND,ND,217.9,97.8,28,con_azucar
+Activia Bebible Con Acti-Regularis Papaya Cereales,1,pieza,240,240,199,5.9,3.6,35.7,ND,ND,222.9,99.3,32,con_azucar
+Activia bebible con Acti-Regularis sabor Ciruela Pasa,1,pieza,240,240,192,5.7,3.5,34.3,ND,ND,217.7,98.5,31,con_azucar
+Activia bebible con Acti-Regularis sabor Fresa,1,pieza,240,240,191,5.7,3.5,34.2,ND,ND,217.7,98.4,31,con_azucar
+Activia bebible con Acti-Regularis sabor pina apio y nopal,1,pieza,240,240,195,5.7,3.5,35.2,ND,ND,218.6,99.3,32,con_azucar
+Activia solido con Acti-Regularis sabor Ciruela Pasa,1 1/2,piezas,188,188,178,5.4,4.9,27.9,ND,ND,196.8,81.0,25,con_azucar
+Activia solido con Acti-Regularis sabor Fresa,3/4,taza,188,188,178,5.4,4.9,27.5,ND,ND,196.8,82.2,25,con_azucar
+Activia solido con Acti-Regularis natural,3/4,taza,188,188,158,6.1,5.8,20.1,ND,ND,223.5,91.7,18,con_azucar
+ALF para beber fresa con Lactobacillus casei Shirota,1,envase,215,215,185,6.2,3.2,32.3,0.0,0.0,341.9,96.8,31,con_azucar
+ALF para beber mango con Lactobacillus casei Shirota,1,envase,215,215,155,6.2,0.4,31.4,0.0,0.0,337.6,96.8,29,con_azucar
+ALF para beber natural con Lactobacillus casei Shirota,1,envase,213,213,141,6.0,1.3,26.4,0.0,0.0,334.4,98.0,24,con_azucar
+Alimento lacteo fermentado sabor fresa (Lactobacillus casei y Streptococcus thermophilus),2,pieza,216,216,188,7.6,4.4,29.6,ND,ND,231.1,92.9,30,con_azucar
+Alimento lacteo fermentado sabor manzana (Lactobacillus casei y Streptococcus thermophilus),2,pieza,216,216,161,8.2,0.4,31.2,ND,ND,250.6,97.2,30,con_azucar
+Alimento lacteo fermentado sabor natural (Lactobacillus casei y Streptococcus thermophilus),2,pieza,216,216,161,8.6,0.4,31.0,ND,ND,263.5,103.7,28,con_azucar
+Bio 4,2,pieza,240,240,180,6.2,3.1,31.4,ND,ND,ND,96.0,ND,con_azucar
+Chongos zamoranos,1/2,taza,108,108,194,6.5,3.2,34.6,10.8,21.6,220.3,54.0,30,con_azucar
+Danone Yoghurt Solido Saborizado sabores Fresa Manzana y Durazno,3/4,taza,188,188,174,5.9,4.7,28.0,ND,ND,228.8,95.7,25,con_azucar
+Danone Yoghurt Bebible Con Fruta sabores natural fresa durazno manzana coco y fresa-moras,1,pieza,240,240,192,4.0,4.0,35.0,ND,ND,202.0,76.0,31,con_azucar
+Danone Yoghurt Solido con Fruta sabores Fresa Manzana y Durazno,3/4,taza,188,181,188,5.4,4.2,32.4,ND,ND,203.0,84.3,29,con_azucar
+Danone Yoghurt solido natural,1,taza,250,250,228,8.2,6.6,34.0,ND,ND,294.0,124.0,31,con_azucar
+Danone Yoghurt Licuados sabores Fresa platano y cereales y Nuez platano y cereales,1,pieza,240,240,192,3.9,3.8,35.5,ND,ND,222.7,70.6,31,con_azucar
+Danonino Yoghurt Solido sabor fresa,1 1/2,pieza,150,150,141,4.3,3.4,23.2,72.8,20.5,ND,ND,20,con_azucar
+Helado de cafe,1/2,taza,91,91,195,3.4,10.0,25.5,30.8,106.8,98.6,68.8,23,con_azucar
+Helado de cafe bajo en calorias,1/2,taza,91,91,183,4.8,6.6,27.0,37.3,ND,143.8,68.3,22,con_azucar
+Helado de chocolate,3/4,taza,99,99,214,3.8,10.9,27.9,33.7,114.8,107.9,75.2,25,con_azucar
+Helado de chocolate bajo en calorias,3/4,taza,99,99,199,5.0,7.1,28.7,9.9,59.4,157.4,70.3,24,con_azucar
+Helado de fresa,3/4,taza,99,99,190,3.2,8.3,27.3,28.7,95.0,118.8,59.4,23,con_azucar
+Helado de fresa bajo en calorias,2/3,taza,123,123,200,6.0,5.7,31.2,18.5,539.3,208.6,87.6,28,con_azucar
+Helado de vainilla,3/4,taza,99,99,199,3.5,10.9,23.4,43.6,114.8,126.7,79.2,21,con_azucar
+Helado de vainilla bajo en calorias,1,taza,132,132,218,6.3,6.4,34.1,13.2,167.6,212.5,97.7,29,con_azucar
+Helado de yogur,1,taza,158,158,201,4.8,5.7,34.2,20.6,60.2,158.3,99.8,34,con_azucar
+Helado de yogur de fresa,1,taza,158,158,201,4.8,5.7,34.2,20.6,60.2,158.3,99.8,34,con_azucar
+Helado napolitano,3/4,taza,102,102,205,3.6,11.2,24.1,44.9,120.4,130.6,81.6,22,con_azucar
+Helado napolitano bajo en calorias,2/3,taza,119,119,192,5.6,5.2,31.1,16.7,ND,188.7,82.4,27,con_azucar
+Leche con chocolate,1,taza,240,240,200,7.6,8.2,24.9,29.8,151.2,268.8,143.0,23,con_azucar
+Leche con chocolate semidescremada 1%,1,taza,240,240,182,7.2,4.6,29.1,6.7,142.1,261.6,158.4,23,con_azucar
+Leche con vainilla,1,taza,218,218,207,6.4,6.6,31.0,24.0,56.8,200.9,120.1,28,con_azucar
+Leche de soya saborizada,1 1/4,taza,300,300,191,9.3,6.8,23.3,ND,10.8,ND,304.5,ND,con_azucar
+Leche descremada con chocolate,1 1/4,taza,300,300,189,9.7,3.0,31.3,9.0,174.0,345.0,183.0,30,con_azucar
+Leche en polvo sabor fresa,8,cucharada,56,56,187,13.3,0.0,32.0,ND,ND,826.7,400.0,ND,con_azucar
+Leche en polvo sabor vainilla,8,cucharada,56,56,187,13.3,0.0,32.0,ND,ND,826.7,400.0,ND,con_azucar
+Leche fermentada con lactobacilo,2 1/2,pieza,250,250,180,7.5,4.0,35.8,ND,ND,207.5,100.0,36,con_azucar
+Leche fermentada con lactobacilo sabor naranja,2 1/2,pieza,250,250,185,7.3,3.8,40.0,ND,ND,232.5,100.0,40,con_azucar
+Leche fermentada con lactobacilo sabor natural,2 1/2,pieza,250,250,208,7.0,4.0,35.8,ND,ND,207.5,100.0,36,con_azucar
+Leche fermentada con lactobacilo sabor vainilla,2 1/3,pieza,233,233,205,6.3,3.5,37.3,ND,ND,149.1,93.2,37,con_azucar
+Leche Lala Saborizada,1 1/3,taza,312,312,207,9.4,3.1,34.9,ND,ND,ND,182.2,ND,con_azucar
+Leche Lala Vive con fibra saborizada,1,taza,240,240,167,7.2,3.8,29.9,ND,ND,234.2,114.2,ND,con_azucar
+Leche malteada de chocolate,1,taza,240,240,202,8.1,7.8,26.2,24.0,818.4,307.2,208.8,25,con_azucar
+Leche malteada sabor chocolate,3/4,pieza,180,180,214,5.5,4.9,38.1,19.8,32.4,237.6,199.8,38,con_azucar
+Leche malteada sabor fresa,3/4,pieza,182,182,204,7.0,5.5,32.4,21.9,45.6,266.3,173.3,32,con_azucar
+Leche malteada sabor vainilla,3/4,pieza,180,180,202,6.9,5.5,32.0,21.6,45.0,262.8,171.0,32,con_azucar
+Leche semidescremada sabor chocolate,1,pieza,240,240,182,7.2,4.6,29.1,19.2,153.6,261.6,158.4,23,con_azucar
+Malteada de chocolate,2/3,taza,156,156,198,5.3,5.8,32.0,20.0,39.0,176.3,151.3,29,con_azucar
+Malteada de fresa,3/4,pieza,180,180,203,6.1,5.0,34.0,19.8,46.8,203.4,149.4,33,con_azucar
+Malteada de vainilla,1/2,pieza,130,130,192,4.4,8.4,25.4,29.8,117.9,149.0,105.0,18,con_azucar
+Nescafe Dolce Gusto latte macchiato,2,capsula,50,50,182,8.6,8.4,18.2,25.5,ND,ND,128.0,18,con_azucar
+Nescafe Dolce Gusto caramel latte macchiato,2,capsula,42,42,157,5.2,6.2,20.1,ND,ND,ND,57.5,18,con_azucar
+Nescafe Dolce Gusto Chococino,1 1/2,capsula,51,51,223,7.4,8.2,29.9,22.4,ND,ND,92.8,28,con_azucar
+PLF con Lactobacillus Casei Shirota,3,envase,240,240,165,3.0,0.1,38.1,ND,ND,108.0,39.0,38,con_azucar
+Yoghurt bebible sabor durazno,2,pieza,330,330,224,7.9,2.3,40.9,ND,ND,290.4,99.5,41,con_azucar
+Yoghurt bebible sabor fresa,2,pieza,330,330,224,7.9,2.3,40.9,ND,ND,290.4,0.1,41,con_azucar
+Yoghurt bebible sabor pina colada,2,pieza,330,330,224,7.9,2.3,40.9,ND,ND,290.4,99.5,41,con_azucar
+Yoghurt Benegastro sabor natural y fresa,1,pieza,170,170,137,3.4,2.26,25.6,ND,ND,133.7,55.7,23,con_azucar
+Yoghurt de cafe,3/4,taza,180,180,180,8.5,2.1,32.8,10.6,ND,211.8,95.3,30,con_azucar
+Yoghurt de fruta,3/4,taza,180,180,201,8.5,3.2,33.9,15.9,ND,211.8,105.9,32,con_azucar
+Yoghurt de vainilla,3/4,taza,180,180,201,8.5,3.2,33.9,15.9,ND,211.8,100.6,31,con_azucar
+Yoghurt Lala batido,1 1/2,pieza,188,188,182,6.2,4.4,30.0,ND,ND,196.9,159.4,ND,con_azucar
+Yoghurt Lala bebible frutas,1,pieza,250,250,195,5.5,4.0,20.0,ND,ND,ND,0.0,ND,con_azucar
+Yoghurt Lala Vive con fibra,1 1/2,vasito,225,225,210,8.9,6.3,33.2,ND,ND,254.3,121.5,ND,con_azucar
+Yoghurt Lala Vive Desalctosado,1,pieza,250,250,195,5.5,4.0,34.5,ND,ND,192.5,95.0,ND,con_azucar
+Yoghurt Lala Vive sin colesterol con Menoscol,1,pieza,250,250,185,6.8,1.0,37.3,ND,ND,225.0,75.0,ND,con_azucar
+Yoghurt para beber sabor fruta,1 1/4,pieza,313,313,216,5.9,5.0,37.5,ND,ND,221.9,81.3,ND,con_azucar
+Yoghurt Dan UP sabor fresa,1,pieza,240,240,191,4.0,4.0,35.0,ND,ND,217.1,74.7,31,con_azucar
+Yoghurt de soya,1,taza,180,180,169,6.3,3.2,28.7,ND,ND,ND,462.6,ND,con_azucar

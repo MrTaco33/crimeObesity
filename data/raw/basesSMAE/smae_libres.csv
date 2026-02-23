@@ -1,0 +1,212 @@
+alimento,cantidad_sugerida,unidad,peso_bruto_redondeado_g,peso_neto_g,energia_kcal,proteina_g,lipidos_g,hidratos_carbono_g,sodio_mg
+Achiote,0.25,cucharada,4,4,10,0.5,0.1,2.1,0.0
+Agua,1,taza,240,240,2,0.0,0.0,0.0,7.1
+Agua mineral,1,lata,355,355,4,0.0,0.0,0.0,74.6
+Ajo en polvo,0.5,cucharadita,2,2,5,0.3,0.0,1.1,0.5
+Albahaca deshidratada,1.5,cucharadita,2,2,5,0.2,0.0,0.9,0.0
+Albahaca molida,1.5,cucharadita,2,2,5,0.2,0.0,0.9,0.0
+Alcaparras,2,cucharada,17,17,4,0.4,0.1,0.8,509.8
+Alcaravea,0.5,cucharadita,1,1,4,0.2,0.2,0.5,0.0
+Anís,0.5,cucharadita,1,1,4,0.2,0.2,0.5,0.0
+Arúgula,1,taza,20,12,3,0.3,0.1,0.4,3.2
+Aspartame,1,sobre,1,1,0,0.0,0.0,0.0,0.0
+Azafrán,1,cucharadita,1,1,3,0.1,0.1,0.7,1.0
+Café americano,1,taza,240,240,5,0.3,0.0,0.9,5.4
+Café con azúcar,1,taza,240,240,5,0.3,0.0,8.2,5.4
+Café de grano,7,cucharada,56,56,4,11.2,0.0,0.0,0.0
+Café descafeinado,1,taza,240,240,5,0.3,0.0,0.9,5.4
+Café descafeinado preparado,1,taza,240,240,5,0.3,0.0,0.9,5.4
+Café en polvo,0.5,cucharada,1,1,4,0.1,0.0,0.9,0.8
+Café en polvo descafeinado,1,cucharadita,2,2,4,0.2,0.0,0.7,1.0
+Café en polvo sabor moka,2,cucharadita,4,4,8,0.4,0.0,1.4,2.0
+Café express,5.5,taza,440,440,10,0.5,0.0,1.7,9.9
+Café instantáneo,1,cucharadita,2,2,4,0.2,0.0,0.7,1.0
+Café instantáneo preparado,1,taza,240,240,5,0.3,0.0,0.9,6.7
+Café instantáneo descafeinado,1,cucharadita,2,2,4,0.2,0.0,0.8,0.0
+Café molido,1,cucharada,4,4,1,0.8,0.0,0.0,0.0
+Café ó té sin azúcar,1,taza,240,240,3,0.0,0.0,0.5,2.7
+Café sin azúcar,1,taza,240,240,5,0.3,0.0,0.9,5.4
+Caldo,0.5,taza,120,120,9,1.4,0.3,0.1,391.0
+Caldo de carne,0.5,taza,120,120,9,1.4,0.3,0.1,391.0
+Caldo de carne concentrado,0.25,taza,62,62,8,1.5,0.0,0.5,450.0
+Caldo de pescado,0.5,taza,120,120,9,1.4,0.3,0.1,391.0
+Caldo de pollo,0.5,taza,120,120,9,1.3,0.4,0.4,381.6
+Caldo de pollo concentrado,0.2,taza,50,50,12,0.8,0.8,0.8,308.0
+Caldo de pollo enlatado,0.2,taza,50,50,12,0.8,0.8,0.8,308.0
+Caldo de res,0.5,taza,120,120,9,1.4,0.3,0.1,391.0
+Caldo de res enlatado,0.33,taza,82,82,10,2.0,0.0,0.7,594.0
+Canela,1,cucharadita,2,2,5,0.1,0.1,1.6,1.0
+Canela en polvo,1,cucharadita,2,2,5,0.1,0.1,1.6,1.0
+Canela en raja,0.2,raja,2,2,5,0.1,0.1,1.6,1.0
+Canela molida,1,cucharadita,2,2,5,0.1,0.1,1.6,1.0
+Cardamomo,1,cucharadita,2,2,6,0.2,0.1,1.4,0.0
+Cardamomo molido,1,cucharadita,2,2,6,0.2,0.1,1.4,0.0
+Cáscara de limón,5,cucharadita,10,10,5,0.2,0.0,1.7,0.0
+Cáscara de naranja,2,cucharadita,4,4,4,0.1,0.0,1.0,0.0
+Cebolla deshidratada,1,cucharadita,1,1,4,0.0,0.0,0.8,4.0
+Cebolla en polvo,0.5,cucharadita,1,1,4,0.1,0.0,0.8,0.5
+Cebollín,15,cucharadita,15,15,5,0.5,0.0,0.5,0.0
+Cebollín deshidratado,30,cucharadita,12,12,0,0.0,0.0,0.0,0.0
+Cebollín fresco,15,cucharadita,15,15,5,0.5,0.0,0.5,0.0
+Cebollín liofilizado,10,cucharada,2,2,5,0.5,0.0,1.3,2.5
+Chicle sin azúcar,1,pieza,3,3,10,0.0,0.0,2.0,0.0
+Chile cascabel,3,g,3,3,8,0.3,0.2,1.6,0.0
+Chile en polvo,3,pieza,2,1,4,0.2,0.1,0.8,0.0
+Chile piquín,3,pieza,2,1,4,0.2,0.1,0.8,0.0
+Chile piquín molido,0.5,cucharadita,2,2,5,0.2,0.3,0.8,15.0
+Chocolate para repostería sin azúcar,2,g,2,2,10,0.2,1.1,0.6,0.3
+Clavo,1,cucharadita,2,2,6,0.1,0.4,1.2,5.0
+Clavo de olor,1,cucharadita,2,2,6,0.1,0.4,1.2,5.0
+Clavo en polvo,1,cucharadita,2,2,6,0.1,0.4,1.2,5.0
+Clavo entero,2,g,2,2,6,0.1,0.4,1.2,5.0
+Clavo molido,1,cucharadita,2,2,6,0.1,0.4,1.2,5.0
+Clight,3,sobre,4,4,8,0.0,0.0,2.0,6.5
+Coca Cola de dieta,1,lata,240,240,1,0.0,0.0,0.1,3.9
+Coca Cola Zero,1,lata,240,240,1,0.0,0.0,0.0,7.2
+Coca light,1,lata,240,240,1,0.0,0.0,0.1,3.9
+Cocacola de dieta,1,lata,240,240,1,0.0,0.0,0.1,3.9
+Cocoa en polvo con aspartame,0.25,cucharada,3,3,9,0.7,0.1,1.6,30.8
+Cocoa sin azúcar,0.2,cucharada,2,2,7,0.4,0.2,0.9,0.3
+Cocoa sin azúcar Hershey,0.2,cucharada,2,2,7,0.4,0.2,0.9,0.3
+Comino,1,cucharadita,2,2,7,0.4,0.4,0.9,3.0
+Comino entero,1,cucharadita,2,2,7,0.4,0.4,0.9,3.0
+Comino molido,0.5,cucharadita,1,1,6,0.2,0.2,0.4,2.0
+Concentrado de pollo,3,g,3,3,6,0.4,0.1,0.7,720.0
+Consomé,0.25,taza,60,60,10,1.2,0.3,0.2,190.8
+Consomé de camarón en polvo,0.33,cucharada,4,4,8,0.6,0.2,1.0,950.4
+Consomé de pescado,20,g,20,20,6,0.0,0.4,0.2,19.2
+Consomé de pollo,0.25,taza,60,60,10,1.2,0.3,0.2,190.8
+Consomé de pollo bajo en grasa,5,cucharada,60,60,5,0.3,0.0,0.8,120.0
+Consomé de pollo desgrasado en polvo,1,cucharada,12,12,2,0.0,0.4,0.4,0.0
+Consomé de pollo en cubo,0.33,pieza,2,2,4,0.3,0.1,0.5,475.2
+Consomé de pollo en polvo,0.33,cucharada,4,4,8,0.6,0.2,1.0,950.4
+Consomé de res,0.5,taza,120,120,9,1.4,0.3,0.1,391.0
+Consomé de res condensado,0.25,taza,60,60,8,1.3,0.2,0.0,391.2
+Consomé de res en cubo,0.33,pieza,2,2,5,0.3,0.2,0.5,336.3
+Consomé de res en polvo,1,cucharada,12,12,2,0.0,0.2,0.4,2.0
+Consomé de res enlatado,0.25,taza,60,60,8,1.3,0.2,0.0,391.2
+Consomé en polvo,0.33,cucharada,4,4,8,0.6,0.2,1.0,950.4
+Consomé sabor tomate,2,g,2,2,6,0.3,0.0,1.5,2.7
+Cremor tártaro,1,cucharadita,3,3,8,0.0,0.0,1.8,2.0
+Cubo consomé,0.25,pieza,6,6,12,0.8,0.2,1.4,1440.0
+Curry,1,cucharadita,2,2,7,0.3,0.3,1.2,1.0
+Curry en polvo,1,cucharadita,2,2,7,0.3,0.3,1.2,1.0
+Decaf,1,cucharadita,2,2,4,0.2,0.0,0.7,1.0
+Diet coke,1,taza,240,240,1,0.0,0.0,0.1,3.9
+Diet sprite,1,taza,240,240,3,0.1,0.0,0.0,0.0
+Eneldo,5,cucharadita,8,8,3,0.3,0.1,0.5,4.2
+Eneldo deshidratado,1,cucharadita,1,1,3,0.2,0.0,0.6,2.0
+Eneldo en semilla,1,cucharadita,2,2,6,0.3,0.3,1.1,0.0
+Especias para sazonar aves,1,cucharadita,2,2,6,0.2,0.2,1.3,1.0
+Estragón,1,cucharadita,2,2,6,0.5,0.1,1.0,1.0
+Estragón molido,1,cucharadita,2,2,6,0.5,0.1,1.0,1.0
+Estragón seco,1,cucharadita,2,2,6,0.5,0.1,1.0,1.0
+Extracto de vainilla,1,cucharadita,5,5,8,0.0,0.0,0.4,0.0
+Flor de jamaica,1,taza,37,1,1,0.0,0.0,0.2,0.1
+Gelatina de dieta,0.25,taza,60,60,4,0.6,0.0,0.4,28.7
+Gelatina sin azúcar preparada,1,taza,121,121,10,1.0,0.0,0.0,56.0
+Grenetina sin sabor,0.25,sobre,3,3,9,1.5,0.0,0.8,3.8
+Hierbabuena,10,g,10,10,4,0.2,0.2,0.7,0.0
+Hierbas de olor,1,cucharadita,2,2,5,0.1,0.2,1.4,2.0
+Hierbas finas,1,cucharadita,2,2,5,0.1,0.2,1.4,2.0
+Hierbas molidas,1,cucharadita,2,2,5,0.1,0.2,1.4,2.0
+Hinojo,10,g,10,10,3,0.1,0.0,0.7,5.2
+Hoja de aguacate,1,pieza,3,3,1,0.1,0.0,0.1,0.0
+Hojas de laurel,1,pieza,1,1,3,0.1,0.1,0.7,0.0
+Jamaica,1,taza,37,1,1,0.0,0.0,0.2,0.1
+Jengibre,3,cucharadita,6,6,4,0.1,0.1,0.9,0.8
+Jengibre fresco,1,cucharada,6,6,4,0.1,0.1,0.9,0.8
+Jengibre molido,1,cucharadita,2,2,7,0.2,0.1,1.4,1.0
+Jengibre rallado,1,cucharadita,2,2,1,0.0,0.0,0.3,0.3
+Kool-Aid en polvo sin azúcar,1,sobre,1,1,5,0.0,0.0,0.0,2.0
+Laurel,2,hoja,2,2,6,0.2,0.2,1.4,0.0
+Laurel fresco,2,hoja,2,2,6,0.2,0.2,1.4,0.0
+Laurel troceado,2,cucharadita,2,2,6,0.2,0.2,1.4,0.0
+Levadura comprimida,0.5,sobre,9,9,9,0.7,0.2,1.6,2.5
+Levadura en polvo,0.25,sobre,2,2,5,0.7,0.1,0.7,1.0
+Levadura fresca,2,g,2,2,5,0.9,0.0,0.9,2.1
+Levadura seca,0.5,sobre,4,4,11,1.4,0.2,1.4,2.0
+Limón,0.5,pieza,34,34,10,0.3,0.1,3.6,0.5
+Limón agrio,0.5,pieza,14,9,2,0.1,0.0,0.9,0.3
+Limón sin semilla,0.5,pieza,18,11,2,0.1,0.0,1.2,0.3
+Manzanilla fresca,10,g,10,10,4,0.2,0.2,0.7,0.0
+Manzanilla seca,1,bolsa,2,2,0,0.0,0.0,0.0,0.0
+Mejorana,1,cucharadita,1,1,3,0.1,0.1,0.6,1.0
+Menta,1,cucharadita,1,1,5,0.0,0.0,0.5,5.0
+Menta fresca,1,cucharadita,1,1,1,0.1,0.0,0.2,0.0
+Menta molida,1,cucharadita,2,2,6,0.2,0.2,1.2,2.0
+Monster Lo-Carb Energía,0.33,lata,158,158,7,0.0,0.0,2.0,118.8
+Mostaza,1,cucharadita,5,5,5,0.3,0.3,0.3,65.0
+Mostaza Dijón,1,cucharadita,5,5,5,0.3,0.3,0.3,65.0
+Mostaza en polvo,1,cucharadita,3,3,9,0.5,0.6,0.3,0.3
+Nuez moscada,1,cucharadita,2,2,10,0.1,0.7,1.0,0.0
+Nuez moscada molida,1,cucharadita,2,2,10,0.1,0.7,1.0,0.0
+Nutra sweet,1,sobre,1,1,0,0.0,0.0,0.0,0.0
+Orange crush diet,0.5,lata,178,178,10,0.0,0.0,2.5,22.2
+Orégano,1,cucharadita,2,2,6,0.2,0.2,1.3,0.0
+Orégano molido,1,cucharadita,2,2,5,0.2,0.2,1.0,0.0
+Orégano troceado,1,cucharadita,2,2,6,0.2,0.2,1.3,0.0
+Paprika,1,cucharadita,2,2,6,0.3,0.3,1.1,1.0
+Pepsi de dieta,1,lata,355,355,4,0.0,0.0,0.0,34.5
+Pepsi Max,1,lata,355,355,4,0.0,0.0,0.0,34.5
+Perejil deshidratado,1,cucharada,3,3,9,0.6,0.0,1.5,15.0
+Pimentón,1,cucharadita,2,2,6,0.3,0.3,1.1,1.0
+Pimienta,1,cucharadita,2,2,5,0.2,0.1,1.3,1.0
+Pimienta blanca,1,cucharadita,2,2,6,0.2,0.0,1.4,0.0
+Pimienta blanca en polvo,1,cucharadita,2,2,6,0.2,0.0,1.4,0.0
+Pimienta blanca entera,1,cucharadita,4,4,9,0.4,0.2,2.3,1.8
+Pimienta blanca molida,1,cucharadita,2,2,6,0.2,0.0,1.4,0.0
+Pimienta de cayena,1,cucharadita,2,2,6,0.2,0.3,1.1,1.0
+Pimienta de tabasco,1,cucharadita,2,2,6,0.2,0.3,1.1,1.0
+Pimienta gorda,1,cucharadita,4,4,9,0.4,0.2,2.3,1.8
+Pimienta molida,1,cucharadita,2,2,5,0.2,0.1,1.3,1.0
+Pimienta negra,1,cucharadita,2,2,5,0.2,0.1,1.3,1.0
+Pimienta negra en polvo,1,cucharadita,2,2,5,0.2,0.1,1.3,1.0
+Pimienta negra entera,1,cucharadita,4,4,9,0.4,0.2,2.3,1.8
+Pimienta negra molida,1,cucharadita,2,2,5,0.2,0.1,1.3,1.0
+Pimienta roja,1,cucharadita,2,2,6,0.2,0.3,1.1,1.0
+Pimienta verde,1,cucharadita,2,2,6,0.2,0.0,1.4,0.0
+Raíz de jengibre,1,cucharadita,2,2,1,0.0,0.0,0.3,0.3
+Raíz fuerte,5,g,5,5,3,0.1,0.0,0.7,0.6
+Raja de canela,0.33,pieza,2,2,6,0.1,0.1,1.8,1.2
+Ralladura de limón,5,cucharadita,10,10,5,0.2,0.0,1.7,0.0
+Ralladura de naranja,5,cucharadita,10,10,10,0.2,0.0,2.5,0.0
+Red Bull sugar free,0.5,lata,125,125,6,0.3,0.1,0.9,105.0
+Refresco de dieta,1,lata,355,355,1,0.0,0.0,0.1,5.7
+Refresco en polvo sin azúcar,1,sobre,1,1,5,0.0,0.0,0.0,2.0
+Romero,1,cucharadita,3,3,11,0.2,0.5,2.0,1.5
+Romero deshidratado,1,cucharadita,2,2,7,0.1,0.3,1.3,1.0
+Romero picado,0.5,cucharadita,2,2,6,0.1,0.3,1.1,0.9
+Sal,1,cucharadita,6,6,0,0.0,0.0,0.0,2325.0
+Sal de ajo,1,cucharadita,5,5,4,0.0,0.0,0.8,760.0
+Sal de apio,1,cucharadita,5,5,4,0.0,0.0,0.8,760.0
+Sal de potasio,1,cucharadita,5,5,0,0.0,0.0,0.0,0.0
+Salsa de barbecue,0.5,cucharada,8,8,6,0.1,0.1,1.0,64.9
+Salsa de soya,1,cucharadita,5,5,3,0.4,0.0,0.3,340.8
+Salsa inglesa,0.5,cucharada,8,8,8,1.0,0.5,3.8,82.5
+Salsa Tabasco,1,cucharadita,6,6,1,0.0,0.0,0.1,38.4
+Salsa teriyaki,1,cucharadita,5,5,5,0.3,0.0,0.8,254.7
+Salvia,1,cucharadita,1,1,3,0.1,0.1,0.6,0.0
+Semilla de anís,1,cucharadita,2,2,7,0.4,0.3,1.0,0.0
+Semilla de apio,1,cucharadita,2,2,8,0.4,0.5,0.8,3.0
+Semilla de cardamomo,1,cucharadita,2,2,6,0.2,0.1,1.4,0.0
+Semilla de cilantro,1,cucharadita,2,2,6,0.2,0.4,1.1,1.0
+Semilla de eneldo,1,cucharadita,2,2,6,0.3,0.3,1.1,0.0
+Semilla de mostaza,0.5,cucharadita,2,2,7,0.4,0.5,0.5,0.0
+Sidral de dieta,1,lata,355,355,1,0.0,0.0,0.1,5.7
+Sidral light,1,lata,355,355,1,0.0,0.0,0.1,5.7
+Squirt de dieta,1,lata,355,355,1,0.0,0.0,0.1,5.7
+Squirt light,1,lata,355,355,1,0.0,0.0,0.1,5.7
+Tomillo,1,cucharadita,2,2,7,0.2,0.2,1.3,1.0
+Vainilla,1,cucharadita,5,5,8,0.0,0.0,0.4,0.0
+Vainilla en trozo,0.25,raja,3,3,6,0.1,0.1,2.0,1.3
+Vinagre,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0
+Vinagre balsámico,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0
+Vinagre blanco,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0
+Vinagre de caña,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0
+Vinagre de fruta,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0
+Vinagre de jeréz,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0
+Vinagre de manzana,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0
+Vinagre de sidra,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0
+Vinagre de vino,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0
+Vinagre de yema,1,cucharadita,5,5,1,0.0,0.0,0.3,0.0

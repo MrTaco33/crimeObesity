@@ -1,0 +1,36 @@
+alimento,cantidad_sugerida,unidad,peso_bruto_g,peso_neto_g,energia_kcal,proteina_g,lipidos_g,hidratos_carbono_g,fibra_g,hierro_no_hem_mg,selenio_ug,sodio_mg,fosforo_mg,potasio_mg,azucar_por_equivalente_g,indice_glicemico,carga_glicemica
+Alubia cocida (chica o grande),0.5,taza,90,90,124,8.7,0.3,22.5,5.6,3.3,1.2,5.4,101.1,502.1,0.3,28.0,6.3
+Alubia cruda (chica o grande),35,g,35,35,117,8.1,0.3,21.1,5.3,3.7,4.5,5.6,105.4,628.3,0.7,ND,ND
+Alubia enlatada guisada,0.333,taza,86,86,99,6.3,0.3,18.3,4.2,2.6,1.4,299.9,78.7,392.5,0.3,52.0,9.5
+Alubia germinada,1,taza,190,190,63,9.1,1.1,8.9,ND,1.7,1.1,13.3,72.2,368.6,ND,ND,ND
+Alverjón o chícharo seco crudo,35,g,35,35,119,8.6,0.4,21.1,ND,1.6,0.6,5.3,128.1,343.4,2.8,ND,ND
+Alverjón o chícharo seco cocido,0.5,taza,98,98,116,8.2,0.4,20.7,ND,1.3,0.6,2.0,97.0,354.8,2.8,22.0,4.5
+Chícharo germinado cocido,0.5,taza,103,103,100,7.2,0.5,17.5,ND,1.7,0.6,3.1,24.6,274.7,ND,ND,ND
+Frijol germinado cocido,1,taza,124,124,97,8.8,1.0,18.6,10.7,2.6,0.7,17.4,127.7,393.1,ND,ND,ND
+Frijol germinado crudo,1.5,taza,156,156,105,9.6,1.1,20.4,ND,3.0,0.9,20.3,156.0,478.9,ND,ND,ND
+Frijol molido,0.333,taza,73,73,96,6.4,0.4,17.2,6.3,1.5,0.9,0.8,101.6,257.7,0.2,ND,ND
+Frijol promedio cocido,0.5,taza,86,86,114,7.6,0.5,20.4,7.5,1.8,1.0,1.0,120.4,305.3,0.3,43.0,8.8
+Frijol promedio crudo,35,g,35,35,119,7.6,0.5,21.8,5.3,1.8,1.1,1.8,123.2,519.1,0.7,ND,ND
+Frijoles enteros enlatados,0.5,taza,128,128,108,6.7,0.8,18.6,6.8,1.5,1.2,378.9,115.2,303.4,2.4,45.0,8.4
+Frijoles refritos caseros o enlatados,0.333,taza,75,75,95,4.1,4.1,11.3,7.1,ND,2.4,237.0,ND,ND,3.0,ND,ND
+Gandul,40,g,40,34,118,6.0,0.6,22.7,2.9,1.7,1.0,5.8,ND,473.3,ND,ND,ND
+Garbanzo cocido,0.5,taza,82,82,135,7.3,2.1,22.5,6.3,2.4,3.0,5.5,138.0,238.5,4.0,31.0,7.0
+Garbanzo crudo,35,g,35,35,127,6.8,2.2,21.2,6.1,2.2,2.9,8.4,128.1,306.3,3.7,ND,ND
+Garbanzo enlatado,0.5,taza,120,120,143,6.0,1.4,27.2,5.3,1.6,3.4,359.0,108.0,206.5,ND,42.0,11.4
+Haba seca cocida,0.5,taza,85,85,94,6.5,0.3,16.7,4.6,1.3,2.2,4.3,106.3,281.4,1.5,ND,ND
+Haba seca cruda,0.25,taza,38,38,128,9.8,0.6,21.9,9.4,2.5,3.1,4.9,157.9,398.3,2.1,ND,ND
+Harina de frijol,3,cucharada,33,33,110,7.4,0.7,19.4,1.5,4.4,4.2,2.6,ND,480.4,ND,ND,ND
+Harina de garbanzo,3,cucharada,33,33,117,6.6,2.2,18.7,1.5,2.3,3.9,8.5,ND,287.1,ND,ND,ND
+Harina de haba,3,cucharada,33,33,114,9.1,0.6,19.1,0.6,6.0,3.9,4.3,ND,ND,ND,ND,ND
+Harina de lenteja,3,cucharada,33,33,108,8.1,0.5,18.5,1.3,6.6,3.9,0.0,80.4,ND,ND,ND,ND
+Harina de soya,4,cucharada,25,25,108,9.3,5.1,7.8,2.4,1.6,1.8,2.9,116.6,500.0,ND,ND,ND
+Harina de soya baja en grasa,4,cucharada,25,25,91,12.2,2.2,7.5,2.4,1.5,2.3,4.4,145.3,629.7,2.5,ND,ND
+Harina de soya sin grasa,4,cucharada,22,22,81,11.2,1.5,7.9,2.1,1.3,13.0,2.0,148.5,459.8,4.4,ND,ND
+Hummus,5,cucharada,75,75,125,5.9,7.2,10.7,4.5,1.8,ND,284.3,132.0,171.0,ND,1.0,0.1
+Ibes o haba de lima cocido,0.5,taza,85,85,105,5.8,0.3,20.1,4.5,2.1,1.7,14.5,110.5,484.5,1.4,32.0,6.4
+Ibes o haba de lima crudo,90,g,90,90,102,6.2,0.8,18.2,4.4,2.8,1.6,7.2,122.4,420.3,1.3,ND,ND
+Lenteja cocida,0.5,taza,99,99,115,9.0,0.4,20.0,7.8,3.3,2.8,2.0,178.0,365.5,1.8,26.0,5.2
+Lenteja cruda,35,g,35,35,124,9.0,0.4,21.0,10.7,2.6,2.9,2.1,157.9,334.3,0.7,ND,ND
+Miso (soybean paste),60,g,60,60,120,7.1,3.6,15.9,3.2,1.5,0.0,2237.1,0.0,0.0,3.6,ND,ND
+Soya cocida,0.333,taza,57,57,98,9.4,5.1,5.6,3.4,2.9,4.1,0.6,139.1,292.3,1.7,18.0,1.0
+Soya texturizada,30,g,30,30,95,11.6,0.9,11.7,5.4,3.6,0.2,3.2,193.9,577.5,ND,ND,ND

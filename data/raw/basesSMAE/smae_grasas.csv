@@ -1,0 +1,235 @@
+alimento,subcategoria,cantidad_sugerida,unidad,peso_bruto_redondeado_g,peso_neto_g,energia_kcal,proteina_g,lipidos_g,hidratos_carbono_g,ag_saturados_g,ag_monoinsaturados_g,ag_poliinsaturados_g,colesterol_mg,sodio_mg
+Aceite,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.4,2.9,1.5,0.0,0.0
+Aceite comestible,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.4,2.9,1.5,0.0,0.0
+Aceite de aguacate,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.6,3.5,0.7,0.0,0.0
+Aceite de ajonjolí,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.7,2.0,2.1,0.0,0.0
+Aceite de algodón,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,1.3,0.9,2.6,0.0,0.0
+Aceite de almendra,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.4,3.5,0.9,0.0,0.0
+Aceite de cacahuate,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.9,2.3,1.6,0.0,0.0
+Aceite de cacao,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,3.0,1.6,0.1,0.0,0.0
+Aceite de canola,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.4,2.9,1.5,0.0,0.0
+Aceite de cártamo,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.7,2.0,2.1,0.0,0.0
+Aceite de coco,aceites_y_grasas,1,cucharadita,5,5,43,0.0,5.0,0.0,4.3,0.3,0.1,0.0,0.0
+Aceite de girasol,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.5,1.0,3.3,0.0,0.0
+Aceite de girasol 60% con ácido linoleico,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.5,1.0,3.3,0.0,0.0
+Aceite de girasol 70% con ácido oleico,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.6,2.3,1.8,0.0,0.0
+Aceite de hígado de bacalao,aceites_y_grasas,1,cucharadita,5,5,45,0.0,5.0,0.0,1.1,2.3,1.1,28.6,0.0
+Aceite de maíz,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.6,1.2,2.9,0.0,0.0
+Aceite de oliva,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.7,3.7,0.4,0.0,0.0
+Aceite de oliva extra virgen,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.7,3.7,0.4,0.0,0.0
+Aceite de olivo,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.7,3.7,0.4,0.0,0.0
+Aceite de palma,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,2.5,1.9,0.5,0.0,0.0
+Aceite de soya,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.7,1.1,2.6,0.0,0.0
+Aceite de soya y algodón,aceites_y_grasas,1,cucharadita,5,5,44,0.0,5.0,0.0,0.9,1.5,2.4,0.0,0.0
+Aceite en spray,aceites_y_grasas,5,disp. de un segundo,5,5,44,0.0,5.0,0.0,0.6,1.2,2.9,0.0,0.0
+Aceituna negra sin hueso,aceites_y_grasas,5,pieza,25,25,46,0.3,5.0,0.8,0.5,3.8,0.3,0.0,600.0
+Aceituna verde con hueso,aceites_y_grasas,6,pieza,30,25,46,0.3,5.1,0.8,0.5,3.8,0.3,0.0,604.8
+Aceituna verde sin hueso,aceites_y_grasas,8,pieza,24,24,44,0.3,4.8,0.8,0.5,3.6,0.2,0.0,576.0
+Aceitunas rellenas de anchoa,aceites_y_grasas,5,pieza,25,25,46,0.6,4.5,0.8,0.0,0.0,0.0,0.0,600.0
+Aceitunas rellenas de pimiento,aceites_y_grasas,7,pieza,35,35,44,0.0,3.5,2.6,0.9,2.6,0.0,0.0,306.3
+Aderezo,aceites_y_grasas,3,cucharada,45,45,48,0.0,4.5,2.1,0.6,0.9,2.7,3.0,354.0
+Aderezo blue cheese,aceites_y_grasas,0.5,cucharada,8,8,38,0.4,3.9,0.6,0.8,0.9,2.1,1.5,82.0
+Aderezo con queso y ajo,aceites_y_grasas,0.5,cucharada,8,8,33,0.0,3.8,0.2,0.6,0.0,0.0,0.0,77.3
+Aderezo cremoso,aceites_y_grasas,0.5,cucharada,8,8,38,0.4,3.9,0.6,0.8,0.9,2.1,1.5,82.0
+Aderezo de ciruela pasas,aceites_y_grasas,0.5,cucharada,8,8,39,0.1,3.9,1.1,0.6,2.4,0.7,11.1,35.7
+Aderezo de hierbas finas,aceites_y_grasas,0.5,cucharada,8,8,31,0.1,3.2,0.8,0.5,2.3,0.3,0.0,73.0
+Aderezo de mayonesa,aceites_y_grasas,0.5,cucharada,7,7,51,0.1,5.4,0.3,0.9,3.4,1.0,18.2,41.8
+Aderezo de miel y mostaza,aceites_y_grasas,0.5,cucharada,8,8,36,0.0,3.6,1.0,0.5,0.0,0.0,0.0,48.4
+Aderezo francés,aceites_y_grasas,0.5,cucharada,8,8,32,0.0,3.1,1.3,0.7,0.6,1.6,0.0,102.7
+Aderezo italiano,aceites_y_grasas,0.5,cucharada,8,8,35,0.1,3.6,0.8,0.6,0.9,2.1,0.0,59.0
+Aderezo italiano bajo en calorías,aceites_y_grasas,3,cucharada,45,45,48,0.0,4.5,2.1,0.6,0.9,2.7,3.0,354.0
+Aderezo italiano cremoso,aceites_y_grasas,0.5,cucharada,8,8,28,0.0,2.8,0.8,1.0,0.0,0.0,0.0,57.5
+Aderezo italiano cremoso bajo en calorías,aceites_y_grasas,4,cucharada,60,60,40,2.0,2.2,6.0,0.8,0.0,0.0,0.0,560.0
+Aderezo jalapeño,aceites_y_grasas,0.5,cucharada,8,8,33,0.1,3.4,0.7,0.5,2.1,0.6,11.1,30.4
+Aderezo mil islas,aceites_y_grasas,0.5,cucharada,8,8,28,0.0,2.7,1.1,0.5,0.6,1.5,1.9,52.5
+Aderezo ranch,aceites_y_grasas,0.5,cucharada,8,8,44,0.0,4.7,0.5,0.8,0.0,0.0,1.3,69.8
+Aderezo roquefort,aceites_y_grasas,0.5,cucharada,8,8,38,0.4,3.9,0.6,0.8,0.9,2.1,1.5,82.0
+Aderezo ruso,aceites_y_grasas,0.5,cucharada,8,8,37,0.1,3.8,0.8,0.6,0.9,2.2,1.5,65.0
+Aderezo tipo blue cheese,aceites_y_grasas,0.5,cucharada,8,8,38,0.4,3.9,0.6,0.8,0.9,2.1,1.5,82.0
+Aderezo tipo cesar,aceites_y_grasas,0.5,cucharada,8,8,33,0.3,3.3,0.5,0.6,0.0,0.0,1.3,92.5
+Aderezo tipo francés,aceites_y_grasas,0.5,cucharada,8,8,32,0.0,3.1,1.3,0.7,0.6,1.6,0.0,102.7
+Aderezo tipo mil islas,aceites_y_grasas,0.5,cucharada,8,8,28,0.0,2.7,1.1,0.5,0.6,1.5,1.9,52.5
+Aderezo tipo ranch,aceites_y_grasas,0.5,cucharada,8,8,44,0.0,4.7,0.5,0.8,0.0,0.0,1.3,69.8
+Aderezo vinagreta casera,aceites_y_grasas,2,cucharadita,10,10,45,0.0,5.0,0.3,0.9,1.5,2.4,0.0,0.0
+Aderezo vinagreta comercial,aceites_y_grasas,4,cucharadita,20,20,41,0.0,3.3,2.7,0.7,0.0,0.0,0.0,166.7
+Aguacate California,aceites_y_grasas,0.33,pieza,58,31,54,0.7,5.3,2.1,0.8,3.4,0.6,0.0,3.7
+Aguacate de pellejo,aceites_y_grasas,1.5,pieza,68,36,44,0.5,4.5,2.0,0.7,1.8,0.4,0.0,1.4
+Aguacate florida,aceites_y_grasas,0.33,pieza,101,54,60,0.8,4.8,4.8,0.9,2.6,0.8,0.0,2.6
+Aguacate hass,aceites_y_grasas,0.33,pieza,58,31,54,0.7,5.3,2.1,0.8,3.4,0.6,0.0,3.7
+Aguacate mediano,aceites_y_grasas,0.33,pieza,58,31,44,0.5,4.1,2.3,0.7,2.7,0.6,0.0,1.2
+Aguacate verde,aceites_y_grasas,0.5,pieza,48,25,46,0.5,4.6,1.5,0.8,2.0,0.5,0.0,1.0
+Calahua,aceites_y_grasas,1,cucharada,19,19,35,0.5,3.3,1.6,2.9,0.1,0.0,0.0,9.4
+Coco,aceites_y_grasas,8,g,8,6,41,0.5,4.3,0.9,0.0,0.0,0.0,0.0,0.0
+Coco de aceite,aceites_y_grasas,8,g,8,6,41,0.5,4.3,0.9,0.0,0.0,0.0,0.0,0.0
+Coco deshidratado,aceites_y_grasas,6,g,6,6,40,0.4,3.9,1.5,3.5,0.2,0.0,0.0,2.1
+Coco en hojuelas,aceites_y_grasas,2,cucharada,9,9,44,0.3,3.0,4.4,2.6,0.1,0.0,0.0,23.6
+Coco entero,aceites_y_grasas,25,g,25,14,42,0.5,4.6,0.7,4.1,0.5,0.1,0.0,3.2
+Coco fresco,aceites_y_grasas,12,g,12,12,42,0.4,4.0,1.8,3.6,0.2,0.1,0.0,2.4
+Coco rallado,aceites_y_grasas,1.5,cucharada,9,9,44,0.3,3.1,4.2,2.7,0.1,0.0,0.0,22.9
+Coco rallado y endulzado,aceites_y_grasas,1.5,cucharada,9,9,44,0.3,3.1,4.2,2.7,0.1,0.0,0.0,22.9
+Coco seco,aceites_y_grasas,1.5,cucharada,9,9,44,0.3,3.1,4.2,2.7,0.1,0.0,0.0,22.9
+Coco seco y endulzado,aceites_y_grasas,1.5,cucharada,9,9,44,0.3,3.1,4.2,2.7,0.1,0.0,0.0,22.9
+Coquito,aceites_y_grasas,8,g,8,6,41,0.5,4.3,0.9,0.0,0.0,0.0,0.0,0.0
+Crema,aceites_y_grasas,1,cucharada,15,15,43,0.0,3.2,2.1,2.1,0.0,0.0,10.7,0.0
+Crema 20% grasa (dulce),aceites_y_grasas,1.33,cucharada,21,21,41,0.6,4.1,0.8,2.6,1.0,0.1,14.0,8.5
+Crema 40% grasa (agria),aceites_y_grasas,1,cucharada,13,13,45,0.3,4.8,0.4,3.0,1.2,0.1,17.8,4.9
+Crema ácida,aceites_y_grasas,2,cucharada,21,21,46,0.7,4.4,0.9,2.8,1.2,0.2,8.8,10.5
+Crema agria,aceites_y_grasas,1,cucharada,13,13,44,0.3,4.8,0.4,3.0,1.2,0.1,17.6,4.9
+Crema batida,aceites_y_grasas,1.5,cucharada,12,12,42,0.2,4.4,0.3,2.8,1.3,0.2,16.8,4.8
+Crema batida en aerosol,aceites_y_grasas,5,cucharada,15,15,40,0.5,3.5,2.0,2.0,1.0,0.0,10.0,20.0
+Crema chantilly,aceites_y_grasas,1.5,cucharada,12,12,42,0.2,4.4,0.3,2.8,1.3,0.2,16.8,4.8
+Crema de coco dulce,aceites_y_grasas,3,cucharadita,19,19,36,0.2,3.1,10.1,2.9,0.1,0.0,0.0,6.8
+Crema de coco natural,aceites_y_grasas,3,cucharadita,15,15,50,0.5,5.2,1.0,4.6,0.2,0.1,0.0,0.6
+Crema de leche en polvo,aceites_y_grasas,4,cucharadita,8,8,44,0.4,2.8,4.4,2.4,0.1,0.0,0.0,14.5
+Crema dulce,aceites_y_grasas,4,cucharadita,19,19,36,0.5,3.6,0.7,2.2,0.9,0.1,12.3,7.5
+Crema dulce para batir,aceites_y_grasas,4,cucharadita,19,19,36,0.5,3.6,0.7,2.2,0.9,0.1,12.3,7.5
+Crema entera,aceites_y_grasas,1,cucharada,14,14,41,0.3,4.3,0.4,2.7,1.3,0.1,15.9,4.7
+Crema Lala Light,aceites_y_grasas,5,cucharada,80,80,39,0.8,3.4,1.4,ND,ND,ND,ND,0.0
+Crema ligera,aceites_y_grasas,1,cucharada,14,14,41,0.3,4.3,0.4,2.7,1.3,0.1,15.9,4.7
+Crema natural,aceites_y_grasas,1,cucharada,15,15,43,0.0,3.2,2.1,2.1,0.0,0.0,10.7,0.0
+Crema para batir,aceites_y_grasas,1.5,cucharada,21,21,41,0.6,4.1,0.8,2.5,1.0,0.1,13.9,8.4
+Crema para café,aceites_y_grasas,1,cucharada,14,14,41,0.3,4.3,0.4,2.7,1.3,0.1,15.9,4.7
+Dip,aceites_y_grasas,2,cucharada,30,30,48,1.0,3.9,1.9,2.9,0.0,0.0,19.4,154.8
+Dip de cebolla,aceites_y_grasas,2,cucharada,30,30,48,1.0,3.9,1.9,2.9,0.0,0.0,19.4,154.8
+Dip preparado,aceites_y_grasas,2,cucharada,30,30,48,1.0,3.9,1.9,2.9,0.0,0.0,19.4,154.8
+Dip preparado con crema,aceites_y_grasas,2,cucharada,30,30,48,1.0,3.9,1.9,2.9,0.0,0.0,19.4,154.8
+Grasa de tocino,aceites_y_grasas,5,g,5,5,44,0.0,5.0,0.0,2.2,2.1,0.6,4.8,0.0
+Grasas animales,aceites_y_grasas,5,g,5,5,44,0.0,5.0,0.0,2.2,2.1,0.6,4.8,0.0
+Grasas vegetales para cocinar,aceites_y_grasas,5,g,5,5,44,0.0,5.0,0.0,1.2,3.3,0.4,0.0,0.0
+Guacamole,aceites_y_grasas,2,cucharada,28,28,46,1.0,3.7,2.7,0.0,0.0,0.0,0.0,195.7
+Lardo,aceites_y_grasas,5,g,5,5,45,0.0,5.0,0.0,2.0,2.1,0.5,4.8,0.0
+Manteca de cerdo,aceites_y_grasas,1,cucharadita,4,4,39,0.0,4.3,0.0,1.7,2.0,0.5,4.0,0.0
+Manteca vegetal,aceites_y_grasas,1,cucharadita,4,4,38,0.0,4.3,0.0,1.1,1.9,1.1,0.0,0.0
+Mantequilla,aceites_y_grasas,1.5,cucharadita,6,6,47,0.1,5.3,0.0,3.3,1.3,0.1,14.2,0.6
+Mantequilla con sal,aceites_y_grasas,1.5,cucharadita,6,6,47,0.1,5.3,0.0,3.3,1.3,0.1,14.2,53.6
+Mantequilla derretida,aceites_y_grasas,1,cucharadita,5,5,36,0.0,4.1,0.0,2.5,1.0,0.1,11.0,0.5
+Mantequilla Lala Reducida en grasa,aceites_y_grasas,7,cucharada,84,84,32,0.2,3.4,0.2,ND,ND,ND,ND,11.8
+Mantequilla sin sal,aceites_y_grasas,1.5,cucharadita,6,6,47,0.1,5.3,0.0,3.3,1.3,0.1,14.2,0.6
+Margarina,aceites_y_grasas,1,cucharadita,4,4,39,0.0,4.3,0.0,1.7,1.9,0.5,2.3,0.0
+Margarina baja en grasa,aceites_y_grasas,2.5,cucharadita,11,11,42,0.0,5.0,0.0,0.0,0.0,0.0,0.0,108.3
+Margarina con sal,aceites_y_grasas,1.5,cucharadita,6,6,47,0.1,5.2,0.1,1.0,2.3,1.6,0.0,61.2
+Margarina sin sal,aceites_y_grasas,1,cucharadita,4,4,39,0.0,4.3,0.0,1.7,1.9,0.5,2.3,0.0
+Mayonesa,aceites_y_grasas,1,cucharadita,5,5,34,0.1,3.6,0.2,0.6,2.2,0.7,12.1,27.8
+Media crema,aceites_y_grasas,2,cucharada,30,30,40,0.8,3.4,1.2,2.2,1.0,0.2,12.0,12.0
+Pam,aceites_y_grasas,5,disp. de un segundo,5,5,44,0.0,5.0,0.0,0.6,1.2,2.9,0.0,0.0
+Praliné,aceites_y_grasas,0.5,cucharada,8,8,36,0.2,1.9,5.0,0.1,1.2,0.5,0.0,4.9
+Queso crema,aceites_y_grasas,1,cucharada,13,13,46,1.0,4.6,0.4,2.9,1.3,0.2,14.4,39.0
+Queso crema bajo en grasa,aceites_y_grasas,1,cucharada,13,13,32,1.1,3.0,0.3,2.1,0.0,0.0,6.1,51.1
+Queso crema untable,aceites_y_grasas,1,cucharada,10,10,37,0.7,3.7,0.3,2.3,0.0,0.0,11.6,31.6
+Queso Philadelphia,aceites_y_grasas,1,cucharada,13,13,46,1.0,4.6,0.4,2.9,1.3,0.2,14.4,39.0
+Salsa alfredo,aceites_y_grasas,1,cucharada,14,14,44,0.7,4.3,0.8,0.0,0.0,0.0,7.0,50.8
+Salsa holandesa industrializada,aceites_y_grasas,0.5,cucharada,8,8,44,0.9,3.7,2.6,2.2,1.1,0.2,9.4,292.0
+Salsa tártara industrializada,aceites_y_grasas,1,cucharadita,16,16,52,0.0,5.2,2.1,2.1,0.0,0.0,5.2,93.0
+Salsa tártara sin grasa,aceites_y_grasas,4,cucharada,62,62,48,0.0,2.0,9.7,0.8,0.0,0.0,0.0,406.9
+Salsa velouté,aceites_y_grasas,1.5,cucharada,21,21,38,0.6,3.4,1.1,0.0,0.0,0.0,8.6,98.3
+Tocino,aceites_y_grasas,1,rebanada delgada,8,8,44,0.7,4.6,0.0,1.7,2.0,0.5,5.4,54.8
+Tocino ahumado,aceites_y_grasas,1,rebanada delgada,8,8,44,0.7,4.6,0.0,1.7,2.0,0.5,5.4,54.8
+Tocino en lonja,aceites_y_grasas,8,g,8,8,44,0.7,4.6,0.0,1.7,2.0,0.5,5.4,54.8
+Tocino frito,aceites_y_grasas,1,rebanada,7,7,39,0.6,4.0,0.0,0.0,0.0,0.0,5.7,48.0
+Tocino imitación,aceites_y_grasas,1,rebanada,10,10,41,1.0,3.9,0.1,0.0,0.0,0.0,6.7,96.7
+Vinagreta,aceites_y_grasas,0.5,cucharada,8,8,36,0.0,4.0,0.2,0.8,1.2,2.0,0.0,0.0
+Vinagreta baja en calorías,aceites_y_grasas,5,cucharada,80,80,38,0.0,0.0,7.5,0.0,0.0,0.0,0.0,1000.0
+Vinagreta comercial,aceites_y_grasas,1.5,cucharada,23,23,46,0.0,3.8,3.0,0.8,0.0,0.0,0.0,187.5
+Ajonjolí,aceites_y_grasas_con_proteina,4,cucharadita,10,10,61,2.7,5.7,1.0,0.8,2.2,2.5,0.0,3.9
+Ajonjolí tostado,aceites_y_grasas_con_proteina,5,cucharada,13,13,75,2.2,6.3,3.4,0.9,2.4,2.8,0.0,5.1
+Almendra,aceites_y_grasas_con_proteina,10,pieza,12,12,66,2.7,6.6,0.5,0.5,4.3,1.3,0.0,0.5
+Almendra acaramelada,aceites_y_grasas_con_proteina,6,pieza,12,12,72,2.2,6.0,3.4,0.4,3.3,1.5,0.0,15.9
+Almendra ahumada,aceites_y_grasas_con_proteina,10,pieza,12,12,71,2.6,6.4,2.1,0.0,0.0,0.0,0.0,73.7
+Almendra deshidratada,aceites_y_grasas_con_proteina,10,pieza,12,12,71,2.4,6.3,2.4,0.6,4.1,1.3,0.0,1.3
+Almendra fileteada,aceites_y_grasas_con_proteina,2,cucharada,12,12,72,2.5,6.5,2.2,0.5,4.3,1.4,0.0,0.0
+Almendra picada,aceites_y_grasas_con_proteina,4,cucharadita,10,10,62,2.1,5.2,1.8,0.4,0.0,1.2,0.0,0.0
+Almendra tostada,aceites_y_grasas_con_proteina,10,cucharada,12,12,71,2.0,6.3,3.0,0.6,4.1,1.3,0.0,1.3
+Avellana,aceites_y_grasas_con_proteina,9,pieza,13,13,72,2.5,6.5,2.3,0.0,0.0,0.0,0.0,0.0
+Avellana picada,aceites_y_grasas_con_proteina,5,cucharadita,12,12,71,2.4,6.4,2.3,0.0,0.0,0.0,0.0,0.0
+Avellana salada,aceites_y_grasas_con_proteina,8,pieza,11,11,72,1.8,7.1,1.6,0.0,0.0,0.0,0.0,15.6
+Avellana tostada,aceites_y_grasas_con_proteina,8,pieza,11,11,75,1.1,7.5,2.0,0.6,5.9,0.7,0.0,0.4
+Cacahuate,aceites_y_grasas_con_proteina,14,pieza,12,12,73,2.9,6.2,2.7,0.9,3.1,1.9,0.0,100.6
+Cacahuate acaramelado,aceites_y_grasas_con_proteina,5,cucharadita,14,14,75,3.0,6.5,2.5,1.0,3.5,2.0,0.0,57.8
+Cacahuate cocido,aceites_y_grasas_con_proteina,20,g,20,20,64,2.7,4.4,4.3,0.6,2.2,1.4,0.0,150.0
+Cacahuate con cáscara,aceites_y_grasas_con_proteina,12,g,12,12,70,2.8,6.0,0.2,0.8,1.9,1.7,0.0,0.6
+Cacahuate con pepitas,aceites_y_grasas_con_proteina,12,g,12,12,75,2.8,6.0,2.4,0.8,2.8,2.4,0.0,144.0
+Cacahuate con piel,aceites_y_grasas_con_proteina,15,pieza,14,14,72,3.4,6.3,2.9,1.4,2.9,1.9,0.0,50.6
+Cacahuate enchilado,aceites_y_grasas_con_proteina,13,pieza,12,12,67,2.9,5.9,2.1,0.8,2.9,1.7,0.0,79.4
+Cacahuate japonés,aceites_y_grasas_con_proteina,15,pieza,14,14,68,2.7,3.6,6.3,0.0,0.0,0.0,0.0,270.0
+Cacahuate picado,aceites_y_grasas_con_proteina,5,cucharadita,12,12,74,3.0,6.2,2.7,0.9,3.1,1.9,0.0,101.9
+Cacahuate salado,aceites_y_grasas_con_proteina,13,pieza,12,12,71,3.2,5.5,2.4,1.0,2.9,1.6,0.0,34.0
+Cacahuate tostado,aceites_y_grasas_con_proteina,13,pieza,12,12,69,2.8,5.9,2.5,0.8,2.9,1.8,0.0,96.1
+Cacahuates confitados,aceites_y_grasas_con_proteina,0.25,bolsa,14,14,72,1.4,4.3,7.1,1.5,2.0,0.6,0.7,36.7
+Cacahuates cubiertos con salsa y limón,aceites_y_grasas_con_proteina,2,cucharada,13,13,72,2.6,4.6,5.3,0.0,0.0,0.0,0.0,124.7
+Cacao con cáscara,aceites_y_grasas_con_proteina,14,g,14,13,70,1.9,5.9,3.3,3.4,2.4,0.1,0.0,0.5
+Cacao pataste,aceites_y_grasas_con_proteina,12,g,12,12,72,2.1,6.5,2.6,3.6,2.5,0.1,0.0,0.5
+Cacao sin cáscara,aceites_y_grasas_con_proteina,12,g,12,12,67,1.9,5.9,2.5,3.2,2.3,0.1,0.0,0.5
+Chía,aceites_y_grasas_con_proteina,7,cucharada,49,12,69,3.5,5.9,1.9,1.2,0.9,3.5,0.0,12.3
+Chilorio,aceites_y_grasas_con_proteina,30,g,30,30,64,5.0,4.7,0.7,0.7,0.0,0.0,17.1,203.1
+Chilorio de pavo,aceites_y_grasas_con_proteina,30,g,30,30,64,5.0,4.7,0.7,0.7,0.0,0.0,17.1,203.1
+Chistorra,aceites_y_grasas_con_proteina,15,g,15,15,73,1.7,7.0,0.7,0.0,0.0,0.0,25.5,156.8
+Chorizo,aceites_y_grasas_con_proteina,15,g,15,15,64,3.5,5.6,0.0,2.1,2.4,0.4,16.2,11.5
+Chorizo de pollo,aceites_y_grasas_con_proteina,35,g,35,35,72,5.0,5.7,0.1,0.0,0.0,0.0,5.3,302.4
+Chorizo vegetariano,aceites_y_grasas_con_proteina,15,g,15,15,70,4.1,5.7,0.2,0.0,0.0,0.0,0.0,0.0
+Coroso,aceites_y_grasas_con_proteina,14,g,14,11,72,0.8,7.5,1.6,0.0,0.0,0.0,0.0,0.0
+Falafel hecho en casa,aceites_y_grasas_con_proteina,20,g,20,20,67,2.7,3.5,6.4,0.0,0.0,0.0,0.0,0.0
+Harina de ajonjolí,aceites_y_grasas_con_proteina,13,g,13,13,69,4.0,4.9,3.5,0.7,1.9,2.1,0.0,5.6
+Harina de almendras,aceites_y_grasas_con_proteina,11,g,11,11,66,2.2,5.7,2.5,0.6,3.7,1.2,0.0,0.8
+Harina de cacahuate,aceites_y_grasas_con_proteina,15,g,15,15,65,5.1,3.3,4.8,0.5,1.7,1.1,0.0,0.0
+Hot nuts,aceites_y_grasas_con_proteina,0.25,paquete,13,13,68,2.1,4.2,5.3,0.8,ND,ND,ND,133.5
+Hummus de garbanzo,aceites_y_grasas_con_proteina,20,g,20,20,67,2.7,3.5,6.4,0.0,0.0,0.0,0.0,0.0
+Jamón serrano,aceites_y_grasas_con_proteina,15,g,15,15,70,2.4,3.9,6.7,1.5,ND,ND,ND,3257.0
+KKwate Sabritas Japonés,aceites_y_grasas_con_proteina,15,g,15,15,74,2.4,4.2,6.6,0.0,0.0,0.0,0.0,69.0
+KKwate Sabritas Salado,aceites_y_grasas_con_proteina,10,g,10,10,60,2.0,5.2,1.2,0.0,0.0,0.0,0.0,60.0
+Mafer Tostado Sazonado,aceites_y_grasas_con_proteina,12,g,12,12,66,2.7,5.4,1.7,0.0,0.0,0.0,0.0,76.8
+Mantequilla de cacahuate,aceites_y_grasas_con_proteina,2,cucharadita,11,11,63,2.6,5.3,2.3,1.0,2.5,1.5,0.0,52.0
+Mazapan Azteca Oreo,aceites_y_grasas_con_proteina,0.5,pieza,15,15,75,1.5,3.5,9.5,0.5,0.0,0.0,0.0,9.0
+Mazapán sin azúcar,aceites_y_grasas_con_proteina,1,pieza,25,25,73,4.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
+Nueces mixtas,aceites_y_grasas_con_proteina,1,cucharada,12,12,74,2.0,6.8,2.6,1.0,3.8,1.6,0.0,78.2
+Nuez,aceites_y_grasas_con_proteina,3,pieza,9,9,67,0.9,7.0,1.3,0.6,4.2,1.9,0.0,0.1
+Nuez acaramelada,aceites_y_grasas_con_proteina,0.75,taza,12,12,64,1.7,5.6,3.0,1.3,3.0,1.3,0.0,38.6
+Nuez de castilla,aceites_y_grasas_con_proteina,3,pieza,9,9,67,0.9,7.0,1.3,0.6,4.2,1.9,0.0,0.1
+Nuez de la india acaramelada,aceites_y_grasas_con_proteina,12,g,12,12,64,1.7,5.6,3.0,1.3,3.0,1.3,0.0,38.6
+Nuez de la india con almendras,aceites_y_grasas_con_proteina,12,g,12,12,73,2.1,6.4,2.6,0.9,3.9,1.7,0.0,40.7
+Nuez de la india con sal,aceites_y_grasas_con_proteina,7,pieza,11,11,66,1.9,5.2,2.7,1.0,3.2,1.0,0.0,32.0
+Nuez de la india sin sal en mitades,aceites_y_grasas_con_proteina,15,mitades,12,12,72,2.1,5.9,3.4,1.1,3.4,1.1,0.0,0.0
+Nuez de la india tostada sin sal,aceites_y_grasas_con_proteina,8,pieza,13,13,73,1.9,5.9,4.2,1.2,3.5,1.0,0.0,2.3
+Nuez de macadamia deshidratada,aceites_y_grasas_con_proteina,4,pieza,10,10,73,0.9,7.7,1.4,1.1,6.1,0.1,3.0,0.4
+Nuez deshidratada,aceites_y_grasas_con_proteina,3,pieza,9,9,67,0.9,7.0,1.3,0.6,4.2,1.9,0.0,0.1
+Nuez en mitades,aceites_y_grasas_con_proteina,7,mitades,10,10,74,1.0,7.7,1.4,0.7,4.6,2.1,0.0,0.1
+Nuez entera,aceites_y_grasas_con_proteina,3,pieza,9,9,67,0.9,7.0,1.3,0.6,4.2,1.9,0.0,0.1
+Nuez garapiñada,aceites_y_grasas_con_proteina,0.75,taza,12,12,64,1.7,5.6,3.0,1.3,3.0,1.3,0.0,38.6
+Nuez picada,aceites_y_grasas_con_proteina,10,g,10,10,71,1.0,7.4,1.4,0.6,4.4,2.1,0.0,0.1
+Nuez tostada,aceites_y_grasas_con_proteina,3,pieza,9,9,67,0.9,7.0,1.3,0.6,4.2,1.9,0.0,0.1
+Pasta de almendras,aceites_y_grasas_con_proteina,4,cucharadita,13,13,62,1.2,3.8,6.5,0.3,2.4,0.8,0.0,1.4
+Pasta de cacahuate,aceites_y_grasas_con_proteina,5,cucharadita,13,13,73,3.5,6.2,2.2,1.1,3.1,1.8,0.0,59.8
+Pasta de cacahuate desgrasada,aceites_y_grasas_con_proteina,7,cucharadita,18,18,76,5.3,4.4,4.9,1.6,4.4,2.5,0.0,106.2
+Paté,aceites_y_grasas_con_proteina,5,cucharadita,22,22,69,3.1,6.1,0.3,0.0,0.0,0.0,0.0,150.9
+Paté de cerdo,aceites_y_grasas_con_proteina,1,cucharada,13,13,61,1.5,5.8,0.6,1.9,3.4,0.1,20.0,91.9
+Paté de Foie Gras,aceites_y_grasas_con_proteina,1,cucharada,13,13,60,1.5,5.7,0.6,1.9,3.3,0.1,19.5,90.6
+Paté de ganso,aceites_y_grasas_con_proteina,1,cucharada,13,13,61,1.5,5.8,0.6,1.9,3.4,0.1,20.0,91.9
+Paté de hígado de cerdo,aceites_y_grasas_con_proteina,1,cucharada,13,13,61,1.5,5.8,0.6,1.9,3.4,0.1,20.0,91.9
+Paté de hígado de ternera,aceites_y_grasas_con_proteina,1,cucharada,13,13,61,1.5,5.8,0.6,1.9,3.4,0.1,20.0,91.9
+Paté de pollo,aceites_y_grasas_con_proteina,8,cucharadita,35,35,71,4.7,4.6,2.4,1.4,1.9,0.9,137.3,134.8
+Paté de ternera,aceites_y_grasas_con_proteina,1,cucharada,13,13,61,1.5,5.8,0.6,1.9,3.4,0.1,20.0,91.9
+Pepita limpia,aceites_y_grasas_con_proteina,1.5,cucharada,15,15,79,5.0,6.4,2.0,1.2,2.0,2.9,0.0,2.7
+Pepitas,aceites_y_grasas_con_proteina,60,pieza,12,12,66,3.0,5.6,2.1,1.1,1.7,2.5,0.0,2.1
+Pepitas con cáscara,aceites_y_grasas_con_proteina,2,cucharada,13,13,70,3.5,5.6,1.3,0.9,2.2,2.6,0.0,520.0
+Pepitas de calabaza,aceites_y_grasas_con_proteina,1.5,cucharada,12,12,66,3.6,5.5,1.7,0.0,0.0,0.0,0.0,0.0
+Pepitas de melón,aceites_y_grasas_con_proteina,5,cucharadita,12,12,66,3.3,5.6,1.8,1.2,0.9,3.3,0.0,11.7
+Pepitas tostadas,aceites_y_grasas_con_proteina,1,cucharada,13,13,69,4.3,5.5,1.8,1.1,1.7,2.5,0.0,2.3
+Pepperoni,aceites_y_grasas_con_proteina,4,rebanada,15,15,72,2.8,6.7,0.1,2.6,3.3,0.6,12.5,274.0
+Piñón,aceites_y_grasas_con_proteina,1,cucharada,10,10,64,1.2,6.2,2.0,1.0,2.3,2.6,0.0,7.1
+Pistache,aceites_y_grasas_con_proteina,18,pieza,13,13,73,2.6,6.3,2.5,0.8,3.1,1.9,0.0,86.4
+Pistache tostado,aceites_y_grasas_con_proteina,18,pieza,13,13,74,2.6,6.2,3.2,0.8,4.2,0.9,0.0,0.9
+Queso de puerco,aceites_y_grasas_con_proteina,20,g,20,20,75,2.0,7.4,0.0,4.1,4.0,1.0,20.0,0.0
+Salsa bearnesa industrializada,aceites_y_grasas_con_proteina,4,cucharadita,17,17,61,2.3,1.5,9.9,0.2,0.7,0.5,0.0,564.4
+Salsa bechamel,aceites_y_grasas_con_proteina,3,cucharada,45,45,66,1.7,4.8,4.1,1.3,2.0,1.3,3.2,159.5
+Salsa blanca,aceites_y_grasas_con_proteina,3,cucharada,45,45,66,1.7,4.8,4.1,1.3,2.0,1.3,3.2,159.5
+Salsa de ajonjolí,aceites_y_grasas_con_proteina,2,cucharadita,11,11,63,2.6,5.3,2.3,1.0,2.5,1.5,0.0,50.4
+Salsa de cacahuate,aceites_y_grasas_con_proteina,2,cucharadita,11,11,63,2.6,5.3,2.3,1.0,2.5,1.5,0.0,52.0
+Salsa de pimienta verde,aceites_y_grasas_con_proteina,5,cucharada,75,75,72,2.3,4.4,6.0,2.7,1.2,0.1,13.3,280.4
+Salsa de queso,aceites_y_grasas_con_proteina,2,cucharada,34,34,67,3.5,5.1,1.8,2.7,1.6,0.5,12.5,167.7
+Salsa pesto,aceites_y_grasas_con_proteina,4,cucharadita,24,24,66,3.1,5.5,0.9,0.0,0.0,0.0,5.9,103.2
+Selección de botana mexicana,aceites_y_grasas_con_proteina,1,cucharada,10,10,62,2.3,5.0,2.0,0.7,2.3,2.0,0.0,120.0
+Semilla de calabaza,aceites_y_grasas_con_proteina,1.5,cucharada,15,11,61,3.4,5.1,1.6,0.9,1.9,2.2,0.0,0.0
+Semilla de calabaza menuda,aceites_y_grasas_con_proteina,2,cucharada,20,15,65,5.3,4.1,3.0,0.7,1.5,0.0,0.0,0.0
+Semilla de chía,aceites_y_grasas_con_proteina,5,cucharadita,12,12,66,3.3,5.6,1.8,1.2,0.9,3.3,0.0,11.7
+Semilla de girasol,aceites_y_grasas_con_proteina,4,cucharadita,12,12,69,2.7,6.0,2.1,0.7,1.5,3.7,0.0,0.4
+Semilla de girasol tostada,aceites_y_grasas_con_proteina,4,cucharadita,12,12,71,2.4,6.0,2.9,0.6,1.2,4.0,0.0,0.4
+Tocino vegetariano,aceites_y_grasas_con_proteina,2,rebanada,20,20,63,2.3,6.0,1.3,1.0,1.5,3.0,0.0,292.5

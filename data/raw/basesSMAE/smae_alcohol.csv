@@ -1,0 +1,37 @@
+alimento,cantidad_sugerida,unidad,peso_bruto_g,peso_neto_g,energia_kcal,hidratos_carbono_g,etanol_g
+Aguardiente,50,ml,50,50,140,0.0,20.0
+Anís dulce o seco,55,ml,55,55,147,0.6,20.6
+Brandy,60,ml,60,60,139,0.0,20.0
+Cerveza,1,tarro o lata,356,356,153,12.6,13.9
+Cerveza light,1.5,tarro o lata,531,531,154,8.7,16.5
+Champaña,1,copa,150,150,101,2.3,13.1
+Coñac,60,ml,60,60,144,1.2,19.9
+Crema de menta,40,ml,40,40,148,16.6,11.9
+Ginebra,55,ml,55,55,145,0.0,20.8
+Licor 100° proof,50,ml,50,50,148,1.8,21.3
+Licor 94° proof,50,ml,50,50,138,1.8,19.9
+Licor 90° proof,55,ml,55,55,145,1.9,20.8
+Licor 86° proof,55,ml,55,55,138,1.9,19.8
+Licor 80° proof,60,ml,60,60,139,2.1,20.0
+Licor de almendras,60,ml,60,60,134,21.0,7.2
+Licor de café,45,ml,45,45,147,21.1,9.8
+Licor de café con crema,45,ml,45,45,147,9.4,15.9
+Licor de café con whiskey,45,ml,45,45,147,9.4,15.9
+Licor de naranja,65,ml,65,65,146,22.8,7.8
+Oporto,90,ml,90,90,145,11.7,14.0
+Pulque,1,tarro,330,330,155,20.1,9.9
+Rompope,60,ml,60,60,141,14.1,10.0
+Ron blanco o añejo,60,ml,60,60,139,0.0,20.0
+Sidra,2,copa,300,300,150,18.0,11.1
+Tequila,55,ml,55,55,146,0.0,20.9
+Vermouth seco,60,ml,60,60,134,0.2,18.6
+Vino (12.2% alcohol),1,copa,100,100,137,7.7,12.2
+Vino blanco dulce,1,copa,100,100,160,13.7,15.3
+Vino blanco seco,2,copa,200,200,164,5.2,20.6
+Vino de manzana,1,copa,150,150,191,15.0,18.5
+Vino de mesa,2,copa,200,200,166,5.4,20.8
+Vino espumoso,1,copa,150,150,101,2.3,13.1
+Vino rosado,2,copa,200,200,134,2.7,17.4
+Vino tinto,2,copa,200,200,170,5.2,21.2
+Vodka,60,ml,60,60,139,0.0,19.8
+Whisky,55,ml,55,55,138,0.1,19.8
