@@ -97,7 +97,7 @@ clave,claveAntes,concepto,smae_id
 011473,A092,Otros productos de leche,"3001, 3002, 3003, 3005, 3021, 3033, 3046, 3051, 3052, 3053, 3094, 3095, 3096, 3097, 3098, 3099, 3100, 3127, 3128, 3129, 3130"
 011481,A093,Huevo de gallina,"2156, 2157, 2158, 2159, 2160, 2161, 2162, 2163, 2164, 2165, 2166, 2129, 2130, 2230, 2231, 2232, 2347, 2348, 2349"
 011482,A094,Otros huevos,"2227, 2228, 2229, 2064"
-011490,NA,Otros productos lÃ¡cteos,"2129, 2130"
+011490,NA,Otros productos lÃ¡cteos,"8082, 8079"
 011511,A096,Aceite de oliva,"8017, 8018, 8019"
 011512,A095,Otros aceites vegetales comestibles,"8001, 8002, 8004, 8005, 8006, 8007, 8009, 8010, 8012, 8013, 8014, 8016, 8020, 8022, 8023"
 011520,A090,Mantequilla,"8102, 8103, 8104, 8105, 8106"
@@ -132,7 +132,7 @@ clave,claveAntes,concepto,smae_id
 4145, 4163"
 011680,NA,Nueces y otros frutos secos,"8132, 8133, 8134, 8136, 8137, 8138, 8139, 8140, 8141, 8142, 8143, 8144, 8145, 8147, 8148, 8149, 8150, 8151, 8153, 8154, 8155, 8173, 8182, 8183, 8185, 8186, 8187, 8188, 8189, 8190, 8191, 8192, 8193, 8194, 8196, 8197, 8209, 8210, 8211, 8212, 8213, 8214, 8216, 8217, 8218, 8229, 8230, 8232, 8233"
 011691,A171,Frutas en conserva,"4002, 4003, 4004, 4011, 4020, 4021, 4031, 4032, 4033, 4040, 4041, 4042, 4059, 4077, 4087, 4088, 4146, 4157, 4158, 4185, 4187, 4199, 4200, 4212, 4222"
-011692,A172,Frutas secas,"4007, 4146, 8146, 8152, 8156, 8157"
+011692,A172,Frutas secas,"4007, 8146, 8152, 8156, 8157"
 011711,A120,Col,"6047, 6048, 6049, 6050"
 011712,A125,Lechuga,"6057, 6106"
 011713,A107,Otras hortalizas de hoja o tallo: acelgas,"6001, 6002, 6003, 6006, 6008, 6011, 6028, 6032, 6056, 6058, 6059, 6060, 6061, 6067, 6068, 6069, 6082, 6083, 6084, 6085, 6086, 6087, 6088, 6092, 6107, 6109, 6118, 6123, 6133, 6135, 6143, 6144, 6148"
@@ -222,7 +222,7 @@ clave,claveAntes,concepto,smae_id
 011991,NA,Levaduras y preparaciones para postres,"9043, 9148, 9149, 9150, 9151, 9624, 9625, 9626, 9627"
 011992,A205,Gelatina en polvo,"9048, 9049, 9050, 9605"
 011993,A186,Concentrados para caldo,"9528, 9529, 9530, 9531, 9532, 9533, 9534, 9535, 9536, 9574, 9575, 9576, 9577, 9578, 9579, 9580, 9581, 9582, 9583, 9584, 9585, 9586, 9587, 9588, 9590"
-011994,NA,Complementos nutricionales: proteÃ­na en polvo y suplementos energÃ©ticos,"9013, 9014, 9015"
+011994,NA,Complementos nutricionales: proteÃ­na en polvo y suplementos energÃ©ticos,"9013, 9015"
 011995,NA,Otros productos alimenticios,"9589, 9603, 9700, 9701"
 011996,A211,Otros productos relacionados con la preparaciÃ³n de alimentos,"1092, 9501, 9504, 9508, 9509, 9512, 9541, 9542, 9543, 9544, 9545, 9546, 9547, 9548, 9549, 9550, 9557, 9558, 9559, 9560, 9561, 9562, 9570, 9571, 9572, 9591, 9592, 9599, 9612, 9613, 9616, 9617, 9618, 9619, 9641, 9642, 9648, 9652, 9653, 9654, 9655, 9656, 9657, 9658, 9659, 9660, 9661, 9662, 9663, 9664, 9665, 9666, 9667, 9668, 9669, 9670, 9671, 9672"
 012100,A218,Jugos de frutas o verduras envasados,"4067, 6103, 6104, 6105, 9058, 9059, 9060, 9061, 9062, 9063, 9083"
@@ -274,7 +274,7 @@ clave,claveAntes,concepto,smae_id
 181123,A064,Chivo y cabrito,NA
 181124,A057,"Pierna, muslo o pechuga de pollo con hueso","2170, 2171, 2177, 2178"
 181125,A058,"Pierna, muslo o pechuga de pollo sin hueso","2079, 2097, 2106, 2107"
-181126,A062,"Chorizo de pollo, jamón de pollo, pavo y otras aves; nuggets de pollo y otras aves, salchicha, mortadela, tocino de pollo, pavo y otras aves","2038, 2066, 2067, 2093, 2192, 2193, 2194, 2252, 2334, 8163, 8166"
+181126,A062,"Chorizo de pollo, jamï¿½n de pollo, pavo y otras aves; nuggets de pollo y otras aves, salchicha, mortadela, tocino de pollo, pavo y otras aves","2038, 2066, 2067, 2093, 2192, 2193, 2194, 2252, 2334, 8163, 8166"
 181127,NA,Filete de pescado,"2044, 2088, 2100, 2138"
 181128,A071,"Anguilas, angulas, hueva de pescado, mantarraya, pejelagarto","2062, 2147, 2148, 2149"
 181129,A076,Leche condensada,"9064, 9065"
@@ -282,39 +282,39 @@ clave,claveAntes,concepto,smae_id
 181131,A086,Queso Manchego,"2301, 2302, 2303"
 181132,A084,Queso Chihuahua,"2284, 2285, 2286"
 181133,A099,Manteca vegetal,8101
-181134,A166,Plátano verde y Tabasco,NA
+181134,A166,Plï¿½tano verde y Tabasco,NA
 181135,A153,Lima,4070
-181136,A147,"Anona, chirimoya, guanábana","4005, 4026, 4062"
+181136,A147,"Anona, chirimoya, guanï¿½bana","4005, 4026, 4062"
 181137,A150,Chicozapote y mamey,"4025, 4072"
 181138,A151,Ciruela y jobo,"4028, 4029"
 181139,A164,Pitahaya y tuna,"4161, 4201, 4202, 4203, 4204"
 181140,A145,Semillas envasadas,"8209, 8210, 8211, 8212, 8213, 8214, 8229, 8230, 8232, 8233"
-181141,A110,Brócoli,"6012, 6013"
-181142,A132,"Germinados de maíz, de soya, de trigo, de alfalfa","5007, 5008, 5009, 6077, 6078, 6079, 6108"
+181141,A110,Brï¿½coli,"6012, 6013"
+181142,A132,"Germinados de maï¿½z, de soya, de trigo, de alfalfa","5007, 5008, 5009, 6077, 6078, 6079, 6108"
 181143,A190,Pimienta,"9653, 9654, 9655, 9656, 9657, 9658, 9659, 9660, 9661, 9662, 9663,
 9664, 9665, 9666, 9667"
 181144,A183,Canela,"9537, 9538, 9539, 9540, 9670"
 181145,A184,Clavo,"9557, 9558, 9559, 9560, 9561"
-181146,A225,Anís (licor),7002
+181146,A225,Anï¿½s (licor),7002
 181147,A227,Licor o cremas de frutas,"7008, 7010, 7011, 7012, 7013, 7014, 7015, 7016, 7017, 7018, 7019"
-181148,A228,"Aguamiel, pulque, tlachique, tepache, tuba y bebidas fermentadas de maíz",7021
+181148,A228,"Aguamiel, pulque, tlachique, tepache, tuba y bebidas fermentadas de maï¿½z",7021
 181149,A231,Rompope,"7022, 9181"
 181150,A235,Vodka,7035
 181151,A226,Jerez,NA
 181152,A213,Alimento para animales para uso del hogar,NA
 181153,NA,Filete de res,NA
-181154,A229,"Aguardiente, alcohol de caña, charanda, mezcal, sotol",7001
-181155,NA,Cacao y chocolate líquido para todos los usos,"9055, 9142"
+181154,A229,"Aguardiente, alcohol de caï¿½a, charanda, mezcal, sotol",7001
+181155,NA,Cacao y chocolate lï¿½quido para todos los usos,"9055, 9142"
 181156,A020,Otros productos de arroz,"1146, 1147, 1171, 1274, 1275"
-181157,A069,Salmón y bacalao procesado,"2123, 2124, 2125, 2136, 2195"
+181157,A069,Salmï¿½n y bacalao procesado,"2123, 2124, 2125, 2136, 2195"
 181158,A033,Hamburguesas de res para asar,NA
-181159,A100,"Aceite de bacalao, de tiburón, de tortuga, enjundia",8015
+181159,A100,"Aceite de bacalao, de tiburï¿½n, de tortuga, enjundia",8015
 181160,NA,"Aceite de coco, soya","8011, 8021"
 181161,A139,Haba amarilla o verde en grano,"5019, 5020, 6081, 6094"
 181162,A216,Agua mineral con sabor,NA
 181163,NA,Camote,"1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1291"
 181164,NA,"Papas en conserva, encurtidas o en escabeche","1273, 1292"
-181165,A131,"Otras verduras, pápalo, flor de calabaza, chaya","6070, 6071, 6118"
+181165,A131,"Otras verduras, pï¿½palo, flor de calabaza, chaya","6070, 6071, 6118"
 181166,A143,Otras leguminosas procesadas,"5028, 5033, 5035, 8174"
 181167,A146,Semillas procesadas,"8146, 8147, 8148, 8151, 8152, 8154, 8155, 8156, 8157, 8176, 8177,
 8178, 9116, 9119, 9174"
