@@ -1,4 +1,27 @@
+# Sistema
 .DS_Store
 Thumbs.db
+
+# Entornos y configuración local
 env/
+.claude/settings.local.json
+.Rhistory
+.RData
+.Rproj.user/
+
+# Datos crudos de INEGI: se descargan (ver README)
 data/raw/*.csv
+data/raw/basesENIGH/
+data/raw/basesConcentrados/
+data/raw/defun/
+data/raw/censos/
+
+# Formato duplicado (06 lee el CSV)
+data/processed/base_completa.dta
+
+# Intermedios regenerables
+output/cantidad_tri_*.csv
+output/kcal_hogar_tri_*.csv
+
+# Scripts exploratorios
+code/tmp_*
