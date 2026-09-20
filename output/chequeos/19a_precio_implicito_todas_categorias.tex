@@ -1,0 +1,583 @@
+\begin{table}[ht]
+\centering
+\caption{Precio impl\'icito por unidad (gasto/cantidad) para alimentos G1 — todas las categor\'ias} 
+\label{tab:19a_precio_implicito_todas_categorias}
+\begin{tabular}{llrrrrrrl}
+  \toprule
+Clave & Concepto & N & Med cant. & Med precio & P10 precio & P90 precio & SD precio & Flag \\ 
+  \midrule
+A215 &  & 153905 & 20.00 & 0.80 & 0.50 & 10.00 & 42.90 & MUY BAJO: posible unidad mayor (100g, pieza chica?) \\ 
+  012501 & Agua natural embotellada & 38277 & 20.00 & 1.20 & 0.70 & 15.00 & 523.50 & MUY BAJO: posible unidad mayor (100g, pieza chica?) \\ 
+  A210 & Molienda de nixtamal & 42027 & 1.00 & 5.00 & 2.00 & 12.00 & 6.50 & MUY BAJO: posible unidad mayor (100g, pieza chica?) \\ 
+  A222 &  & 5084 & 1.00 & 5.60 & 2.90 & 26.00 & 16.60 & MUY BAJO: posible unidad mayor (100g, pieza chica?) \\ 
+  181169 & Molienda de nixtamal & 7745 & 1.00 & 7.00 & 3.00 & 15.00 & 8.90 & MUY BAJO: posible unidad mayor (100g, pieza chica?) \\ 
+  011862 & Hielo & 1400 & 3.00 & 7.10 & 4.40 & 22.40 & 21.60 & MUY BAJO: posible unidad mayor (100g, pieza chica?) \\ 
+  A001 & Maíz en grano & 19600 & 3.00 & 7.10 & 5.00 & 26.00 & 50.70 & MUY BAJO: posible unidad mayor (100g, pieza chica?) \\ 
+  011112 & Maíz en grano & 3685 & 3.00 & 10.00 & 6.50 & 40.00 & 120.20 & OK \\ 
+  013000 & Servicios de molienda & 198 & 1.00 & 10.00 & 4.00 & 66.00 & 51.20 & OK \\ 
+  A080 & Leche no pasteurizada (leche bronca) & 9675 & 2.00 & 10.00 & 7.00 & 14.00 & 6.60 & OK \\ 
+  A003 & Masa de maíz & 40482 & 1.00 & 11.00 & 7.00 & 20.00 & 7.70 & OK \\ 
+  A191 & Sal & 21009 & 1.00 & 11.00 & 6.00 & 20.00 & 26.30 & OK \\ 
+  A214 &  & 1088 & 2.00 & 11.00 & 6.70 & 35.00 & 40.90 & OK \\ 
+  A160 & Naranja & 28141 & 1.00 & 12.00 & 5.80 & 26.70 & 12.10 & OK \\ 
+  A168 & Sandía & 11476 & 2.00 & 12.00 & 6.00 & 33.30 & 18.40 & OK \\ 
+  A211 & Otros productos relacionados con la preparación de alimentos & 2112 & 1.00 & 12.00 & 5.00 & 52.00 & 30.00 & OK \\ 
+  A166 & Pl�tano verde y Tabasco & 66323 & 1.00 & 13.00 & 8.00 & 22.00 & 9.00 & OK \\ 
+  A228 & Aguamiel, pulque, tlachique, tepache, tuba y bebidas fermentadas de ma�z & 392 & 2.00 & 13.00 & 7.00 & 30.00 & 15.50 & OK \\ 
+  A155 & Otros cítricos frescos & 15248 & 1.00 & 13.30 & 7.50 & 27.00 & 11.40 & OK \\ 
+  A220 & Refrescos sabor cola & 565362 & 2.00 & 13.30 & 9.50 & 23.30 & 8.70 & OK \\ 
+  A002 & Harina de maíz & 23595 & 1.00 & 13.50 & 10.00 & 24.00 & 22.40 & OK \\ 
+  A007 & Harina de trigo & 22614 & 1.00 & 14.00 & 10.00 & 32.60 & 19.00 & OK \\ 
+  A164 & Pitahaya y tuna & 7116 & 1.00 & 14.00 & 7.00 & 31.80 & 16.20 & OK \\ 
+  011412 & Leche no pasteurizada (leche bronca) & 1211 & 2.00 & 15.00 & 11.00 & 27.00 & 18.60 & OK \\ 
+  A165 & Plátano macho y de Castilla & 13452 & 1.00 & 15.00 & 8.90 & 30.80 & 14.60 & OK \\ 
+  A167 & Otros plátanos: Chiapas & 46429 & 1.00 & 15.00 & 8.50 & 25.00 & 10.40 & OK \\ 
+  A153 & Lima & 802 & 1.00 & 15.10 & 9.00 & 32.00 & 14.40 & OK \\ 
+  012602 & Refrescos de otros sabores & 18616 & 2.00 & 16.00 & 11.20 & 32.50 & 14.00 & OK \\ 
+  A004 & Tortillas de maíz & 1128397 & 1.00 & 16.00 & 12.00 & 24.00 & 7.20 & OK \\ 
+  A075 & Leche entera fresca & 400936 & 1.00 & 16.00 & 11.50 & 24.00 & 11.30 & OK \\ 
+  A130 & Zanahoria & 79831 & 0.50 & 16.00 & 9.00 & 36.00 & 15.30 & OK \\ 
+  011193 & Masa de maíz & 9749 & 1.00 & 17.00 & 11.00 & 26.00 & 12.20 & OK \\ 
+  012601 & Refrescos sabor cola & 130721 & 2.00 & 17.50 & 13.20 & 33.30 & 11.70 & OK \\ 
+  A156 & Toronja & 1808 & 1.00 & 17.50 & 8.00 & 36.00 & 22.00 & OK \\ 
+  A193 & Vinagre & 1246 & 1.00 & 17.90 & 10.00 & 39.80 & 41.10 & OK \\ 
+  011937 & Sal & 5200 & 1.00 & 18.00 & 10.00 & 32.00 & 32.70 & OK \\ 
+  A129 & Tomate verde & 68023 & 1.00 & 18.00 & 10.00 & 30.00 & 12.40 & OK \\ 
+  A152 & Guayaba & 22586 & 1.00 & 18.00 & 10.00 & 33.30 & 12.20 & OK \\ 
+  A127 & Pepino & 32393 & 1.00 & 18.10 & 10.00 & 35.70 & 15.10 & OK \\ 
+  011652 & Sandía & 3831 & 2.00 & 18.30 & 10.00 & 50.00 & 25.10 & OK \\ 
+  A216 & Agua mineral con sabor & 4068 & 1.00 & 18.30 & 9.10 & 30.00 & 40.80 & OK \\ 
+  A159 & Melón & 17575 & 1.11 & 18.50 & 10.00 & 35.00 & 14.40 & OK \\ 
+  A120 & Col & 19889 & 0.56 & 18.90 & 8.30 & 40.00 & 18.90 & OK \\ 
+  A006 & Otros productos de maíz para ser preparados & 4802 & 1.00 & 19.00 & 10.00 & 64.30 & 43.90 & OK \\ 
+  A218 & Jugos de frutas o verduras envasados & 86001 & 1.00 & 19.00 & 9.00 & 38.00 & 24.30 & OK \\ 
+  011936 & Vinagre & 568 & 1.00 & 20.00 & 11.50 & 44.00 & 33.60 & OK \\ 
+  011996 & Otros productos relacionados con la preparación de alimentos & 564 & 1.00 & 20.00 & 5.00 & 100.00 & 48.50 & OK \\ 
+  012902 & Agua natural embotellada con sabor & 1460 & 1.00 & 20.00 & 2.20 & 36.70 & 31.60 & OK \\ 
+  181164 & Papas en conserva, encurtidas o en escabeche &  54 & 1.00 & 20.00 & 4.30 & 112.20 & 80.60 & OK \\ 
+  A019 & Arroz en grano & 119654 & 1.00 & 20.00 & 12.50 & 35.00 & 12.30 & OK \\ 
+  A102 & Papa & 167711 & 1.00 & 20.00 & 10.00 & 40.00 & 15.00 & OK \\ 
+  A111 & Calabaza & 65322 & 0.70 & 20.00 & 10.00 & 39.00 & 15.40 & OK \\ 
+  A112 & Cebolla & 212904 & 0.50 & 20.00 & 10.00 & 42.00 & 17.60 & OK \\ 
+  A113 & Chayote & 34273 & 0.50 & 20.00 & 10.00 & 40.00 & 16.10 & OK \\ 
+  A122 & Elote & 11988 & 0.60 & 20.00 & 7.40 & 54.50 & 27.20 & OK \\ 
+  A124 & Jitomate (tomate rojo) & 357599 & 1.00 & 20.00 & 11.10 & 32.00 & 12.10 & OK \\ 
+  A126 & Nopal & 33437 & 0.70 & 20.00 & 10.00 & 40.00 & 18.00 & OK \\ 
+  A154 & Limón & 60529 & 0.66 & 20.00 & 10.00 & 37.50 & 14.40 & OK \\ 
+  A161 & Papaya & 25956 & 1.20 & 20.00 & 11.80 & 35.00 & 15.80 & OK \\ 
+  A163 & Piña & 12396 & 1.20 & 20.00 & 11.50 & 38.90 & 17.20 & OK \\ 
+  A170 & Otras frutas frescas & 12525 & 1.00 & 20.00 & 10.00 & 70.00 & 46.10 & OK \\ 
+  A173 & Azúcar & 112560 & 1.00 & 20.00 & 14.00 & 27.00 & 11.50 & OK \\ 
+  A217 & Aguas frescas naturales de frutas o verduras & 13636 & 1.00 & 20.00 & 10.00 & 40.00 & 23.50 & OK \\ 
+  A246 &  & 38136 & 1.00 & 20.00 & 10.00 & 50.00 & 36.10 & OK \\ 
+  A157 & Mango & 10084 & 1.00 & 21.60 & 12.00 & 40.00 & 17.30 & OK \\ 
+  011121 & Harina de maíz & 5737 & 1.00 & 22.00 & 17.00 & 36.00 & 51.50 & OK \\ 
+  181134 & Pl�tano verde y Tabasco & 15407 & 1.00 & 22.00 & 15.00 & 35.00 & 12.20 & OK \\ 
+  A115 & Chile jalapeño & 39867 & 0.50 & 22.00 & 12.00 & 50.00 & 20.70 & OK \\ 
+  A121 & Ejote & 15673 & 0.50 & 22.00 & 12.00 & 48.00 & 18.20 & OK \\ 
+  012604 & Jugos con gas & 764 & 1.00 & 22.20 & 12.70 & 50.00 & 19.80 & OK \\ 
+  A125 & Lechuga & 58693 & 0.50 & 22.20 & 10.70 & 52.60 & 23.40 & OK \\ 
+  011122 & Harina de trigo & 5217 & 1.00 & 23.00 & 17.90 & 58.00 & 41.90 & OK \\ 
+  A101 & Betabel & 3647 & 0.84 & 23.30 & 12.00 & 60.00 & 31.20 & OK \\ 
+  011131 & Tortillas de maíz & 267815 & 1.00 & 24.00 & 20.00 & 30.00 & 8.70 & OK \\ 
+  011411 & Leche entera fresca & 78516 & 1.00 & 25.00 & 17.00 & 31.00 & 11.50 & OK \\ 
+  011616 & Otros plátanos: Chiapas & 13364 & 1.00 & 25.00 & 15.00 & 38.90 & 14.80 & OK \\ 
+  011622 & Naranja & 6342 & 1.00 & 25.00 & 15.00 & 44.00 & 17.60 & OK \\ 
+  011729 & Tomate verde & 16670 & 1.00 & 25.00 & 15.00 & 41.70 & 19.60 & OK \\ 
+  011748 & Zanahoria & 21236 & 0.50 & 25.00 & 15.00 & 50.00 & 20.10 & OK \\ 
+  011754 & Plátano macho y de Castilla & 3701 & 1.00 & 25.00 & 15.00 & 46.00 & 18.40 & OK \\ 
+  181139 & Pitahaya y tuna & 1764 & 1.00 & 25.00 & 13.30 & 54.50 & 24.30 & OK \\ 
+  181162 & Agua mineral con sabor & 171 & 1.00 & 25.00 & 13.50 & 41.70 & 27.60 & OK \\ 
+  A110 & Br�coli & 14398 & 0.50 & 25.00 & 12.00 & 53.30 & 23.40 & OK \\ 
+  A116 & Chile poblano & 19313 & 0.80 & 25.00 & 15.00 & 50.00 & 23.70 & OK \\ 
+  A131 & Otras verduras, p�palo, flor de calabaza, chaya & 20914 & 0.50 & 25.70 & 12.00 & 66.70 & 48.90 & OK \\ 
+  012603 & Refrescos de dieta (light) & 718 & 1.00 & 25.90 & 14.30 & 36.70 & 34.60 & OK \\ 
+  011753 & Jícama & 1792 & 1.00 & 26.00 & 15.00 & 53.30 & 30.90 & OK \\ 
+  A104 & Otros tubérculos & 1854 & 0.50 & 26.00 & 10.00 & 114.10 & 60.70 & OK \\ 
+  A137 & Frijol en grano & 149559 & 1.00 & 26.00 & 17.50 & 40.00 & 12.50 & OK \\ 
+  A103 & Rábano & 5959 & 0.30 & 26.30 & 12.00 & 56.80 & 22.10 & OK \\ 
+  A142 & Frijol procesado & 62443 & 0.50 & 27.50 & 14.00 & 53.30 & 19.30 & OK \\ 
+  011420 & Leche baja en grasa & 5070 & 1.00 & 28.00 & 20.40 & 36.00 & 13.90 & OK \\ 
+  011727 & Jitomate (tomate rojo) & 84961 & 1.00 & 28.00 & 18.00 & 46.00 & 16.40 & OK \\ 
+  011728 & Pepino & 9703 & 1.00 & 28.00 & 16.90 & 50.40 & 19.70 & OK \\ 
+  011810 & Azúcar & 25106 & 1.00 & 28.00 & 22.00 & 40.00 & 21.60 & OK \\ 
+  012502 & Agua mineral sin sabor & 1554 & 1.00 & 28.00 & 12.70 & 40.00 & 57.60 & OK \\ 
+  A095 & Otros aceites vegetales comestibles & 100442 & 1.00 & 28.00 & 20.00 & 51.00 & 16.60 & OK \\ 
+  A114 & Chícharo & 4321 & 0.50 & 28.00 & 14.00 & 60.00 & 27.10 & OK \\ 
+  A081 & Otras leches & 1944 & 1.00 & 28.80 & 15.50 & 54.70 & 53.20 & OK \\ 
+  A140 & Lentejas & 17305 & 0.50 & 28.90 & 16.00 & 48.00 & 15.70 & OK \\ 
+  012100 & Jugos de frutas o verduras envasados & 15165 & 1.00 & 29.00 & 14.00 & 56.00 & 23.40 & OK \\ 
+  011111 & Arroz en grano & 29177 & 1.00 & 30.00 & 20.00 & 44.00 & 14.50 & OK \\ 
+  011194 & Otros productos de maíz para ser preparados & 2314 & 1.00 & 30.00 & 20.00 & 93.00 & 46.00 & OK \\ 
+  011612 & Guayaba & 5263 & 1.00 & 30.00 & 18.00 & 50.00 & 17.20 & OK \\ 
+  011621 & Limón & 17089 & 0.56 & 30.00 & 17.30 & 59.80 & 21.30 & OK \\ 
+  011651 & Melón & 4469 & 1.03 & 30.00 & 17.50 & 50.50 & 19.50 & OK \\ 
+  011711 & Col & 4526 & 0.60 & 30.00 & 16.00 & 62.50 & 26.40 & OK \\ 
+  011721 & Calabaza & 17613 & 0.70 & 30.00 & 18.00 & 56.00 & 22.10 & OK \\ 
+  011743 & Cebolla & 52799 & 0.50 & 30.00 & 17.00 & 59.10 & 21.50 & OK \\ 
+  011751 & Papa & 40555 & 1.00 & 30.00 & 20.00 & 50.00 & 18.90 & OK \\ 
+  012901 & Aguas frescas naturales de frutas o verduras & 1709 & 1.00 & 30.00 & 15.00 & 50.00 & 20.90 & OK \\ 
+  181148 & Aguamiel, pulque, tlachique, tepache, tuba y bebidas fermentadas de ma�z & 117 & 1.00 & 30.00 & 15.00 & 98.00 & 35.30 & OK \\ 
+  181152 & Alimento para animales para uso del hogar & 635 & 2.00 & 30.00 & 12.50 & 80.50 & 397.60 & OK \\ 
+  A009 & Spaghetti & 140079 & 0.22 & 30.00 & 20.00 & 50.00 & 20.10 & OK \\ 
+  A117 & Chile serrano & 91205 & 0.25 & 30.00 & 16.00 & 60.00 & 22.60 & OK \\ 
+  A141 & Otras leguminosas y legumbres secas & 2101 & 0.50 & 30.00 & 16.00 & 72.00 & 32.90 & OK \\ 
+  A158 & Manzana y perón & 71007 & 1.00 & 30.00 & 16.70 & 50.00 & 17.00 & OK \\ 
+  A213 & Alimento para animales para uso del hogar & 31561 & 1.00 & 30.00 & 15.00 & 70.00 & 46.80 & OK \\ 
+  A221 &  & 7308 & 0.65 & 30.40 & 19.00 & 60.00 & 47.30 & OK \\ 
+  011441 & Leche de soya & 314 & 1.00 & 31.20 & 19.00 & 50.30 & 31.30 & OK \\ 
+  011615 & Piña & 2895 & 1.20 & 31.20 & 19.00 & 56.00 & 33.60 & OK \\ 
+  011442 & Otras leches & 1176 & 1.00 & 32.00 & 20.00 & 72.20 & 57.80 & OK \\ 
+  011722 & Chayote & 8529 & 0.50 & 32.00 & 18.00 & 60.00 & 23.60 & OK \\ 
+  011723 & Chile jalapeño & 9323 & 0.50 & 32.00 & 17.00 & 72.70 & 29.10 & OK \\ 
+  011924 & Jugos de frutas y verduras de cualquier combinación para bebé & 255 & 1.00 & 32.00 & 16.00 & 108.60 & 76.70 & OK \\ 
+  181135 & Lima & 209 & 0.85 & 32.00 & 18.90 & 83.30 & 28.50 & OK \\ 
+  181159 & Aceite de bacalao, de tibur�n, de tortuga, enjundia &  21 & 1.00 & 32.00 & 4.50 & 115.00 & 85.10 & OK \\ 
+  A151 & Ciruela y jobo & 2491 & 0.50 & 32.00 & 15.00 & 80.00 & 38.90 & OK \\ 
+  011613 & Mango & 3112 & 1.00 & 33.00 & 19.00 & 60.00 & 22.30 & OK \\ 
+  011745 & Elote & 3072 & 0.75 & 33.30 & 11.00 & 83.30 & 47.50 & OK \\ 
+  A093 & Huevo de gallina & 363770 & 0.60 & 33.30 & 22.70 & 50.00 & 16.40 & OK \\ 
+  A107 & Otras hortalizas de hoja o tallo: acelgas & 13158 & 0.40 & 33.30 & 13.30 & 93.00 & 41.90 & OK \\ 
+  011746 & Nopal & 7818 & 0.60 & 34.00 & 20.00 & 66.70 & 26.20 & OK \\ 
+  A024 & Otros cereales & 3758 & 0.50 & 34.00 & 17.00 & 85.60 & 42.50 & OK \\ 
+  181170 & Juegos de frutas o verduras naturales & 2084 & 1.00 & 34.80 & 17.00 & 70.00 & 40.50 & OK \\ 
+  A096 & Aceite de oliva & 2907 & 1.00 & 34.80 & 21.10 & 160.00 & 73.90 & OK \\ 
+  A224 & Cerveza & 24172 & 2.13 & 34.80 & 23.50 & 54.20 & 40.40 & OK \\ 
+  011614 & Papaya & 5487 & 1.17 & 35.00 & 20.00 & 58.00 & 22.10 & OK \\ 
+  011624 & Otros cítricos frescos & 2468 & 1.00 & 35.00 & 20.00 & 80.00 & 27.00 & OK \\ 
+  A098 & Manteca de puerco & 11869 & 0.50 & 35.00 & 20.00 & 60.00 & 20.90 & OK \\ 
+  A135 & Otras verduras enlatadas o envasadas & 29574 & 0.38 & 35.00 & 20.00 & 68.20 & 32.00 & OK \\ 
+  A150 & Chicozapote y mamey & 161 & 0.64 & 35.00 & 15.00 & 72.00 & 31.50 & OK \\ 
+  A162 & Pera & 9499 & 1.00 & 35.00 & 15.00 & 62.50 & 24.60 & OK \\ 
+  A229 & Aguardiente, alcohol de ca�a, charanda, mezcal, sotol & 993 & 0.96 & 35.00 & 20.00 & 90.00 & 89.40 & OK \\ 
+  011755 & Otros tubérculos & 282 & 0.60 & 35.50 & 17.20 & 100.00 & 43.40 & OK \\ 
+  A012 & Pan & 165654 & 0.33 & 35.70 & 20.00 & 73.50 & 28.20 & OK \\ 
+  011712 & Lechuga & 14097 & 0.54 & 36.00 & 18.00 & 83.30 & 31.30 & OK \\ 
+  011797 & Frijol procesado & 17952 & 0.56 & 36.00 & 20.00 & 69.40 & 23.90 & OK \\ 
+  A091 & Yogurt y bebidas fermentadas a base de leche & 46127 & 0.50 & 36.00 & 20.90 & 70.80 & 33.00 & OK \\ 
+  A139 & Haba amarilla o verde en grano & 3291 & 0.50 & 36.00 & 12.00 & 80.00 & 28.90 & OK \\ 
+  011623 & Toronja & 459 & 1.00 & 36.40 & 20.00 & 60.00 & 21.30 & OK \\ 
+  A143 & Otras leguminosas procesadas & 1251 & 0.40 & 36.40 & 18.00 & 100.00 & 40.30 & OK \\ 
+  A099 & Manteca vegetal & 4529 & 0.50 & 37.00 & 21.00 & 76.00 & 23.20 & OK \\ 
+  A175 & Sustitutos de azúcar y otros azúcares & 2646 & 0.50 & 37.40 & 17.50 & 145.20 & 140.50 & OK \\ 
+  A008 & Tortillas de harina de trigo & 53262 & 0.50 & 37.50 & 20.00 & 66.70 & 23.50 & OK \\ 
+  011113 & Otros cereales & 2698 & 0.50 & 38.00 & 22.00 & 104.00 & 59.70 & OK \\ 
+  181163 & Camote & 544 & 1.00 & 38.00 & 20.00 & 80.00 & 40.20 & OK \\ 
+  011633 & Manzana y perón & 20754 & 1.00 & 38.20 & 25.00 & 60.00 & 19.80 & OK \\ 
+  011770 & Hortalizas & 657 & 0.50 & 38.30 & 20.00 & 80.00 & 37.10 & OK \\ 
+  011752 & Betabel & 694 & 0.55 & 38.70 & 22.60 & 77.30 & 29.80 & OK \\ 
+  A208 & Helados & 12217 & 1.00 & 39.00 & 7.00 & 125.00 & 67.60 & OK \\ 
+  011617 & Otras frutas tropicales & 687 & 1.00 & 40.00 & 20.00 & 120.00 & 44.20 & OK \\ 
+  011724 & Chile poblano & 5495 & 0.59 & 40.00 & 22.90 & 80.80 & 34.90 & OK \\ 
+  011725 & Chile serrano & 21793 & 0.25 & 40.00 & 22.80 & 90.90 & 29.60 & OK \\ 
+  011731 & Chícharo & 942 & 0.50 & 40.00 & 24.00 & 99.70 & 44.40 & OK \\ 
+  011732 & Ejote & 3423 & 0.50 & 40.00 & 20.00 & 72.00 & 25.50 & OK \\ 
+  011749 & Otras hortalizas de raíz & 1251 & 0.40 & 40.00 & 20.00 & 100.00 & 45.50 & OK \\ 
+  011761 & Frijol en grano & 33006 & 1.00 & 40.00 & 30.00 & 51.10 & 16.20 & OK \\ 
+  011762 & Lentejas & 4455 & 0.50 & 40.00 & 24.00 & 64.00 & 18.80 & OK \\ 
+  011764 & Otras leguminosas y legumbres secas & 280 & 0.50 & 40.00 & 23.00 & 80.00 & 37.50 & OK \\ 
+  011782 & Legumbres congeladas & 468 & 0.50 & 40.00 & 20.00 & 91.50 & 36.20 & OK \\ 
+  012903 & Bebidas hidratantes e isotónicas & 2549 & 0.68 & 40.00 & 27.20 & 58.70 & 66.50 & OK \\ 
+  093221 &  & 9114 & 1.00 & 40.00 & 22.00 & 100.00 & 65.70 & OK \\ 
+  111114 &  & 7258 & 1.00 & 40.00 & 17.00 & 100.00 & 55.40 & OK \\ 
+  181137 & Chicozapote y mamey &  54 & 0.63 & 40.00 & 22.60 & 104.00 & 37.20 & OK \\ 
+  A020 & Otros productos de arroz & 434 & 0.45 & 40.00 & 20.00 & 120.00 & 63.70 & OK \\ 
+  A132 & Germinados de ma�z, de soya, de trigo, de alfalfa & 1165 & 0.50 & 40.00 & 16.00 & 134.80 & 66.30 & OK \\ 
+  A136 & Verduras congeladas & 2652 & 0.50 & 40.00 & 16.70 & 90.00 & 41.60 & OK \\ 
+  A138 & Garbanzo & 2304 & 0.50 & 40.00 & 20.00 & 76.00 & 27.80 & OK \\ 
+  A147 & Anona, chirimoya, guan�bana & 198 & 0.74 & 40.00 & 16.90 & 88.00 & 31.80 & OK \\ 
+  A149 & Chabacano y melocotón & 6241 & 0.75 & 40.00 & 20.00 & 75.00 & 29.00 & OK \\ 
+  A169 & Uva & 15892 & 1.00 & 40.00 & 20.00 & 80.00 & 27.80 & OK \\ 
+  A192 & Salsa picante & 22228 & 0.34 & 40.00 & 20.00 & 80.00 & 34.90 & OK \\ 
+  A197 & Jugos de frutas y verduras de cualquier combinación para bebé & 401 & 0.60 & 40.00 & 12.00 & 101.70 & 53.30 & OK \\ 
+  A202 & Otros alimentos cocinados & 196463 & 1.00 & 40.00 & 10.00 & 130.00 & 1208.10 & OK \\ 
+  A243 &  & 171316 & 1.00 & 40.00 & 20.00 & 90.00 & 46.00 & OK \\ 
+  A247 &  & 1411 & 10.00 & 40.00 & 16.70 & 114.30 & 117.50 & OK \\ 
+  A146 & Semillas procesadas & 4713 & 0.28 & 40.90 & 20.00 & 124.90 & 62.00 & OK \\ 
+  011747 & Rábano & 1403 & 0.36 & 41.70 & 20.00 & 85.90 & 31.10 & OK \\ 
+  A077 & Leche evaporada & 5023 & 0.36 & 41.70 & 19.50 & 66.20 & 25.80 & OK \\ 
+  011733 & Otras legumbres verdes & 546 & 0.65 & 42.00 & 25.00 & 100.00 & 44.80 & OK \\ 
+  012904 & Bebidas energéticas & 859 & 0.60 & 42.00 & 28.00 & 87.30 & 72.30 & OK \\ 
+  181141 & Br�coli & 3453 & 0.50 & 42.20 & 22.00 & 80.00 & 32.50 & OK \\ 
+  012907 & Otras bebidas no alcohólicas & 516 & 0.75 & 42.30 & 22.90 & 87.30 & 52.20 & OK \\ 
+  A060 & Otras piezas de pollo & 13340 & 1.00 & 43.30 & 20.00 & 80.00 & 29.60 & OK \\ 
+  A092 & Otros productos de leche & 12403 & 0.38 & 44.00 & 22.40 & 90.30 & 40.00 & OK \\ 
+  011512 & Otros aceites vegetales comestibles & 21083 & 1.00 & 45.00 & 32.00 & 58.00 & 21.00 & OK \\ 
+  021301 & Cerveza & 6617 & 2.13 & 45.00 & 31.30 & 68.60 & 49.50 & OK \\ 
+  021303 & Cerveza light y sin alcohol & 176 & 2.84 & 45.00 & 31.00 & 59.20 & 29.80 & OK \\ 
+  181160 & Aceite de coco, soya & 1074 & 1.00 & 45.00 & 32.00 & 60.00 & 54.40 & OK \\ 
+  A108 & Aguacate & 66053 & 0.50 & 45.00 & 24.00 & 83.30 & 29.20 & OK \\ 
+  012400 & Bebidas a base de cacao y chocolate & 398 & 0.50 & 45.50 & 20.00 & 110.30 & 41.30 & OK \\ 
+  011763 & Garbanzo & 669 & 0.50 & 47.00 & 28.00 & 96.80 & 41.10 & OK \\ 
+  181171 & Harina para waffles o hot cakes & 1120 & 0.80 & 47.00 & 30.00 & 81.20 & 30.70 & OK \\ 
+  021901 & Cervezas de sabor y cervezas preparadas & 208 & 2.00 & 47.30 & 29.80 & 75.00 & 57.40 & OK \\ 
+  011843 & Purés o pastas de frutos secos & 162 & 0.34 & 47.60 & 28.00 & 159.70 & 108.00 & OK \\ 
+  011931 & Salsa o puré de tomate y cátsup & 7015 & 0.34 & 47.60 & 30.00 & 85.70 & 33.60 & OK \\ 
+  011243 & Vísceras de aves & 577 & 1.00 & 48.70 & 20.00 & 90.00 & 30.70 & OK \\ 
+  011634 & Pera & 2496 & 1.00 & 49.00 & 23.00 & 80.00 & 28.40 & OK \\ 
+  011150 & Spaghetti & 32355 & 0.25 & 50.00 & 32.30 & 75.00 & 26.40 & OK \\ 
+  011471 & Bebidas a base de leche & 860 & 0.50 & 50.00 & 23.00 & 91.80 & 43.70 & OK \\ 
+  011481 & Huevo de gallina & 89929 & 0.90 & 50.00 & 40.00 & 66.70 & 19.10 & OK \\ 
+  011482 & Otros huevos & 369 & 1.00 & 50.00 & 40.00 & 75.10 & 20.70 & OK \\ 
+  011511 & Aceite de oliva & 1567 & 1.00 & 50.00 & 33.00 & 236.20 & 91.90 & OK \\ 
+  011799 & Otras legumbres y leguminosas secas & 484 & 0.41 & 50.00 & 29.70 & 102.20 & 43.10 & OK \\ 
+  01179A & Otras preparaciones vegetales & 291 & 0.50 & 50.00 & 25.00 & 124.50 & 61.40 & OK \\ 
+  011820 & Sustitutos de azúcar y otros azúcares & 612 & 0.69 & 50.00 & 26.00 & 299.40 & 165.50 & OK \\ 
+  011861 & Helados & 2777 & 1.00 & 50.00 & 10.00 & 175.00 & 120.70 & OK \\ 
+  021302 & Cerveza artesanal &  43 & 2.13 & 50.00 & 37.00 & 105.60 & 41.30 & OK \\ 
+  181142 & Germinados de ma�z, de soya, de trigo, de alfalfa & 239 & 0.47 & 50.00 & 24.00 & 148.40 & 68.70 & OK \\ 
+  A018 & Trigo en grano, otros productos de trigo (excepto cereal) & 1878 & 0.33 & 50.00 & 16.00 & 110.40 & 47.00 & OK \\ 
+  A119 & Cilantro & 46636 & 0.10 & 50.00 & 18.20 & 175.00 & 115.20 & OK \\ 
+  A123 & Epazote & 3548 & 0.08 & 50.00 & 20.00 & 198.60 & 116.00 & OK \\ 
+  A226 & Jerez &  56 & 0.72 & 50.00 & 33.30 & 92.50 & 29.70 & OK \\ 
+  A245 &  & 68428 & 2.00 & 50.00 & 25.00 & 135.00 & 74.80 & OK \\ 
+  011781 & Verduras congeladas & 1054 & 0.50 & 51.10 & 25.00 & 100.00 & 73.60 & OK \\ 
+  011792 & Harina de otras hortalizas & 108 & 0.44 & 51.20 & 23.00 & 176.80 & 90.40 & OK \\ 
+  A076 & Leche condensada & 4652 & 0.39 & 51.70 & 19.00 & 90.40 & 36.90 & OK \\ 
+  A037 & Vísceras de res & 5357 & 1.00 & 52.00 & 30.00 & 100.00 & 37.10 & OK \\ 
+  A094 & Otros huevos &  76 & 0.50 & 52.00 & 23.50 & 200.00 & 71.70 & OK \\ 
+  111124 & Otros alimentos cocinados & 41901 & 1.00 & 52.50 & 15.00 & 180.00 & 4365.70 & OK \\ 
+  A237 & Bebidas preparadas con alcohol & 259 & 1.00 & 53.30 & 31.70 & 92.80 & 83.50 & OK \\ 
+  A244 &  & 202298 & 1.00 & 53.30 & 30.00 & 140.00 & 76.30 & OK \\ 
+  011798 & Otras verduras enlatadas o envasadas & 4003 & 0.40 & 53.80 & 30.00 & 100.00 & 37.70 & OK \\ 
+  181166 & Otras leguminosas procesadas &  53 & 0.40 & 53.80 & 27.40 & 120.00 & 178.60 & OK \\ 
+  181154 & Aguardiente, alcohol de ca�a, charanda, mezcal, sotol & 173 & 0.50 & 54.00 & 30.00 & 113.60 & 94.60 & OK \\ 
+  A089 & Crema & 60151 & 0.25 & 54.00 & 35.00 & 81.80 & 22.90 & OK \\ 
+  A133 & Chiles enlatados & 26574 & 0.22 & 54.50 & 28.60 & 100.00 & 33.20 & OK \\ 
+  011132 & Tortillas de harina de trigo & 13094 & 0.50 & 55.00 & 27.00 & 100.00 & 32.20 & OK \\ 
+  A055 & Salchicha y salchichón de puerco & 50363 & 0.50 & 55.00 & 30.00 & 100.00 & 32.70 & OK \\ 
+  A059 & Pollo entero o en piezas (excepto pierna & 92376 & 1.00 & 55.20 & 35.00 & 98.00 & 32.20 & OK \\ 
+  011713 & Otras hortalizas de hoja o tallo: acelgas & 4071 & 0.36 & 55.60 & 23.00 & 150.00 & 63.20 & OK \\ 
+  181113 & Trigo en grano, otros productos de trigo (excepto cereal) & 199 & 0.50 & 55.60 & 15.00 & 190.50 & 102.90 & OK \\ 
+  A013 & Pan dulce a granel & 239173 & 0.33 & 55.60 & 27.80 & 102.70 & 39.30 & OK \\ 
+  A057 & Pierna, muslo o pechuga de pollo con hueso & 91770 & 1.00 & 55.60 & 25.00 & 100.00 & 34.00 & OK \\ 
+  A015 & Pan de caja & 51746 & 0.64 & 55.90 & 36.70 & 102.60 & 32.40 & OK \\ 
+  A195 & Cereales para bebé & 797 & 0.50 & 56.00 & 20.00 & 141.80 & 77.90 & OK \\ 
+  181165 & Otras verduras, p�palo, flor de calabaza, chaya & 686 & 0.36 & 56.80 & 25.00 & 133.30 & 68.60 & OK \\ 
+  011460 & Yogurt y bebidas fermentadas a base de leche & 11323 & 0.75 & 57.10 & 35.00 & 100.00 & 42.70 & OK \\ 
+  A171 & Frutas en conserva & 1584 & 0.64 & 59.60 & 30.00 & 115.70 & 41.90 & OK \\ 
+  011133 & Pan & 36142 & 0.34 & 60.00 & 30.00 & 120.00 & 42.90 & OK \\ 
+  011591 & Manteca de puerco & 3009 & 0.60 & 60.00 & 39.00 & 95.20 & 31.50 & OK \\ 
+  011631 & Chabacano y melocotón &  60 & 1.00 & 60.00 & 25.00 & 112.30 & 35.40 & OK \\ 
+  011632 & Durazno & 1576 & 0.77 & 60.00 & 33.00 & 110.00 & 38.20 & OK \\ 
+  011635 & Otras frutas de hueso o pepita & 365 & 0.50 & 60.00 & 30.00 & 125.00 & 48.30 & OK \\ 
+  011911 & Alimentos preparados para consumo inmediato & 13671 & 1.00 & 60.00 & 15.80 & 200.00 & 4847.00 & OK \\ 
+  111123 & Hamburguesas y hot dogs & 2357 & 2.00 & 60.00 & 30.00 & 175.00 & 8162.70 & OK \\ 
+  181133 & Manteca vegetal & 913 & 0.50 & 60.00 & 35.00 & 100.00 & 27.10 & OK \\ 
+  181136 & Anona, chirimoya, guan�bana &  62 & 0.60 & 60.00 & 28.10 & 165.00 & 58.90 & OK \\ 
+  181138 & Ciruela y jobo & 521 & 0.50 & 60.00 & 29.90 & 120.00 & 46.90 & OK \\ 
+  181156 & Otros productos de arroz &  94 & 0.50 & 60.00 & 21.30 & 177.00 & 126.30 & OK \\ 
+  181161 & Haba amarilla o verde en grano & 505 & 0.50 & 60.00 & 28.80 & 111.20 & 40.60 & OK \\ 
+  A046 & Vísceras de puerco & 711 & 1.00 & 60.00 & 25.00 & 120.00 & 49.90 & OK \\ 
+  A066 & Pescado fresco & 17784 & 1.00 & 60.00 & 30.00 & 120.00 & 46.00 & OK \\ 
+  A118 & Otros chiles frescos o refrigerados & 38782 & 0.20 & 60.00 & 20.00 & 166.70 & 102.30 & OK \\ 
+  A128 & Perejil y hierbabuena & 3562 & 0.09 & 60.00 & 20.00 & 200.00 & 150.80 & OK \\ 
+  A148 & Fresas & 5340 & 0.50 & 60.00 & 26.00 & 140.00 & 56.70 & OK \\ 
+  A205 & Gelatina en polvo & 10722 & 0.25 & 60.70 & 25.00 & 119.00 & 58.50 & OK \\ 
+  181130 & Leche evaporada & 1179 & 0.36 & 61.10 & 41.70 & 96.00 & 30.40 & OK \\ 
+  011932 & Salsa picante & 2688 & 0.35 & 61.90 & 30.00 & 126.70 & 48.40 & OK \\ 
+  A021 & Cereales para el desayuno & 38297 & 0.50 & 62.50 & 24.00 & 120.00 & 45.40 & OK \\ 
+  A053 & Mortadela & 5388 & 0.39 & 63.00 & 35.00 & 120.00 & 57.30 & OK \\ 
+  01172A & Otras hortalizas frutales & 110 & 0.50 & 63.80 & 22.70 & 121.30 & 40.10 & OK \\ 
+  011370 & Hígados &  27 & 1.00 & 64.00 & 28.00 & 114.00 & 41.50 & OK \\ 
+  021105 & Otras bebidas destiladas &  18 & 1.00 & 65.00 & 33.50 & 180.80 & 79.20 & OK \\ 
+  A061 & Carne de otras aves & 943 & 1.50 & 66.00 & 35.80 & 170.00 & 72.60 & OK \\ 
+  011654 & Otras frutas frescas & 736 & 0.56 & 66.70 & 20.00 & 130.20 & 57.10 & OK \\ 
+  011892 & Gelatina preparada & 1384 & 0.40 & 66.70 & 12.50 & 170.00 & 511.30 & OK \\ 
+  A005 & Tostadas & 36906 & 0.36 & 66.70 & 32.10 & 111.10 & 38.20 & OK \\ 
+  A044 & Codillo de puerco & 2177 & 1.00 & 66.70 & 40.00 & 110.00 & 32.50 & OK \\ 
+  A203 & Champiñones & 4112 & 0.50 & 66.70 & 34.60 & 120.00 & 42.40 & OK \\ 
+  A238 & Champagne &  59 & 1.00 & 66.70 & 34.50 & 415.00 & 195.90 & OK \\ 
+  012203 & Preparaciones de bebidas a base de café & 868 & 0.50 & 68.00 & 25.00 & 176.30 & 79.90 & OK \\ 
+  A100 & Aceite de bacalao, de tibur�n, de tortuga, enjundia & 278 & 0.25 & 68.00 & 25.00 & 140.00 & 68.10 & OK \\ 
+  011691 & Frutas en conserva & 250 & 0.80 & 69.00 & 45.00 & 132.90 & 51.40 & OK \\ 
+  A109 & Ajo & 22709 & 0.12 & 69.60 & 36.50 & 119.50 & 41.00 & OK \\ 
+  011245 & Otras piezas de pollo & 3752 & 1.00 & 70.00 & 33.30 & 120.00 & 40.80 & OK \\ 
+  111111 &  & 45437 & 1.00 & 70.00 & 32.00 & 150.00 & 65.80 & OK \\ 
+  A227 & Licor o cremas de frutas &  49 & 1.00 & 70.00 & 22.30 & 247.10 & 116.20 & OK \\ 
+  011795 & Papas congeladas & 395 & 0.50 & 70.50 & 30.00 & 141.30 & 62.40 & OK \\ 
+  A010 & Galletas dulces & 111525 & 0.19 & 70.60 & 35.70 & 120.00 & 40.20 & OK \\ 
+  011611 & Aguacate & 17611 & 0.50 & 71.40 & 40.00 & 120.00 & 39.20 & OK \\ 
+  181129 & Leche condensada & 1250 & 0.38 & 71.60 & 27.00 & 119.50 & 38.70 & OK \\ 
+  011791 & Harina para puré de papa & 172 & 0.36 & 72.10 & 22.00 & 224.70 & 89.00 & OK \\ 
+  A070 & Pescado ahumado & 6906 & 0.42 & 73.30 & 42.40 & 160.00 & 74.30 & OK \\ 
+  011241 & Vísceras de res & 1091 & 1.00 & 74.00 & 37.00 & 130.00 & 44.90 & OK \\ 
+  A011 & Galletas saladas & 25611 & 0.19 & 74.10 & 42.50 & 111.10 & 32.10 & OK \\ 
+  011660 & Fruta congelada & 365 & 0.90 & 75.00 & 25.00 & 183.00 & 135.20 & OK \\ 
+  111116 &  & 478 & 7.00 & 75.00 & 30.00 & 300.00 & 253.30 & OK \\ 
+  A105 & Harina para puré de papa & 475 & 0.25 & 75.00 & 25.00 & 150.00 & 55.60 & OK \\ 
+  A206 & Cajeta & 1733 & 0.28 & 75.00 & 29.00 & 158.10 & 61.20 & OK \\ 
+  A189 & Mostaza & 1147 & 0.23 & 76.20 & 42.30 & 125.40 & 37.70 & OK \\ 
+  A207 & Mermeladas y jaleas & 3172 & 0.30 & 76.20 & 42.60 & 157.80 & 56.70 & OK \\ 
+  011653 & Uva & 4199 & 1.00 & 77.00 & 37.50 & 120.00 & 38.80 & OK \\ 
+  A045 & Carne de otras partes del puerco & 7870 & 1.00 & 77.00 & 40.00 & 120.00 & 41.10 & OK \\ 
+  011251 & Salchicha y salchichón de puerco & 8177 & 0.50 & 78.90 & 40.00 & 120.00 & 40.40 & OK \\ 
+  A187 & Mayonesa & 29089 & 0.30 & 78.90 & 43.90 & 131.60 & 41.50 & OK \\ 
+  011196 & Otros productos elaborados con cereales & 353 & 0.38 & 80.00 & 27.10 & 215.00 & 96.10 & OK \\ 
+  01122F & Pollo entero o en piezas (excepto pierna & 19431 & 1.00 & 80.00 & 50.00 & 126.00 & 38.80 & OK \\ 
+  01122G & Carne de otras aves & 162 & 2.00 & 80.00 & 46.30 & 199.00 & 95.10 & OK \\ 
+  011242 & Vísceras de puerco & 183 & 1.00 & 80.00 & 41.00 & 160.00 & 49.50 & OK \\ 
+  011244 & Vísceras de otros animales &  35 & 1.00 & 80.00 & 30.00 & 153.10 & 49.20 & OK \\ 
+  011433 & Crema & 17193 & 0.25 & 80.00 & 52.00 & 110.00 & 29.40 & OK \\ 
+  011641 & Fresas & 2508 & 0.50 & 80.00 & 40.00 & 163.00 & 51.40 & OK \\ 
+  011726 & Otros chiles frescos o refrigerados & 8077 & 0.23 & 80.00 & 30.00 & 217.40 & 150.60 & OK \\ 
+  011893 & Otros productos de repostería & 322 & 0.67 & 80.00 & 25.00 & 250.00 & 106.30 & OK \\ 
+  181124 & Pierna, muslo o pechuga de pollo con hueso & 23006 & 1.00 & 80.00 & 35.00 & 130.00 & 44.00 & OK \\ 
+  A039 & Pierna de puerco & 17271 & 1.00 & 80.00 & 50.00 & 120.00 & 35.90 & OK \\ 
+  A043 & Espaldilla de puerco & 2122 & 1.00 & 80.00 & 40.00 & 120.00 & 42.10 & OK \\ 
+  A049 & Chorizo de puerco & 73541 & 0.25 & 80.00 & 48.60 & 130.00 & 38.60 & OK \\ 
+  A052 & Jamón de puerco & 54387 & 0.25 & 80.00 & 45.00 & 136.20 & 42.30 & OK \\ 
+  A058 & Pierna, muslo o pechuga de pollo sin hueso & 38578 & 1.00 & 80.00 & 50.00 & 134.30 & 41.10 & OK \\ 
+  A062 & Chorizo de pollo, jam�n de pollo, pavo y otras aves; nuggets de pollo y otras aves, salchicha, mortadela, tocino de pollo, pavo y otras aves & 70279 & 0.29 & 80.00 & 40.00 & 140.00 & 44.30 & OK \\ 
+  A097 & Margarina & 2556 & 0.19 & 80.00 & 44.40 & 134.00 & 41.10 & OK \\ 
+  A144 & Semillas comestibles & 6816 & 0.25 & 80.00 & 25.00 & 230.00 & 98.70 & OK \\ 
+  A090 & Mantequilla & 14709 & 0.18 & 80.50 & 44.70 & 133.90 & 45.50 & OK \\ 
+  011944 & Epazote & 926 & 0.09 & 81.70 & 26.20 & 233.30 & 133.80 & OK \\ 
+  021220 & Sidra &   9 & 0.70 & 81.80 & 41.30 & 316.30 & 202.40 & OK \\ 
+  011210 & Animales terrestres vivos & 145 & 2.00 & 83.30 & 40.50 & 200.00 & 136.00 & OK \\ 
+  011794 & Chiles enlatados & 5996 & 0.22 & 83.30 & 48.10 & 159.10 & 46.70 & OK \\ 
+  021902 & Bebidas preparadas con alcohol &  58 & 1.00 & 83.30 & 46.50 & 131.00 & 44.00 & OK \\ 
+  A040 & Pulpa de puerco & 9965 & 1.00 & 83.30 & 60.00 & 120.00 & 30.00 & OK \\ 
+  A085 & Queso fresco & 91393 & 0.25 & 83.30 & 50.00 & 130.40 & 37.70 & OK \\ 
+  A033 & Hamburguesas de res para asar & 1181 & 0.90 & 83.50 & 35.90 & 156.00 & 101.40 & OK \\ 
+  011134 & Pan de caja & 13347 & 0.62 & 85.00 & 58.80 & 150.00 & 40.90 & OK \\ 
+  A181 & Cacao y chocolate en polvo para todos los usos & 9835 & 0.32 & 85.70 & 40.00 & 250.00 & 149.20 & OK \\ 
+  011942 & Cilantro & 11713 & 0.10 & 86.20 & 30.00 & 250.00 & 167.30 & OK \\ 
+  181147 & Licor o cremas de frutas &  12 & 0.55 & 86.70 & 43.10 & 127.20 & 28.80 & OK \\ 
+  A194 & Otros aderezos y salsas & 11414 & 0.12 & 87.90 & 25.00 & 300.00 & 172.70 & OK \\ 
+  011137 & Pan dulce a granel & 48249 & 0.34 & 88.90 & 47.40 & 160.00 & 56.60 & OK \\ 
+  A041 &  & 10911 & 0.62 & 89.00 & 60.00 & 130.00 & 31.90 & OK \\ 
+  A071 & Anguilas, angulas, hueva de pescado, mantarraya, pejelagarto & 227 & 1.00 & 89.90 & 40.00 & 160.00 & 264.60 & OK \\ 
+  111112 &  & 53675 & 1.00 & 90.00 & 50.00 & 210.00 & 98.20 & OK \\ 
+  111113 &  & 18763 & 2.00 & 90.00 & 42.50 & 200.00 & 108.70 & OK \\ 
+  A038 & Lomo de puerco & 27731 & 0.80 & 90.00 & 65.00 & 133.30 & 35.20 & OK \\ 
+  A042 & Costillas y chuleta de puerco & 22680 & 1.00 & 90.00 & 60.00 & 130.00 & 33.60 & OK \\ 
+  A050 & Chuleta y carne ahumada & 8887 & 0.60 & 90.00 & 60.00 & 133.30 & 36.00 & OK \\ 
+  A028 & Chamorro de res & 985 & 1.00 & 92.00 & 52.10 & 150.00 & 45.20 & OK \\ 
+  011235 & Mortadela & 879 & 0.40 & 93.20 & 51.70 & 160.00 & 75.70 & OK \\ 
+  181120 & Codillo de puerco & 731 & 1.00 & 93.30 & 58.00 & 150.00 & 37.70 & OK \\ 
+  011323 & Sardina enlatada & 1212 & 0.42 & 94.10 & 65.90 & 160.70 & 68.50 & OK \\ 
+  011227 & Carne de ternera & 124 & 1.00 & 94.20 & 39.40 & 200.00 & 68.70 & OK \\ 
+  181155 & Cacao y chocolate l�quido para todos los usos &  60 & 0.43 & 95.00 & 39.70 & 240.60 & 99.60 & OK \\ 
+  011473 & Otros productos de leche & 633 & 0.38 & 95.20 & 36.30 & 175.00 & 64.50 & OK \\ 
+  A014 & Pan dulce empaquetado & 16527 & 0.22 & 95.20 & 38.90 & 152.90 & 52.70 & OK \\ 
+  A068 & Atún enlatado & 31404 & 0.28 & 95.20 & 53.60 & 150.00 & 52.70 & OK \\ 
+  A145 & Semillas envasadas & 1002 & 0.19 & 95.50 & 30.00 & 236.90 & 120.70 & OK \\ 
+  A078 & Leche en polvo & 8958 & 0.80 & 95.80 & 16.00 & 250.00 & 142.40 & OK \\ 
+  011490 & Otros productos lácteos & 394 & 0.40 & 96.00 & 36.60 & 196.10 & 67.20 & OK \\ 
+  A196 & Papillas para bebé & 2165 & 0.23 & 97.30 & 60.00 & 143.90 & 54.50 & OK \\ 
+  A088 & Otros quesos & 31547 & 0.25 & 99.50 & 50.00 & 150.00 & 52.80 & OK \\ 
+  011192 & Tostadas & 9920 & 0.35 & 100.00 & 47.50 & 148.10 & 48.50 & OK \\ 
+  011195 & Otros productos de panadería & 523 & 0.34 & 100.00 & 30.00 & 185.20 & 96.00 & OK \\ 
+  011246 & Carne de otras partes del puerco & 1767 & 1.00 & 100.00 & 56.00 & 150.00 & 55.10 & OK \\ 
+  011253 & Otros embutidos y carnes procesadas & 1428 & 0.40 & 100.00 & 40.00 & 200.00 & 101.50 & OK \\ 
+  011310 & Pescado fresco & 4167 & 1.00 & 100.00 & 53.30 & 180.00 & 67.10 & OK \\ 
+  011472 & Cajeta & 334 & 0.36 & 100.00 & 39.60 & 215.90 & 90.20 & OK \\ 
+  011530 & Margarina & 869 & 0.19 & 100.00 & 66.70 & 189.90 & 61.40 & OK \\ 
+  011692 & Frutas secas & 125 & 0.25 & 100.00 & 25.00 & 250.00 & 91.00 & OK \\ 
+  011741 & Aceitunas & 368 & 0.30 & 100.00 & 28.10 & 202.30 & 79.30 & OK \\ 
+  011742 & Ajo & 6295 & 0.13 & 100.00 & 50.00 & 151.50 & 49.50 & OK \\ 
+  011744 & Champiñones & 1118 & 0.45 & 100.00 & 47.90 & 160.60 & 53.90 & OK \\ 
+  011935 & Mostaza & 380 & 0.25 & 100.00 & 54.30 & 169.20 & 52.40 & OK \\ 
+  011943 & Perejil y hierbabuena & 933 & 0.10 & 100.00 & 33.30 & 400.00 & 228.60 & OK \\ 
+  011946 & Semillas comestibles & 601 & 0.25 & 100.00 & 40.00 & 200.00 & 78.10 & OK \\ 
+  181126 & Chorizo de pollo, jam�n de pollo, pavo y otras aves; nuggets de pollo y otras aves, salchicha, mortadela, tocino de pollo, pavo y otras aves & 23878 & 0.35 & 100.00 & 59.00 & 166.70 & 53.30 & OK \\ 
+  A022 & Botanas elaboradas con cereales & 39184 & 0.15 & 100.00 & 39.40 & 192.30 & 67.30 & OK \\ 
+  A030 & Espinazo de res & 8489 & 1.00 & 100.00 & 60.00 & 166.70 & 53.00 & OK \\ 
+  A031 & Cocido de res & 8932 & 1.00 & 100.00 & 63.30 & 150.00 & 44.60 & OK \\ 
+  A034 & Molida de res & 52218 & 0.50 & 100.00 & 68.60 & 160.00 & 41.70 & OK \\ 
+  A036 & Carne de otras partes de la res & 5028 & 1.00 & 100.00 & 50.00 & 160.00 & 56.60 & OK \\ 
+  A065 & Otras carnes comestibles frescas & 241 & 1.00 & 100.00 & 38.40 & 180.00 & 74.50 & OK \\ 
+  A067 & Filetes de pescado rebozados o empanizados & 13936 & 1.00 & 100.00 & 60.00 & 170.00 & 98.60 & OK \\ 
+  A073 & Mariscos frescos & 956 & 1.00 & 100.00 & 34.50 & 214.70 & 109.40 & OK \\ 
+  A082 & Queso amarillo & 11377 & 0.19 & 100.00 & 50.00 & 166.70 & 50.30 & OK \\ 
+  A083 & Queso añejo y Cotija & 23018 & 0.25 & 100.00 & 60.00 & 140.00 & 36.40 & OK \\ 
+  A087 & Queso Oaxaca o asadero & 47174 & 0.25 & 100.00 & 60.00 & 144.00 & 40.10 & OK \\ 
+  A134 & Chiles secos o en polvo & 24460 & 0.12 & 100.00 & 40.00 & 200.00 & 108.10 & OK \\ 
+  A172 & Frutas secas & 2371 & 0.24 & 100.00 & 37.50 & 200.00 & 86.40 & OK \\ 
+  A174 & Miel de abeja & 1481 & 0.50 & 100.00 & 47.00 & 173.30 & 75.20 & OK \\ 
+  A178 &  & 10069 & 0.15 & 100.00 & 40.00 & 200.00 & 139.10 & OK \\ 
+  A185 & Otras hierbas culinarias (hierbas de olor) & 2094 & 0.05 & 100.00 & 33.30 & 500.00 & 269.20 & OK \\ 
+  A200 & Pollos rostizados & 48404 & 1.00 & 100.00 & 60.00 & 178.00 & 2710.00 & OK \\ 
+  A212 & Alimentos y/o bebidas en paquete, despensa de alimentos que otorgan otros hogares & 795 & 1.00 & 100.00 & 20.00 & 236.00 & 161.30 & OK \\ 
+  A232 & Sidra &  10 & 0.65 & 100.50 & 41.20 & 381.60 & 769.50 & OK \\ 
+  181121 & Espaldilla de puerco & 388 & 1.00 & 101.60 & 50.00 & 150.00 & 42.50 & OK \\ 
+  011140 & Cereales para el desayuno & 7058 & 0.50 & 101.70 & 49.00 & 175.00 & 70.10 & OK \\ 
+  A188 & Mole en pasta o en polvo & 9025 & 0.25 & 101.70 & 52.50 & 168.00 & 52.70 & OK \\ 
+  A047 & Carne adobada o enchilada & 3888 & 0.50 & 102.10 & 70.10 & 160.00 & 49.30 & OK \\ 
+  011832 & Otras mieles & 116 & 0.35 & 103.60 & 44.80 & 194.00 & 61.00 & OK \\ 
+  011833 & Mermeladas y jaleas & 842 & 0.28 & 103.90 & 67.40 & 169.60 & 47.70 & OK \\ 
+  A029 &  & 4780 & 1.00 & 103.90 & 65.00 & 160.00 & 55.90 & OK \\ 
+  011834 & Ate y dulces a base de frutas & 124 & 0.25 & 104.00 & 30.00 & 224.10 & 76.80 & OK \\ 
+  A084 & Queso Chihuahua & 18466 & 0.30 & 104.00 & 71.40 & 160.00 & 42.30 & OK \\ 
+  011992 & Gelatina en polvo & 1890 & 0.24 & 104.20 & 60.80 & 153.60 & 71.50 & OK \\ 
+  011229 & Pierna de puerco & 4587 & 1.00 & 105.00 & 64.40 & 150.00 & 43.20 & OK \\ 
+  011923 & Cereales para bebé & 163 & 0.50 & 105.00 & 28.00 & 233.30 & 100.80 & OK \\ 
+  011135 & Galletas dulces & 26694 & 0.20 & 105.90 & 56.00 & 171.40 & 54.60 & OK \\ 
+  011925 & Otros alimentos para bebé &  19 & 1.00 & 106.20 & 13.80 & 343.30 & 246.50 & OK \\ 
+  A231 & Rompope &  72 & 1.00 & 106.30 & 50.20 & 166.00 & 71.70 & OK \\ 
+  011938 & Otros aderezos y salsas & 1474 & 0.22 & 106.70 & 50.00 & 320.00 & 191.70 & OK \\ 
+  181167 & Semillas procesadas & 476 & 0.20 & 107.90 & 49.00 & 200.00 & 69.60 & OK \\ 
+  011255 & Nuggets de otras carnes & 273 & 0.50 & 108.00 & 59.10 & 179.60 & 56.50 & OK \\ 
+  011247 & Espinazo de res & 561 & 1.00 & 110.00 & 55.00 & 180.00 & 48.60 & OK \\ 
+  181125 & Pierna, muslo o pechuga de pollo sin hueso & 11847 & 1.00 & 110.00 & 70.80 & 173.00 & 49.10 & OK \\ 
+  011520 & Mantequilla & 3890 & 0.18 & 111.40 & 72.00 & 177.80 & 52.60 & OK \\ 
+  011231 & Jamón de puerco & 11399 & 0.25 & 112.00 & 62.50 & 160.00 & 54.50 & OK \\ 
+  A106 & Papas fritas en bolsa o a granel & 23353 & 0.15 & 112.70 & 45.50 & 203.70 & 69.80 & OK \\ 
+  011136 & Galletas saladas & 6565 & 0.19 & 113.30 & 68.10 & 155.90 & 43.80 & OK \\ 
+  011252 & Chorizo de puerco & 18062 & 0.30 & 114.30 & 70.00 & 170.00 & 50.10 & OK \\ 
+  A017 & Pasteles y pastelillos empaquetados & 4842 & 0.15 & 114.70 & 55.60 & 200.00 & 79.60 & OK \\ 
+  181123 & Chivo y cabrito &  45 & 0.50 & 115.00 & 50.00 & 250.00 & 125.80 & OK \\ 
+  011934 & Mayonesa & 7420 & 0.35 & 117.20 & 71.90 & 189.50 & 53.60 & OK \\ 
+  181112 & Despensa de alimentos que otorgan organizaciones privadas o de gobierno &  32 & 1.00 & 117.50 & 40.00 & 295.00 & 117.20 & OK \\ 
+  011228 & Costillas y chuleta de puerco & 7062 & 1.00 & 120.00 & 86.70 & 160.00 & 48.80 & OK \\ 
+  01122A & Pulpa de puerco & 2791 & 1.00 & 120.00 & 86.00 & 159.70 & 40.40 & OK \\ 
+  01122B & Lomo de puerco & 861 & 1.00 & 120.00 & 90.00 & 164.00 & 41.50 & OK \\ 
+  01122C & Milanesa & 6054 & 1.00 & 120.00 & 95.00 & 160.00 & 33.70 & OK \\ 
+  01122D & Carne de cordero y cabra fresca &  29 & 1.00 & 120.00 & 54.70 & 226.00 & 99.50 & OK \\ 
+  011233 & Chuleta y carne ahumada & 2650 & 0.80 & 120.00 & 80.00 & 160.00 & 45.30 & OK \\ 
+  011332 & Surimi y otras preparaciones de pescado & 153 & 0.50 & 120.00 & 75.40 & 240.00 & 77.40 & OK \\ 
+  011451 & Queso fresco & 26796 & 0.30 & 120.00 & 75.00 & 180.00 & 50.50 & OK \\ 
+  011593 & Otras grasas animales comestibles &  85 & 0.25 & 120.00 & 36.40 & 200.00 & 69.80 & OK \\ 
+  011670 & Frutos secos o deshidratados & 522 & 0.25 & 120.00 & 60.00 & 253.00 & 165.80 & OK \\ 
+  011831 & Miel de abeja & 414 & 0.50 & 120.00 & 36.60 & 240.00 & 103.20 & OK \\ 
+  181122 & Molida de puerco & 3017 & 0.77 & 120.00 & 85.00 & 160.00 & 35.30 & OK \\ 
+  181158 & Hamburguesas de res para asar & 203 & 0.90 & 120.00 & 56.10 & 191.90 & 101.60 & OK \\ 
+  A035 & Pulpa de res en trozo & 7680 & 0.79 & 120.00 & 75.00 & 170.00 & 49.50 & OK \\ 
+  A048 & Chicharrón & 36199 & 0.25 & 120.00 & 66.70 & 200.00 & 55.20 & OK \\ 
+  A054 & Tocino de puerco & 6383 & 0.25 & 120.00 & 60.00 & 220.00 & 73.90 & OK \\ 
+  A056 & Otros embutidos y carnes procesadas & 8245 & 0.50 & 120.00 & 31.30 & 220.00 & 78.50 & OK \\ 
+  A063 & Carne de cordero y cabra fresca & 109 & 1.00 & 120.00 & 66.00 & 208.00 & 570.30 & OK \\ 
+  A064 & Chivo y cabrito &  84 & 1.00 & 120.00 & 50.80 & 194.00 & 203.40 & OK \\ 
+  A198 & Pizzas preparadas & 16846 & 1.00 & 120.00 & 69.00 & 230.00 & 2966.40 & OK \\ 
+  A023 & Sopas instantáneas & 9597 & 0.17 & 121.60 & 35.00 & 208.00 & 67.40 & OK \\ 
+  A086 & Queso Manchego & 9718 & 0.25 & 121.90 & 75.00 & 200.00 & 56.40 & OK \\ 
+  A027 & Milanesa de res & 9271 & 0.80 & 123.10 & 80.00 & 180.00 & 47.50 & OK \\ 
+  181127 & Filete de pescado & 2762 & 1.00 & 124.00 & 79.00 & 200.00 & 83.70 & OK \\ 
+  011256 & Otros preparados de carne fresca & 365 & 0.75 & 125.00 & 68.80 & 230.50 & 95.20 & OK \\ 
+  011331 & Filetes de pescado rebozados o empanizados & 564 & 1.00 & 125.00 & 63.50 & 240.00 & 87.30 & OK \\ 
+  011991 & Levaduras y preparaciones para postres & 216 & 0.18 & 125.00 & 59.50 & 228.60 & 118.80 & OK \\ 
+  A025 & Bistec de res & 80459 & 0.75 & 125.00 & 84.00 & 180.00 & 41.70 & OK \\ 
+  A074 & Camarón y otros mariscos congelados & 1504 & 0.26 & 125.00 & 60.00 & 280.00 & 105.70 & OK \\ 
+  A209 & Dulces y golosinas & 16468 & 0.06 & 125.00 & 31.20 & 400.00 & 223.00 & OK \\ 
+  181151 & Jerez &  19 & 0.70 & 126.00 & 47.80 & 213.80 & 124.70 & OK \\ 
+  011852 & Cacao y chocolate en polvo para todos los usos & 1920 & 0.35 & 126.50 & 54.00 & 400.00 & 232.40 & OK \\ 
+  011454 & Queso Oaxaca o asadero & 12850 & 0.27 & 128.00 & 80.00 & 192.00 & 50.00 & OK \\ 
+  011455 & Queso añejo y Cotija & 4887 & 0.25 & 129.90 & 80.00 & 197.30 & 44.00 & OK \\ 
+  011225 & Retazo de res & 826 & 1.00 & 130.00 & 80.00 & 190.00 & 52.40 & OK \\ 
+  181116 & Chamorro de res & 382 & 1.00 & 130.00 & 75.20 & 181.80 & 52.70 & OK \\ 
+  A072 & Camarón fresco & 7629 & 1.00 & 130.00 & 60.00 & 240.00 & 81.70 & OK \\ 
+  A016 & Pasteles y pastelillos en piezas o a granel & 3175 & 1.00 & 130.40 & 37.90 & 300.00 & 147.30 & OK \\ 
+  011995 & Otros productos alimenticios & 140 & 0.20 & 131.00 & 38.70 & 254.20 & 81.80 & OK \\ 
+  011922 & Papillas para bebé & 341 & 0.25 & 131.60 & 80.00 & 195.60 & 80.60 & OK \\ 
+  01122H & Otras carnes comestibles frescas &  35 & 1.00 & 133.30 & 70.00 & 384.70 & 157.30 & OK \\ 
+  A032 & Cortes especiales de res & 1013 & 1.00 & 133.30 & 78.60 & 250.00 & 99.30 & OK \\ 
+  A180 & Chocolate en barra o tableta & 7218 & 0.09 & 133.30 & 54.50 & 366.70 & 185.70 & OK \\ 
+  021213 & Aperitivos y bebidas a base de vino &  14 & 0.82 & 135.00 & 83.30 & 242.80 & 66.60 & OK \\ 
+  181119 & Carne de otras partes de la res & 730 & 1.00 & 135.50 & 69.00 & 208.40 & 70.60 & OK \\ 
+  011138 & Pan dulce empaquetado & 4003 & 0.22 & 136.10 & 60.00 & 217.40 & 71.60 & OK \\ 
+  181117 & Cocido de res & 1818 & 1.00 & 136.10 & 94.60 & 200.00 & 58.50 & OK \\ 
+  011841 & Crema de cacahuate & 221 & 0.45 & 136.40 & 50.00 & 235.30 & 107.70 & OK \\ 
+  181128 & Anguilas, angulas, hueva de pescado, mantarraya, pejelagarto &  52 & 1.00 & 136.70 & 61.00 & 294.60 & 407.90 & OK \\ 
+  011342 & Mariscos frescos & 212 & 1.00 & 137.50 & 59.60 & 300.00 & 120.50 & OK \\ 
+  011191 & Botanas elaboradas con cereales & 5832 & 0.17 & 137.90 & 50.00 & 264.70 & 97.50 & OK \\ 
+  011432 & Leche en polvo & 1064 & 0.75 & 138.80 & 33.30 & 300.00 & 167.50 & OK \\ 
+  011456 & Otros quesos & 3733 & 0.25 & 138.90 & 79.10 & 230.00 & 79.90 & OK \\ 
+  011222 & Chuleta y costilla de res & 1930 & 1.00 & 140.00 & 96.70 & 200.00 & 51.90 & OK \\ 
+  011224 & Molida de res & 15315 & 0.75 & 140.00 & 95.00 & 200.00 & 54.70 & OK \\ 
+  011254 & Carne adobada o enchilada & 1382 & 0.50 & 140.00 & 88.80 & 203.80 & 71.90 & OK \\ 
+  011452 & Queso amarillo & 2931 & 0.20 & 140.00 & 67.20 & 225.70 & 70.40 & OK \\ 
+  011793 & Chiles secos o en polvo & 6133 & 0.15 & 140.00 & 60.00 & 266.50 & 270.00 & OK \\ 
+  111115 &  & 292 & 2.00 & 140.00 & 35.00 & 400.00 & 251.60 & OK \\ 
+  011322 & Atún enlatado & 7575 & 0.29 & 142.40 & 78.60 & 200.00 & 68.60 & OK \\ 
+  011226 & Otros cortes de res & 1489 & 1.00 & 142.90 & 92.70 & 220.10 & 80.50 & OK \\ 
+  181140 & Semillas envasadas &  56 & 0.20 & 145.00 & 22.50 & 364.70 & 295.10 & OK \\ 
+  181132 & Queso Chihuahua & 4308 & 0.40 & 146.70 & 100.00 & 200.00 & 52.80 & OK \\ 
+  011232 & Tocino de puerco & 2377 & 0.25 & 148.00 & 80.00 & 300.00 & 134.90 & OK \\ 
+  011842 & Otras mantequillas y cremas & 183 & 0.30 & 148.60 & 65.80 & 280.00 & 122.10 & OK \\ 
+  011933 & Mole en pasta o en polvo & 2306 & 0.25 & 148.90 & 75.00 & 224.00 & 62.20 & OK \\ 
+  011321 & Pescado ahumado & 451 & 0.50 & 149.30 & 64.70 & 266.70 & 98.00 & OK \\ 
+  011680 & Nueces y otros frutos secos & 1863 & 0.25 & 150.00 & 50.00 & 300.00 & 121.00 & OK \\ 
+  012302 & Flor y hojas para infusiones & 2867 & 0.15 & 150.00 & 60.00 & 300.00 & 182.70 & OK \\ 
+  111125 & Pizzas preparadas & 5243 & 1.00 & 150.00 & 90.00 & 260.00 & 8900.80 & OK \\ 
+  111126 & Pollos rostizados & 12820 & 1.00 & 150.00 & 95.00 & 230.00 & 7386.70 & OK \\ 
+  A026 & Arrachera & 1690 & 1.00 & 150.00 & 99.90 & 260.00 & 79.20 & OK \\ 
+  181111 & Alimentos y/o bebidas en paquete, despensa de alimentos que otorgan otros hogares & 106 & 1.00 & 154.00 & 37.00 & 389.00 & 160.40 & OK \\ 
+  011360 & Otras preparaciones de mariscos &  85 & 1.00 & 155.00 & 69.20 & 312.00 & 104.10 & OK \\ 
+  181149 & Rompope &  23 & 1.00 & 155.00 & 80.00 & 238.30 & 59.40 & OK \\ 
+  A225 & An�s (licor) &  12 & 0.50 & 155.00 & 43.50 & 265.50 & 100.30 & OK \\ 
+  011223 & Cortes especiales de res & 301 & 1.00 & 160.00 & 90.00 & 300.00 & 123.50 & OK \\ 
+  011592 & Chicharrón & 9271 & 0.25 & 160.00 & 96.70 & 280.00 & 81.40 & OK \\ 
+  011642 & Otras bayas & 261 & 0.30 & 160.00 & 60.00 & 339.00 & 132.10 & OK \\ 
+  181118 & Pulpa de res en trozo & 1762 & 1.00 & 160.00 & 109.90 & 204.80 & 58.50 & OK \\ 
+  A234 & Vino de uva & 584 & 0.90 & 160.00 & 67.50 & 387.60 & 167.10 & OK \\ 
+  181146 & An�s (licor) &   6 & 0.64 & 160.80 & 50.50 & 459.80 & 199.40 & OK \\ 
+  181168 & Otras especias & 1001 & 0.09 & 163.30 & 50.00 & 533.30 & 287.10 & OK \\ 
+  011352 & Mariscos en conserva &  13 & 0.36 & 166.00 & 110.50 & 494.10 & 179.80 & OK \\ 
+  011945 & Otras hierbas culinarias (hierbas de olor) & 528 & 0.06 & 166.70 & 50.00 & 743.00 & 383.40 & OK \\ 
+  181131 & Queso Manchego & 2714 & 0.25 & 167.90 & 100.00 & 256.90 & 73.30 & OK \\ 
+  A235 & Vodka &  65 & 1.00 & 168.00 & 73.00 & 371.60 & 183.00 & OK \\ 
+  181115 & Milanesa de res & 2412 & 0.88 & 169.50 & 106.30 & 230.00 & 66.60 & OK \\ 
+  011341 & Camarón fresco & 2503 & 1.00 & 170.00 & 90.00 & 260.00 & 80.30 & OK \\ 
+  181153 & Filete de res & 462 & 1.00 & 170.00 & 114.10 & 260.00 & 97.70 & OK \\ 
+  011221 & Bistec de res & 20907 & 1.00 & 172.00 & 120.00 & 216.00 & 50.90 & OK \\ 
+  A079 & Fórmula de leche maternizada & 3019 & 0.90 & 175.00 & 15.00 & 472.50 & 213.90 & OK \\ 
+  011796 & Papas fritas en bolsa o a granel & 9517 & 0.15 & 178.60 & 75.00 & 322.60 & 189.40 & OK \\ 
+  011139 & Pasteles y pastelillos en piezas o a granel & 924 & 1.00 & 180.00 & 44.10 & 416.70 & 202.90 & OK \\ 
+  01113A & Pasteles y pastelillos empaquetados & 1019 & 0.14 & 180.00 & 84.10 & 300.00 & 95.30 & OK \\ 
+  A199 & Carnitas & 13863 & 0.80 & 180.00 & 83.30 & 280.00 & 445.70 & OK \\ 
+  A230 & Ron: añejo &  88 & 0.75 & 182.20 & 88.10 & 320.50 & 164.30 & OK \\ 
+  A204 & Insectos & 197 & 0.15 & 185.20 & 80.00 & 400.00 & 533.90 & OK \\ 
+  A223 & Coñac y brandy &  90 & 0.75 & 186.70 & 107.60 & 402.90 & 327.20 & OK \\ 
+  A182 & Otros chocolates & 3346 & 0.09 & 187.50 & 33.30 & 640.00 & 325.30 & OK \\ 
+  181150 & Vodka &  32 & 1.00 & 187.80 & 63.90 & 499.20 & 201.50 & OK \\ 
+  A176 & Café en grano o molido & 12726 & 0.12 & 190.00 & 55.60 & 625.00 & 265.40 & OK \\ 
+  011324 & Otros pescados en conserva &  84 & 0.43 & 190.10 & 89.80 & 533.30 & 200.20 & OK \\ 
+  181114 & Arrachera & 531 & 1.00 & 195.00 & 120.00 & 315.00 & 138.80 & OK \\ 
+  A233 & Tequila & 577 & 1.00 & 197.00 & 71.90 & 502.70 & 434.70 & OK \\ 
+  011851 & Chocolate en barra o tableta & 1993 & 0.09 & 197.20 & 83.30 & 600.00 & 308.70 & OK \\ 
+  01122I & Insectos &  30 & 0.25 & 200.00 & 97.00 & 400.00 & 132.10 & OK \\ 
+  011343 & Camarón y otros mariscos congelados & 186 & 1.00 & 200.00 & 80.90 & 299.70 & 84.10 & OK \\ 
+  011351 & Mariscos ahumados & 247 & 0.25 & 200.00 & 100.00 & 400.00 & 142.90 & OK \\ 
+  011891 & Dulces y golosinas & 3858 & 0.07 & 200.00 & 32.80 & 619.20 & 291.70 & OK \\ 
+  021211 & Vino de uva & 137 & 0.90 & 200.00 & 86.20 & 529.30 & 276.20 & OK \\ 
+  A051 & Machaca y carne seca & 5620 & 0.25 & 200.00 & 100.00 & 400.00 & 140.40 & OK \\ 
+  A184 & Clavo & 431 & 0.03 & 200.00 & 50.00 & 500.00 & 260.70 & OK \\ 
+  A190 & Pimienta & 4706 & 0.02 & 200.00 & 60.00 & 500.00 & 258.30 & OK \\ 
+  A201 & Barbacoa o birria & 14074 & 1.00 & 200.00 & 70.00 & 320.00 & 117.40 & OK \\ 
+  011912 & Sopas instantáneas & 3472 & 0.16 & 204.80 & 56.50 & 289.10 & 114.00 & OK \\ 
+  012202 & Café en grano o molido & 2376 & 0.25 & 210.00 & 80.00 & 666.70 & 266.50 & OK \\ 
+  A186 & Concentrados para caldo & 42638 & 0.02 & 227.30 & 50.00 & 454.50 & 215.60 & OK \\ 
+  A183 & Canela & 7918 & 0.04 & 230.00 & 55.40 & 700.00 & 294.10 & OK \\ 
+  021101 & Coñac y brandy &  23 & 0.70 & 240.00 & 37.50 & 514.30 & 166.80 & OK \\ 
+  111122 & Carnitas & 4267 & 1.00 & 240.00 & 100.00 & 360.00 & 104.90 & OK \\ 
+  011234 & Machaca y carne seca & 2096 & 0.30 & 250.00 & 140.00 & 500.00 & 175.90 & OK \\ 
+  181143 & Pimienta & 1093 & 0.04 & 250.00 & 83.30 & 1000.00 & 360.00 & OK \\ 
+  A179 &  & 3308 & 0.05 & 250.00 & 21.60 & 800.00 & 431.30 & OK \\ 
+  011853 & Otros chocolates & 213 & 0.12 & 266.70 & 44.20 & 930.90 & 450.40 & OK \\ 
+  111121 & Barbacoa o birria & 4155 & 1.00 & 266.70 & 100.00 & 420.00 & 3105.10 & OK \\ 
+  A219 & Concentrados y polvos para preparar bebidas & 38720 & 0.03 & 266.70 & 38.00 & 466.70 & 221.60 & OK \\ 
+  011993 & Concentrados para caldo & 7087 & 0.02 & 272.70 & 83.20 & 600.00 & 296.30 & OK \\ 
+  011921 & Fórmula de leche maternizada & 708 & 1.00 & 275.00 & 9.60 & 793.10 & 351.00 & OK \\ 
+  012301 & Bolsas de té & 923 & 0.09 & 280.00 & 28.00 & 1000.00 & 517.70 & OK \\ 
+  021103 & Tequila & 162 & 0.80 & 286.10 & 90.00 & 779.30 & 309.50 & OK \\ 
+  021102 & Ron: añejo &  15 & 1.00 & 286.70 & 136.00 & 586.00 & 176.30 & OK \\ 
+  A069 & Salm�n y bacalao procesado & 511 & 0.50 & 300.00 & 80.00 & 600.00 & 249.10 & OK \\ 
+  181145 & Clavo & 128 & 0.03 & 300.20 & 100.00 & 1000.00 & 435.60 & ALTO: revisar (pieza o producto premium) \\ 
+  181144 & Canela & 1779 & 0.05 & 333.30 & 100.00 & 1000.00 & 386.50 & ALTO: revisar (pieza o producto premium) \\ 
+  A236 & Whisky & 184 & 0.75 & 350.00 & 153.00 & 1048.40 & 475.00 & ALTO: revisar (pieza o producto premium) \\ 
+  021212 & Champagne &   3 & 0.75 & 354.70 & 208.50 & 550.90 & 214.80 & ALTO: revisar (pieza o producto premium) \\ 
+  181157 & Salm�n y bacalao procesado & 160 & 0.50 & 399.00 & 160.50 & 747.50 & 253.00 & ALTO: revisar (pieza o producto premium) \\ 
+  021104 & Whisky &  46 & 0.75 & 409.70 & 220.00 & 1155.00 & 361.30 & ALTO: revisar (pieza o producto premium) \\ 
+  A177 & Café soluble & 50309 & 0.05 & 420.00 & 87.30 & 800.00 & 318.30 & ALTO: revisar (pieza o producto premium) \\ 
+  012905 & Concentrados y polvos para preparar bebidas & 5301 & 0.03 & 428.60 & 52.00 & 692.30 & 321.30 & ALTO: revisar (pieza o producto premium) \\ 
+  012201 & Café soluble & 12202 & 0.06 & 571.40 & 120.00 & 1000.00 & 391.70 & ALTO: revisar (pieza o producto premium) \\ 
+  A241 &  &  26 & 0.05 & 1000.00 & 125.00 & 13333.30 & 19940.10 & MUY ALTO: posible unidad = pieza cara \\ 
+  A239 &  & 41910 & 0.03 & 2000.00 & 766.70 & 4200.00 & 2049.90 & MUY ALTO: posible unidad = pieza cara \\ 
+  023020 &  &  16 & 0.01 & 2500.00 & 716.70 & 7500.00 & 2839.40 & MUY ALTO: posible unidad = pieza cara \\ 
+  023090 &  &  13 & 0.03 & 2666.70 & 452.00 & 7000.00 & 2648.80 & MUY ALTO: posible unidad = pieza cara \\ 
+  023010 &  & 9014 & 0.03 & 2833.30 & 1000.00 & 6000.00 & 4567.10 & MUY ALTO: posible unidad = pieza cara \\ 
+  A240 &  &  13 & 0.10 & 3300.00 & 190.00 & 4000.00 & 2792.10 & MUY ALTO: posible unidad = pieza cara \\ 
+   \bottomrule
+\end{tabular}
+\end{table}
