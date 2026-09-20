@@ -213,6 +213,10 @@ table3_html <- by_group %>%
   row_spec(1, background = "#FFFDE7", bold = TRUE)
 
 # ── TABLE 4 · Categories covered by Kantar ────────────────────────────────────
+
+# Limpiar encoding antes de crear la tabla
+by_group <- by_group %>%
+  mutate(concept = iconv(concept, from = "latin1", to = "UTF-8", sub = "byte"))
 table4_html <- by_group %>%
   filter(source == "Kantar") %>%
   arrange(group) %>%
