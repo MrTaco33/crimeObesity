@@ -1,0 +1,34 @@
+\begin{table}
+\centering
+\begin{talltblr}[         %% tabularray outer open
+caption={Especificaciones con efectos fijos},
+note{}={* p \num{< 0.1}, ** p \num{< 0.05}, *** p \num{< 0.01}},
+note{ }={Errores est\textbackslash{}'\{a\}ndar clusterizados a nivel municipio en par\textbackslash{}'\{e\}ntesis.},
+]                     %% tabularray outer close
+{                     %% tabularray inner open
+colspec={Q[]Q[]Q[]Q[]Q[]},
+hline{2}={1-5}{solid, black, 0.05em},
+hline{9}={1-5}{solid, black, 0.05em},
+hline{1}={1-5}{solid, black, 0.08em},
+hline{17}={1-5}{solid, black, 0.08em},
+column{2-5}={}{halign=c},
+column{1}={}{halign=l},
+}                     %% tabularray inner close
+& Solo FE mun. & Two-way FE & Two-way FE + integ. & Two-way FE + controles \\
+Log(tasa homicidios \$+\$ 1) & \num{-0.019} & \num{-0.017} & \num{-0.016} & \num{-0.007} \\
+& (\num{0.018}) & (\num{0.017}) & (\num{0.017}) & (\num{0.014}) \\
+Integrantes del hogar &  &  & \num{-0.086}*** & \num{-0.146}*** \\
+&  &  & (\num{0.002}) & (\num{0.002}) \\
+FE municipio & Sí & Sí & Sí & Sí \\
+FE tiempo & No & Sí & Sí & Sí \\
+Cobertura cat\textbackslash{}'\{a\}logo &  &  &  & \num{2.221}*** \\
+&  &  &  & (\num{0.022}) \\
+Num.Obs. & \num{437816} & \num{437816} & \num{437816} & \num{437816} \\
+R2 & \num{0.050} & \num{0.052} & \num{0.097} & \num{0.343} \\
+R2 Adj. & \num{0.046} & \num{0.048} & \num{0.093} & \num{0.341} \\
+R2 Within & \num{0.000} & \num{0.000} & \num{0.048} & \num{0.307} \\
+R2 Within Adj. & \num{0.000} & \num{0.000} & \num{0.048} & \num{0.307} \\
+FE: municipio\_id & X & X & X & X \\
+FE: time\_id &  & X & X & X \\
+\end{talltblr}
+\end{table}

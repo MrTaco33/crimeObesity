@@ -1,0 +1,42 @@
+\begin{table}
+\centering
+\begin{talltblr}[         %% tabularray outer open
+caption={Ingesta calórica per cápita y tasa de homicidios (log-log)},
+note{}={* p \num{< 0.1}, ** p \num{< 0.05}, *** p \num{< 0.01}},
+note{ }={Errores estándar clusterizados a nivel municipio en paréntesis.},
+]                     %% tabularray outer close
+{                     %% tabularray inner open
+colspec={Q[]Q[]Q[]Q[]Q[]Q[]Q[]Q[]},
+hline{2}={1-8}{solid, black, 0.05em},
+hline{13}={1-8}{solid, black, 0.05em},
+hline{1}={1-8}{solid, black, 0.08em},
+hline{25}={1-8}{solid, black, 0.08em},
+column{2-8}={}{halign=c},
+column{1}={}{halign=l},
+}                     %% tabularray inner close
+& (1) & (2) & (3) & (4) & (5) & (6) & (7) \\
+Log(tasa homicidios \$+\$ 1) & \num{-0.110}*** & \num{-0.144}*** & \num{-0.137}*** & \num{-0.042}*** & \num{-0.007} & \num{0.006} & \num{0.010} \\
+& (\num{0.030}) & (\num{0.037}) & (\num{0.037}) & (\num{0.015}) & (\num{0.014}) & (\num{0.013}) & (\num{0.012}) \\
+Log(tasa homicidios) \$t-1\$ &  &  &  &  &  & \num{-0.035}*** & \num{-0.029}** \\
+&  &  &  &  &  & (\num{0.013}) & (\num{0.014}) \\
+Log(tasa homicidios) \$t-2\$ &  &  &  &  &  &  & \num{-0.005} \\
+&  &  &  &  &  &  & (\num{0.013}) \\
+Integrantes del hogar &  & \num{-0.137}*** & \num{-0.138}*** & \num{-0.143}*** & \num{-0.146}*** & \num{-0.148}*** & \num{-0.151}*** \\
+&  & (\num{0.002}) & (\num{0.002}) & (\num{0.002}) & (\num{0.002}) & (\num{0.002}) & (\num{0.002}) \\
+FE año & No & No & Sí & Sí & No & No & No \\
+FE entidad & No & No & No & Sí & No & No & No \\
+FE municipio & No & No & No & No & Sí & Sí & Sí \\
+FE tiempo & No & No & No & No & Sí & Sí & Sí \\
+Cobertura cat\textbackslash{}'\{a\}logo &  & \num{2.167}*** & \num{2.176}*** & \num{2.227}*** & \num{2.221}*** & \num{2.229}*** & \num{2.252}*** \\
+&  & (\num{0.025}) & (\num{0.025}) & (\num{0.022}) & (\num{0.022}) & (\num{0.022}) & (\num{0.022}) \\
+Num.Obs. & \num{437816} & \num{437816} & \num{437816} & \num{437816} & \num{437816} & \num{424159} & \num{406433} \\
+R2 & \num{0.001} & \num{0.289} & \num{0.290} & \num{0.319} & \num{0.343} & \num{0.348} & \num{0.351} \\
+R2 Adj. & \num{0.001} & \num{0.289} & \num{0.290} & \num{0.319} & \num{0.341} & \num{0.345} & \num{0.349} \\
+R2 Within &  &  & \num{0.289} & \num{0.303} & \num{0.307} & \num{0.313} & \num{0.318} \\
+R2 Within Adj. &  &  & \num{0.289} & \num{0.303} & \num{0.307} & \num{0.313} & \num{0.318} \\
+FE: municipio\_id &  &  &  &  & X & X & X \\
+FE: time\_id &  &  &  &  & X & X & X \\
+FE: year &  &  & X & X &  &  &  \\
+FE: entidad &  &  &  & X &  &  &  \\
+\end{talltblr}
+\end{table}
