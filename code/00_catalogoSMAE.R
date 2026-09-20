@@ -276,4 +276,4 @@ write_csv(smae, "data/processed/smae.csv")
 
 
 ##### Guardar también la base para cruzar con enigh
-write_csv(catalogo_enigh_2024)
+write_csv(catalogo2024, "data/processed/catalogoCruzadoENIGH.csv")
